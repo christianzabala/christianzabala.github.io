@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Divide and Conquer the Network"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Christian Philip Zabala"
+description              : "A Jekyll theme for my Networking Journey Blog."
 url                      : https://christianzabala.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,8 +107,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Christian Philip Zabala"
+  avatar           : /assets/images/z2.png"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
