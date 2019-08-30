@@ -2,10 +2,15 @@
 permalink: /about/
 title: "About"
 excerpt: "Christian Philip Zabala About"
-layouts_gallery:
-  - url: /assets/images/csz.png
-    image_path: /assets/images/csz.png
-    alt: "Christian Philip Zabala"
+categories:
+  - Markup
+tags:
+  - alignment
+  - captions
+  - content
+  - css
+  - image
+  - markup
 last_modified_at: 2019-08-30
 ---
 
