@@ -116,9 +116,7 @@ author:
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/christian-philip-zabala/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       url: "https://github.com/christianzabala"
+
 
 # Site Footer
 footer:
