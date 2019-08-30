@@ -1,15 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-categories:
-  - Markup
-tags:
-  - alignment
-  - captions
-  - content
-  - css
-  - image
-  - markup
 ---
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/csz.png){: .align-right}
