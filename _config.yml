@@ -108,11 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "Christian Philip Zabala"
-  avatar           : /assets/images/z1.jpg"
+  avatar           : /assets/images/csz.png"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/christianzabala/"
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/christian-philip-zabala/"
@@ -121,6 +124,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/christianzabala/"
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/christian-philip-zabala/"
