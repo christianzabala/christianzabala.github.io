@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Christian Philip Zabala About"
 categories:
   - Markup
 tags:
@@ -11,7 +10,6 @@ tags:
   - css
   - image
   - markup
-last_modified_at: 2019-08-30
 ---
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/csz.png){: .align-right}
