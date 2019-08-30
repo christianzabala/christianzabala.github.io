@@ -107,11 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Christian Philip Zabala"
-  avatar           : /assets/images/csz.png"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name   : "Christian Philip Zabala"
+  avatar : "/assets/images/csz.png"
+  bio    : "My Networking Career Journey"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
