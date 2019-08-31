@@ -269,6 +269,9 @@ defaults:
       comments: # true
       share: true
       related: true
+    header:
+      teaser: "/assets/images/csz.png"   
+      
   # _pages
   - scope:
       path: "_pages"
