@@ -270,7 +270,7 @@ defaults:
       share: true
       related: true
     header:
-      teaser: "/assets/images/csz.png"   
+      teaser: "/assets/images/zpic2.png"   
       
   # _pages
   - scope:
