@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 ---
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/csz.png){: .align-right}
