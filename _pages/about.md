@@ -2,9 +2,6 @@
 permalink: /about/
 title: "About"
 layout: splash
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/zpic2.png
 ---
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/csz.png){: .align-right}
     
