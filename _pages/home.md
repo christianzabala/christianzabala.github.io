@@ -1,13 +1,9 @@
 ---
-layout: splash
+layout: home
 permalink: /
+title: "Devide and Conquer the Network"
 header:
-  overlay_color: "#5e616c"
   overlay_image: /assets/images/zpic2.png
-
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.6">Latest release v4.16.6</a></small>
      
 ---
 
