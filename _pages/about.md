@@ -17,10 +17,11 @@ Previously I worked as a Technical Engineer where I have different Projects that
 
 Aside from Technology, I also enjoy watching movies, documentaries videos, and going out with my family or friends to eat and have some beers.
 
-NOTE: 
-All of the content of this blog are expressed on my own opinions or my personal point of view, and does not represent the views of others or any organization. Perhaps it may not even represent my own opinion by the time you have read the topics.  
-I’m not a perfect person and only have few experiences in the IT industry, so the content of this blog might have an incorrect information, misspelled words, incorrect grammar, and other issues since I’m not fluent in speaking and writing in English. But I always do my best to only share the things that I am sure about and have double check it. I will also update the contents on the posts that I shared once I realized that there is something wrong or missing, or have experience something that might improve a post.
+**NOTE:** 
+- All of the content of this blog are expressed on my own opinions or my personal point of view, and does not represent the views of others or any organization. Perhaps it may not even represent my own opinion by the time you have read the topics.  
 
+- I’m not a perfect person and only have few experiences in the IT industry, so the content of this blog might have an incorrect information, misspelled words, incorrect grammar, and other issues since I’m not fluent in speaking and writing in English. But I always do my best to only share the things that I am sure about and have double check it. I will also update the contents on the posts that I shared once I realized that there is something wrong or missing, or have experience something that might improve a post.
+{: .notice--primary}
 
 > If you do what you love, you'll never work a day in your life!
 
