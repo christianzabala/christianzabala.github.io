@@ -110,6 +110,10 @@ author:
   name   : "Christian Philip Zabala"
   avatar : "/assets/images/csz.png"
   bio    : "My Networking Career Journey"
+  text    : "Hi! I’m Christian and welcome to my blog, where I share information such as Networking and Automation 
+  which I have learned while studying for the certifications and the knowledge I acquired in my IT career. 
+  If you want to know more about me click on my About page and if you want to know why I started this blog click here."
+  
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
