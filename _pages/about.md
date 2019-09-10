@@ -5,7 +5,7 @@ layout: splash
 ---
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/csz.png){: .align-right}
     
-My name is Christian Philip Zabala and I’m a curious person which results for me to having too many interests and get overwhelmed on the various technologies I want to learn but that's not a problem for me because learning something new makes me excited. Currently I work for Concentrix as a NOC Engineer, Our team is responsible for monitoring the stability and performance of the Network and IP TV System of the World's Biggest Search Engine ISP Account of Concentrix .
+My name is Christian Philip Zabala and I’m a curious person which results for me to having too many interests and get overwhelmed on the various technologies I want to learn but that's not a problem for me because learning something new makes me excited. Currently I work for Concentrix as a NOC Engineer, Our team is mainly responsible for monitoring the stability and performance of the Network and IP TV System of the World's Biggest Search Engine ISP Account of Concentrix .
 
 
 I hold a Bachelors of Science in Electronics Engineering from Lyceum-Northwestern University.
