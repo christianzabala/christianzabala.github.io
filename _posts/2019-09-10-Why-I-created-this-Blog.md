@@ -16,6 +16,6 @@ On this blog, I will also share some tips in life not only just technology stuff
 
 Making this blog is also a way to improve my communication and writing skills, even though I'm not physically talking to someone I just trick myself as I'm speaking on a crowd.
 
-For this blog I used [Jekyll](https://jekyllrb.com/){target="_blank"} which is a static site generator which make it easy to create a blog an also the creator of [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes){target="_blank"} which is the theme I'm using, it's a well documented Jekyll theme. I also used [GitHub Pages](https://pages.github.com/){target="_blank"} for hosting my website.
+For this blog I used [Jekyll](https://jekyllrb.com/) which is a static site generator which make it easy to create a blog an also the creator of [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) which is the theme I'm using, it's a well documented Jekyll theme. I also used [GitHub Pages](https://pages.github.com/)for hosting my website.
 
 That's it, Thanks for viewing my blog and I hope that the topics that I have shared will not just contribute to my learning but also to your learning as well.
