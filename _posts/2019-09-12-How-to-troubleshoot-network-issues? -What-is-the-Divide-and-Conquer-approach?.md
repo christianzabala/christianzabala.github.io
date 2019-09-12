@@ -48,7 +48,6 @@ So do the disruptive things that you know during the allocated maintenance windo
 
 ## Don’t make the problem much worse!
  Always remember to double check the things that you will do because regrets are felt when it's just too late. So leverage the Internet and ask your colleagues if what you are doing is appropriate. Always have a backup plan and a rollback or backup config. If your company has a lab, use it to simulate the scenario and do the troubleshooting steps that are service impacting especially if you think its a software related issues. If it is a complex issue engaged with the TAC team of the device you think has an issue especially if your company is already losing millions due to an outage.
-.
  
 The above discussion is somehow mainly focus only on  user or customer reported issues and did not get much into a NOC environment.
 
