@@ -1,3 +1,14 @@
+---
+title: "How To Troubleshoot Network Issues? What Is The Divide And Conquer Approach?"
+excerpt_separator: "<!--more-->"
+categories:
+  - Networking
+tags:
+  - Troubleshooting
+  - Divide And Conquer
+  - Layered Approach
+---
+
 Since my domain name is called divide-and-conquer.network so my first technical post is about troubleshooting when you are on the network field and how I used the divide and conquer approach in troubleshooting. 
 
 **Note:** The explanation that I shared in this post does not mean that way you should troubleshoot or it is the best way to do during your troubleshooting work because we have all different ways on how to approach an issue. However the main goal on why I created this post is to help others on how they can improve their way of troubleshooting especially does who are still new on the networking field. .
@@ -54,6 +65,8 @@ But if your are on a large-scale network you might start calling on site technic
 
 **Note:** That won’t usually happen on a large-scale network, so leverage your colleagues, work as a team like 1 person calling other teams and setting up an outage group chat or video conference, 2 persons are troubleshooting and 1 person is documenting and reporting, and  If you can have a short-term fix do it  instead of sacrificing the money being lost by your company due to an outage that is taking too long to be resolved. 
 {: .notice}
+
+<!--more-->
 
 Ok that’s all I can think of for now which are based from my experiences and have read, I hope you have learned something on this post that can help you on your daily work. Perhaps in the future I’ll add more troubleshooting post which is targeted on a specific issues like on routing, switching, software, hardware and etc.
 
