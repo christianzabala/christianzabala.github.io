@@ -3,7 +3,7 @@ Since my domain name is called divide-and-conquer.network so my first technical 
 **Note:** The explanation that I shared in this post does not mean that way you should troubleshoot or it is the best way to do during your troubleshooting work because we have all different ways on how to approach an issue. However the main goal on why I created this post is to help others on how they can improve their way of troubleshooting especially does who are still new on the networking field. .
 {: .notice}
 
-## Think first before you act!
+## Think before you act!
 Well first step when troubleshooting you must first gather all the information you can get for example asking questions to the person reported the problem or checking the alarm on your NMS(Network Management System) and the topology of your network. By gathering all the information you need, expect from it that it will speed up the time for you to identify the problem.
 Typically you can guess already the problem if the issue was reported on your Monitoring tool but what if a user or customer  had reported an issue like on accessing a website/server,  or he/she has intermittent connection, or has a slow connection? And you did not ask more detailed information regarding his/her issue, then you can’t exactly guess where the issue is, so you must first ask the user questions about the issue and as much as possible gather information that is specific like:
 What is the main problem? 
