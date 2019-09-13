@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+excerpt: "About Christian Philip S. Zabala"
 layout: splash
 ---
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/csz.png){: .align-right}
