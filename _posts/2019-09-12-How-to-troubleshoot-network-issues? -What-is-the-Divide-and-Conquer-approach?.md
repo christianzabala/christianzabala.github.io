@@ -1,5 +1,4 @@
 ---
-excerpt: "How to troubleshoot a network issue, What is the layered approach and divide and conquer troubleshooting approach, Questions to ask when troubleshooting an issue, How to make the network issue more worse, What if the problem was seen on your monitoring tool?"
 categories:
   - Networking
 tags:
