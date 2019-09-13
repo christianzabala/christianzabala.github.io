@@ -1,5 +1,5 @@
 ---
-excerpt_separator: "<!--more-->"
+excerpt: "How to troubleshoot a network issue, What is the layered approach and divide and conquer troubleshooting approach, Questions to ask when troubleshooting an issue, How to make the network issue more worse, What if the problem was seen on your monitoring tool?"
 categories:
   - Networking
 tags:
@@ -64,7 +64,6 @@ But if your are on a large-scale network you might start calling on site technic
 **Note:** That won’t usually happen on a large-scale network, so leverage your colleagues, work as a team like 1 person calling other teams and setting up an outage group chat or video conference, 2 persons are troubleshooting and 1 person is documenting and reporting, and  If you can have a short-term fix do it  instead of sacrificing the money being lost by your company due to an outage that is taking too long to be resolved. 
 {: .notice}
 
-<!--more-->
 
 Ok that’s all I can think of for now which are based from my experiences and have read, I hope you have learned something on this post that can help you on your daily work. Perhaps in the future I’ll add more troubleshooting post which is targeted on a specific issues like on routing, switching, software, hardware and etc.
 
