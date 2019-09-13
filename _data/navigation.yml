@@ -3,6 +3,8 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
+        - title: "Networking"
+          url: /categories/Networking
   - title: "Tags"
     url: /tags/
   - title: "About"
