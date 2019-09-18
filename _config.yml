@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Divide and Conquer the Network"
+title                    : "Divide <em>and</em> Conquer <em>the</em> <strong>Network<strong>"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Christian Philip Zabala"
