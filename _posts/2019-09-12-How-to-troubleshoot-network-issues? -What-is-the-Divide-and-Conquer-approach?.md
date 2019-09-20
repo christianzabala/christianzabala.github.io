@@ -67,6 +67,6 @@ But if your are on a large-scale network you might start calling on site technic
 
 Ok that’s all I can think of for now which are based from my experiences and have read, I hope you have learned something on this post that can help you on your daily work. Perhaps in the future I’ll add more troubleshooting post which is targeted on a specific issues like on routing, switching, software, hardware and etc.
 
-If you have other troubleshooting steps on your mind, previous outage experiences whether its funny or informational, comment it down bellow so that we can read it.
+If you have other troubleshooting steps on your mind, previous outage experiences whether its funny or informational, comment it down below so that we can read it.
 
 >If you hate troubleshooting and having stressful task, Then learn how to love it or find yourself a new job while it’s still early.
