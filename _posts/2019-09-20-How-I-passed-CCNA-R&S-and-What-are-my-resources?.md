@@ -11,7 +11,7 @@ tags:
   - Video Courses
   - Books
 toc: true
-toc_label: "Table of contents"
+toc_sticky: true
 ---
 
 In this post I will share my  journey on conquering the CCNA Routing & Switching certification exam. I have first List the 
