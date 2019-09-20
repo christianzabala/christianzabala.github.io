@@ -76,17 +76,21 @@ to get a hands on experience on a virtualized Cisco device.
 ### Resources that are also Helpful:
 This is the list that I think that well surely help on your CCNA R&S exam that I was not able to study or buy due to lack of budget:
 
-  **1. [CCNA ROUTING & SWITCHING TECHNOLOGIES 200-125 V3.0 - INE(Keith Bogart)](https://ine.com/products/ccna-routing-switching-technologies-200-125-v3-0)**
+  *1. [CCNA ROUTING & SWITCHING TECHNOLOGIES 200-125 V3.0 - INE(Keith Bogart)](https://ine.com/products/ccna-routing-switching-technologies-200-125-v3-0)*
   
-  **2. [BOSON NetSim and Practice Exams](https://www.boson.com/certification/ccna)**
+  *2. [CCNA 2019 200-125 Video Boot Camp With Chris Bryant](https://www.udemy.com/ccna-on-demand-video-boot-camp/)*
   
-  **3. [Dans Courses - Free CCNA course](http://danscourses.com/category/courses/)**
+  **3. [BOSON NetSim and Practice Exams](https://www.boson.com/certification/ccna)**
   
-  **4. [Packet Tracer labs for the CCNA exam: Practical CCNA tests](https://www.udemy.com/course/free-packet-tracer-labs-for-the-ccna-exam-practical-ccna-tests/)** - Currently free by the time of this post
+  **4. [Dans Courses - Free CCNA course](http://danscourses.com/category/courses/)**
   
-  **5. [Free CCNA Workbook](http://www.freeccnaworkbook.com/workbooks/ccna)**
+  **5. [Packet Tracer labs for the CCNA exam: Practical CCNA tests](https://www.udemy.com/course/free-packet-tracer-labs-for-the-ccna-exam-practical-ccna-tests/)** - Currently free by the time of this post
   
-  **6. [/r/ccna Lab Collection](https://www.reddit.com/r/ccna/comments/5nzd9k/rccna_lab_collection/)**
+  **6. [Free CCNA Workbook](http://www.freeccnaworkbook.com/workbooks/ccna)**
+  
+  **7. [/r/ccna Lab Collection](https://www.reddit.com/r/ccna/comments/5nzd9k/rccna_lab_collection/)**
+  
+  
 
 I may also add other resources that I might find in the future.
 
