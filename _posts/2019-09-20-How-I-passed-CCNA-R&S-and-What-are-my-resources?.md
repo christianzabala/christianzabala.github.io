@@ -1,4 +1,16 @@
-## How I passed CCNA R&S and what are my resources?
+---
+title: How I passed CCNA R&S and what are my resources?
+excerpt: "How to pass the CCNA Routing and Switching 200-125 Cisco Exam, What are the possible resources can be used"
+categories:
+  - Networking
+tags:
+  - Cisco
+  - CCNA
+  - Routing
+  - Switching 
+  - Video Courses
+  - Books
+---
 
 In this post I will share my  journey on conquering the CCNA Routing & Switching certification exam. I have first List the 
 resources that I studied on this post because not might all people are interested on my short story, but  if you have time 
@@ -42,9 +54,9 @@ to get a hands on experience on a virtualized Cisco device.
     
 ### Other Video Courses that I think might be helpful on the exam and also to your job:
 
-  **1. [CBT Nuggets - IT Expert: Installing Network Cabling and Devices](https://www.cbtnuggets.com/it-training/it-expertise-routing-switching)   
-  **2. [CBT Nuggets -Cisco R&S Troubleshooting Mastery](https://www.cbtnuggets.com/it-training/cisco-routing-switching-troubleshooting)
-  **3. [CBT Nuggets - Professional Course: Building a Network Design that Works](https://www.cbtnuggets.com/it-training/building-a-network-design-that-works)
+  **1. [CBT Nuggets - IT Expert: Installing Network Cabling and Devices](https://www.cbtnuggets.com/it-training/it-expertise-routing-switching)**   
+  **2. [CBT Nuggets -Cisco R&S Troubleshooting Mastery](https://www.cbtnuggets.com/it-training/cisco-routing-switching-troubleshooting)**
+  **3. [CBT Nuggets - Professional Course: Building a Network Design that Works](https://www.cbtnuggets.com/it-training/building-a-network-design-that-works)**
   
   
 ### Other resources that I used:
@@ -62,12 +74,12 @@ to get a hands on experience on a virtualized Cisco device.
 ### Resources that are also Helpful:
 This is the list that I think that well surely help on your CCNA R&S exam that I was not able to study or buy due to lack of budget:
 
-  **1. [CCNA ROUTING & SWITCHING TECHNOLOGIES 200-125 V3.0 - INE(Keith Bogart)](https://ine.com/products/ccna-routing-switching-technologies-200-125-v3-0)
-  **2. [BOSON NetSim and Practice Exams](https://www.boson.com/certification/ccna)
+  **1. [CCNA ROUTING & SWITCHING TECHNOLOGIES 200-125 V3.0 - INE(Keith Bogart)](https://ine.com/products/ccna-routing-switching-technologies-200-125-v3-0)**
+  **2. [BOSON NetSim and Practice Exams](https://www.boson.com/certification/ccna)**
   **3. [Dans Courses - Free CCNA course](http://danscourses.com/category/courses/)
-  **4. [Packet Tracer labs for the CCNA exam: Practical CCNA tests](https://www.udemy.com/course/free-packet-tracer-labs-for-the-ccna-exam-practical-ccna-tests/) -Currently free by the time of this post
-  **5. [Free CCNA Workbook](http://www.freeccnaworkbook.com/workbooks/ccna)
-  **6. [/r/ccna Lab Collection](https://www.reddit.com/r/ccna/comments/5nzd9k/rccna_lab_collection/)
+  **4. [Packet Tracer labs for the CCNA exam: Practical CCNA tests](https://www.udemy.com/course/free-packet-tracer-labs-for-the-ccna-exam-practical-ccna-tests/) -Currently free by the time of this post**
+  **5. [Free CCNA Workbook](http://www.freeccnaworkbook.com/workbooks/ccna)**
+  **6. [/r/ccna Lab Collection](https://www.reddit.com/r/ccna/comments/5nzd9k/rccna_lab_collection/)**
 
 I may also add other resources that I might find in the future.
 
@@ -76,9 +88,8 @@ If you want to know how to pass the CCNA exam, then go ahead and read this [Quor
 {: .notice--info}
 
 
-
+<summary><h3>How did I passed the CCNA Routing & Switching Exam on my First take?</h3></summary>
 <details>
- <summary><h3>How did I passed the CCNA Routing & Switching Exam on my First take?</h3></summary>
 <br>
 Work In Progress :v:
 </details>
