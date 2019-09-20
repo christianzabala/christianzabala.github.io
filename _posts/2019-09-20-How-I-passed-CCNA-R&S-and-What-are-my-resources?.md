@@ -11,7 +11,8 @@ tags:
   - Video Courses
   - Books
 toc: true
-toc_sticky: true
+toc_icon: angle-right
+toc_label: show table-of-contents
 ---
 
 In this post I will share my  journey on conquering the CCNA Routing & Switching certification exam. I have first List the 
@@ -101,7 +102,7 @@ If you want to know how to pass the CCNA exam, then go ahead and read this [Quor
 {: .notice--info}
 
 
-## How did I passed the CCNA Routing & Switching Exam on my First take?
+### How did I passed the CCNA Routing & Switching Exam on my First take?
 
 The answer is simple, **I enjoyed the process**  of learning the topics involved in the exam and also other technologies in the networking field. 
 
