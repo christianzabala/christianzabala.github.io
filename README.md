@@ -1,9 +1,5 @@
 # My Personal Blog (divide-and-conquer.network)
 Check the post on my blog to know more.
 
-
-Possible Future revisions:
- 1. Include a module to ssh on a network device then send specific commands needed. Perhaps make it multithreaded 
- 2. Concert the codes to a class that can be reuse on future projects
- 3. Add more Exception and Error Handling
+For this blog I used [Jekyll](https://jekyllrb.com/) which is a static site generator which make it easy to create a blog an also the creator of [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) which is the theme I'm using, it's a well documented Jekyll theme. I also used [GitHub Pages](https://pages.github.com/) for hosting my website.
  
