@@ -54,8 +54,10 @@ to get a hands on experience on a virtualized Cisco device.
     
 ### Other Video Courses that I think might be helpful on the exam and also to your job:
 
-  **1. [CBT Nuggets - IT Expert: Installing Network Cabling and Devices](https://www.cbtnuggets.com/it-training/it-expertise-routing-switching)**   
+  **1. [CBT Nuggets - IT Expert: Installing Network Cabling and Devices](https://www.cbtnuggets.com/it-training/it-expertise-routing-switching)**  
+  
   **2. [CBT Nuggets -Cisco R&S Troubleshooting Mastery](https://www.cbtnuggets.com/it-training/cisco-routing-switching-troubleshooting)**
+  
   **3. [CBT Nuggets - Professional Course: Building a Network Design that Works](https://www.cbtnuggets.com/it-training/building-a-network-design-that-works)**
   
   
@@ -75,10 +77,15 @@ to get a hands on experience on a virtualized Cisco device.
 This is the list that I think that well surely help on your CCNA R&S exam that I was not able to study or buy due to lack of budget:
 
   **1. [CCNA ROUTING & SWITCHING TECHNOLOGIES 200-125 V3.0 - INE(Keith Bogart)](https://ine.com/products/ccna-routing-switching-technologies-200-125-v3-0)**
+  
   **2. [BOSON NetSim and Practice Exams](https://www.boson.com/certification/ccna)**
-  **3. [Dans Courses - Free CCNA course](http://danscourses.com/category/courses/)
+  
+  **3. [Dans Courses - Free CCNA course](http://danscourses.com/category/courses/)**
+  
   **4. [Packet Tracer labs for the CCNA exam: Practical CCNA tests](https://www.udemy.com/course/free-packet-tracer-labs-for-the-ccna-exam-practical-ccna-tests/) -Currently free by the time of this post**
+  
   **5. [Free CCNA Workbook](http://www.freeccnaworkbook.com/workbooks/ccna)**
+  
   **6. [/r/ccna Lab Collection](https://www.reddit.com/r/ccna/comments/5nzd9k/rccna_lab_collection/)**
 
 I may also add other resources that I might find in the future.
