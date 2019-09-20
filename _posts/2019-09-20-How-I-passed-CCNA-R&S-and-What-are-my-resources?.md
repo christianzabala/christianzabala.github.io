@@ -19,7 +19,7 @@ videos, and websites since I only self studied for the exam. For my practice lab
 [GNS3](https://www.gns3.com/software/download) and [Cisco Packet tracer](https://www.netacad.com/courses/packet-tracer)
 to get a hands on experience on a virtualized Cisco device.
 
-###  My Recommended book to read:
+###  My Recommended books to read:
 
   **1. CCNA Basic and Fundamentals, Billy Ramirez(CCNAPH)**
     -I suggested this first book for my fellow Filipinos since it is written in Tag-lish so a Filipino can understand clearly the concepts needed to pass the CCNA R&S. It has only 390 pages so you will not get discouraged by the amount of pages that you need to read, I got this ebook by enrolling to his course but if you want only his ebook it will only cost you 499 pesos which in return will give you more than the price of it when you find a networking job. This is the [link](https://www.ccnaphilippines.com/the-ebook/)  and I will let Billy do the explanation.
@@ -82,7 +82,7 @@ This is the list that I think that well surely help on your CCNA R&S exam that I
   
   **3. [Dans Courses - Free CCNA course](http://danscourses.com/category/courses/)**
   
-  **4. [Packet Tracer labs for the CCNA exam: Practical CCNA tests](https://www.udemy.com/course/free-packet-tracer-labs-for-the-ccna-exam-practical-ccna-tests/) -Currently free by the time of this post**
+  **4. [Packet Tracer labs for the CCNA exam: Practical CCNA tests](https://www.udemy.com/course/free-packet-tracer-labs-for-the-ccna-exam-practical-ccna-tests/)** - Currently free by the time of this post
   
   **5. [Free CCNA Workbook](http://www.freeccnaworkbook.com/workbooks/ccna)**
   
