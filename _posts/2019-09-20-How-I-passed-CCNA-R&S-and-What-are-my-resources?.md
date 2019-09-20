@@ -10,6 +10,7 @@ tags:
   - Switching 
   - Video Courses
   - Books
+ toc: true
 ---
 
 In this post I will share my  journey on conquering the CCNA Routing & Switching certification exam. I have first List the 
