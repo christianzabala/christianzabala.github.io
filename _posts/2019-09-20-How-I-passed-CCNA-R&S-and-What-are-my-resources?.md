@@ -12,7 +12,6 @@ tags:
   - Books
 toc: true
 toc_label: "Table of contents"
-toc_icon: "Star"
 ---
 
 In this post I will share my  journey on conquering the CCNA Routing & Switching certification exam. I have first List the 
