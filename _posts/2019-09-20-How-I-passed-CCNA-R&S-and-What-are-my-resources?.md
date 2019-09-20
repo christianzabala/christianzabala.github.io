@@ -50,13 +50,13 @@ to get a hands on experience on a virtualized Cisco device.
 ### Other resources that I used:
 
   **1. Google** 
-  - If you did not understand a certain topic or technology, GOOGLE it! Lots of resources you can find on the internet and most of them are already free, you are the only problem if you can’t find the things that you want to learn.
+    -If you did not understand a certain topic or technology, GOOGLE it! Lots of resources you can find on the internet and most of them are already free, you are the only problem if you can’t find the things that you want to learn.
   
   **2. Cisco website** 
-  - Well most of the time if you google a certain topic or questions, you will most likely to land on a Cisco website like the Cisco Community website. You can find a lot of information on the cisco websites alone you might even don’t need a book :astonished:, there are smart engineers on the cisco community helping on questions already posted there that can help you on the things you are studying.
+    -Well most of the time if you google a certain topic or questions, you will most likely to land on a Cisco website like the Cisco Community website. You can find a lot of information on the cisco websites alone you might even don’t need a book :astonished:, there are smart engineers on the cisco community helping on questions already posted there that can help you on the things you are studying.
 
   **3. Packetlife.net Cheat Sheets** 
-  - This was my main source of most of my personal cheat sheet, Almost all the things you need for a particular technology that is summarized is already included on his cheat sheet. Of course there are maybe some information not included on his cheat sheets but that's why I have my own personal cheat sheet that I can edit. [Link for the Cheatsheets](https://packetlife.net/library/cheat-sheets/)
+    -This was my main source of most of my personal cheat sheet, Almost all the things you need for a particular technology that is summarized is already included on his cheat sheet. Of course there are maybe some information not included on his cheat sheets but that's why I have my own personal cheat sheet that I can edit. [Link for the Cheatsheets](https://packetlife.net/library/cheat-sheets/)
 
 
 ### Resources that are also Helpful:
