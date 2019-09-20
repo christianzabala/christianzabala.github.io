@@ -76,9 +76,9 @@ to get a hands on experience on a virtualized Cisco device.
 ### Resources that are also Helpful:
 This is the list that I think that well surely help on your CCNA R&S exam that I was not able to study or buy due to lack of budget:
 
-  *1. [CCNA ROUTING & SWITCHING TECHNOLOGIES 200-125 V3.0 - INE(Keith Bogart)](https://ine.com/products/ccna-routing-switching-technologies-200-125-v3-0)*
+  **1. [CCNA ROUTING & SWITCHING TECHNOLOGIES 200-125 V3.0 - INE(Keith Bogart)](https://ine.com/products/ccna-routing-switching-technologies-200-125-v3-0)**
   
-  *2. [CCNA 2019 200-125 Video Boot Camp With Chris Bryant](https://www.udemy.com/ccna-on-demand-video-boot-camp/)*
+  **2. [CCNA 2019 200-125 Video Boot Camp With Chris Bryant](https://www.udemy.com/ccna-on-demand-video-boot-camp/)**
   
   **3. [BOSON NetSim and Practice Exams](https://www.boson.com/certification/ccna)**
   
