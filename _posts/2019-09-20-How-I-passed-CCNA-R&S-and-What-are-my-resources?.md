@@ -78,7 +78,7 @@ If you want to know how to pass the CCNA exam, then go ahead and read this [Quor
 
 
 <details>
- <summary><h1>How did I passed the CCNA Routing & Switching Exam on my First take?</h1></summary>
+ <summary><h3>How did I passed the CCNA Routing & Switching Exam on my First take?</h3></summary>
 <br>
 Work In Progress :v:
 </details>
