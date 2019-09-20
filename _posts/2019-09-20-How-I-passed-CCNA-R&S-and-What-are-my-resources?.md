@@ -102,7 +102,46 @@ If you want to know how to pass the CCNA exam, then go ahead and read this [Quor
 <summary><h3>How did I passed the CCNA Routing & Switching Exam on my First take?</h3></summary>
 <details>
 <br>
-Work In Progress :v:
+The answer is simple, **I enjoyed the process**  of learning the topics involved in the exam and also other technologies in the networking field. 
+
+>If you have an internet connection and the **Desire** to do anything, you can figure out how to do it!
+
+Ok so how did I enjoy learning networking stuff even though I’m not the type of person who always study during my college days? It started on my first job, the primary technology that I handled there was all about wireless like access points, wireless controllers, and wireless management system. During my first job we interface with IT personnels of our clients so I need to study some basic networking stuff to be able to explain more about the capabilities of our products but the basics did not work well for me because other IT folks are smart enough to get me caught off guard by their questions that are related to networking which is are reasonable questions since those APs will be attached to their network. So I look at it as a challenge for me to study more about networking. Another reason why started learning network stuff is because I got amazed while watching one of our client network engineer that is doing magical stuff on the CLI when he was configuring or troubleshooting on a router and a switch and that was the time I got more curious and motivated to study about networking since that was the kind of job I want to achieve so I started searching on google on how to be a network engineer and what are the requirements on the job posting websites and almost all of it points to taking the CCNA R&S certification and after that I start to research the materials that I need.
+
+>If you really want to do it, you do it. There are no Excuses! - Bruce Nauman
+
+
+
+Back then I don’t have a decent personal laptop but luckily for me my company that time provided me a decent laptop for my daily work and  that  laptop was able to handle most of my lab work needed for the exam. The apartment that I stayed don’t have wifi connection so everytime I’m on the office I download all the things I needed  since there's a lot of free resources on the internet. I remember that the first ccna related videos that I watch is the videos of [NetworKing](https://www.youtube.com/watch?v=n2D1o-aM-2s&list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN) on youtube which was also help me to get started on studying network stuff but it was not yet completed back then so I landed on watching Jeremy Cioara video nuggets, I watch it when I arrived on our apartment and watch in on my phone when I'm not doing something in a client site and during a bus or jeepney trips. After watching most of the ICND1 videos there are concepts that I did not understand well so I search for Network+ video courses which I found Mike Meyers course and I was able to search a tagalog video course which is the course of Billy Ramirez. I watch both of them first before I continue the CBT nuggets ccna videos. When I got the concepts needed for the technology that I’m studying for the week I start labbing(configuration, verification and troubleshooting) along with the lab part of CCNAPH and CBT Nuggets course.
+
+>Success doesn’t happen overnight. Keep your eye on the prize and don’t look back - Erwin Andrews
+
+I think I started studying the CCNA R&S topics on April of 2017 and was able to pass the exam on January of 2019 (1yr and 10 months) since my first job was a 6 days  a week and my rest day was usually spend in doing my laundry, visit on a church, and speed time with family and friends. I also didn’t have a budget that can be allocated for the exam back then since my monthly salary was only around 17 thousand pesos which is almost the equivalent cost of the CCNA 200-125 exam. So I decided to look for a better paying job first and a role that will give me hands on experience on real network devices and a knowledge on various protocols based on experience before taking the exam but during my job hunting I can’t focus on studying for the interview and to look for a decent job when I’m still employed so as an optimistic warrior :smirk: , I resigned on April 2018 and luckily in just 1 month I got hired as a NOC engineer for an ISP in USA well huge thanks to resources I shared earlier specially to Billy(CCNAPH) that provided a great course plus the mentorship. 
+
+>People who can focus, get things done. People who can prioritize, get the right things done. - John maeda
+
+Then after I got hired I slightly paused on studying Cisco stuff since the network device’s the company I’m working are mostly Juniper, Nokia Alcatel-Lucent, Adtran, and only few Cisco routers. My focus got shifted to studying Juniper stuff since it will be more beneficial for me and the company I’m working for but the concepts I have learned are still applicable.  I used the JNCIA-Junos as a guide for me on what are the things I should study but I first got a free voucher for JNCDA and JNCIA-Cloud before the JNCIA-Junos exam so I study and took that exams first. I will create a separate post for the Juniper certification that I took. After I finnish the juniper certification exams and getting to feel of taking an online industry certification exam which is I think really helpful on removing the anxiety during the day of my CCNA R&S exam, I then shifted back to studying CCNA R&S. I started reading ebooks almost 5 months before my exam day since mostly I finished up already the video courses that I have. I also started combining and summarizing all the important information needed on each protocol included in the exam on my google sheet & docs.
+
+> You’re never ready for what you have to do. You just do it. That makes you ready - Flora Rheta Schreiber
+
+ On December 2018 I decided finally set a schedule for my exam on January 2019 well thanks to the 13 Month pay :laughing: , Back then I didn’t feel that I’m already ready to take the exam but I feel that I’m stuck on studying the same technology over and over again. So I decided to schedule the exam so that I can move on to much more complicated networking topics. I started wrapping up the [Exam Topics](https://learningnetwork.cisco.com/community/certifications/ccna/ccna-exam/exam-topics)  that I can’t quite explain to myself, I read those topics when I wake up and on my commute to work and back to my apartment then do the lab when I arrived back to my apartment. For the month of December and January, I sleep mostly just 6 hours a day just to get all the topics that I need to study be completed. Then the day before my exam I just scan my Network Cheat sheet which is on my Google Sheets, which I plan to share as soon I cleaned it up. 
+On the day of the exam, I tried to relax but the IPv6 topics like the addressing and OSPFv3 was not clear on my mind so I scan that topic on my way to the Pearson testing center.
+
+> Don’t let others put thoughts into your mind that takes away your self-confidence - Katori Hall
+
+During the exam, the technique I used was to get rid of first the obvious incorrect answers but it is not applicable on some tricky questions and related answers. :weary: . For the lab part I think I got 4 types of lab question and scenario luckily the ? is working. :grin: 
+There are 2 persons also on the room was also taking the CCNA exam which I saw on the login form, and the 3 of us almost take the exam at the same time. The other person finished it quickly I think I’m still on the middle part of the exam but I ignore him and stick to my plan which is to double check all my answer before going to the next questions since I still have time. The 2nd person on the room also finished before me but I think he is disappointed in his score since he slightly smashed the table. :worried:  Once again I didn’t get on my mind that I will fail also because if that gets on to my mid perhaps it will affect how I will answer the questions. After the last question, I reviewed all the questions since I still have around 20 minutes left. Then I cross my finger when I click the submit button.
+:tada: :boom: The result appears and I Passed the exam! :relaxed:
+ 
+
+My Advice:
+- You don’t understand something google around, LAB it down, and ask someone who really knows networking stuff. 
+- Try to remove the distractions just for the sake of the exam, think of the money you have or will be spending on the exam.
+- Find a person who can mentor you.
+- You only limit is YOU! *Sarili mo lng kalaban mo para ikaw ay maging successful*
+- When you don’t feel like studying, go watch some motivation videos on youtube, there a lot there that can motivate you. [NetworkChcuk](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ), [David Bombal](https://www.youtube.com/user/ConfigTerm), and [Kevin Wallace](https://www.youtube.com/user/kwallaceccie) has motivational videos also and I watch their videos most of the time.
+
+And that’s how I studied and passed the exam. If you want to share some experiences and resources that can help others, go ahead and comment it down below. 
 </details>
 
 
