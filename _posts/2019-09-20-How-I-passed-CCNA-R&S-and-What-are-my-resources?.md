@@ -99,9 +99,8 @@ If you want to know how to pass the CCNA exam, then go ahead and read this [Quor
 {: .notice--info}
 
 
-<summary><h3>How did I passed the CCNA Routing & Switching Exam on my First take?</h3></summary>
-<details>
-<br>
+## How did I passed the CCNA Routing & Switching Exam on my First take?
+
 The answer is simple, **I enjoyed the process**  of learning the topics involved in the exam and also other technologies in the networking field. 
 
 >If you have an internet connection and the **Desire** to do anything, you can figure out how to do it!
@@ -141,8 +140,7 @@ My Advice:
 - You only limit is YOU! *Sarili mo lng kalaban mo para ikaw ay maging successful*
 - When you don’t feel like studying, go watch some motivation videos on youtube, there a lot there that can motivate you. [NetworkChcuk](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ), [David Bombal](https://www.youtube.com/user/ConfigTerm), and [Kevin Wallace](https://www.youtube.com/user/kwallaceccie) has motivational videos also and I watch their videos most of the time.
 
-And that’s how I studied and passed the exam. If you want to share some experiences and resources that can help others, go ahead and comment it down below. 
-</details>
+And that’s how I studied and passed the exam. If you want to share some experiences and resources that can help others, go ahead and comment it down below.
 
 
 
