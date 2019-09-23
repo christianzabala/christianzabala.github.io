@@ -141,7 +141,7 @@ My Advice:
 - Try to remove the distractions just for the sake of the exam, think of the money you have spent or will be spending on the exam.
 - Find a person who can mentor you.
 - You only limit is YOU! *Sarili mo lng kalaban mo para ikaw ay maging successful!!*
-- When you don’t feel like studying, go watch some motivation videos on youtube, there a lot there that can motivate you. [NetworkChcuk](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ), [David Bombal](https://www.youtube.com/user/ConfigTerm), and [Kevin Wallace](https://www.youtube.com/user/kwallaceccie) has motivational videos also and I watch their videos most of the time.
+- When you don’t feel like studying, go watch some motivational videos on youtube, there a lot there that can motivate you. [NetworkChcuk](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ), [David Bombal](https://www.youtube.com/user/ConfigTerm), and [Kevin Wallace](https://www.youtube.com/user/kwallaceccie) has motivational videos also and I watch their videos most of the time.
 
 And that’s how I studied and passed the exam. If you want to share some experiences and resources that can help others, go ahead and comment it down below.
 
