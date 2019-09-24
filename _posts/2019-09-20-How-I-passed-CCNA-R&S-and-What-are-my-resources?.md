@@ -136,7 +136,7 @@ There are 2 persons also on the room was also taking the CCNA exam which I saw o
 :tada: :boom: The result appears and I Passed the exam! :relaxed:
  
 
-My Advice:
+### My Advice:
 - You don’t understand something google around, LAB it down, and ask someone who really knows networking stuff. 
 - Try to remove the distractions just for the sake of the exam, think of the money you have spent or will be spending on the exam.
 - Find a person who can mentor you.
