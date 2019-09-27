@@ -76,7 +76,7 @@ to get a hands on experience on a virtualized Cisco device.
     -This was my main source of most of my personal cheat sheet, Almost all the things you need for a particular technology that is summarized is already included on his cheat sheet. Of course there are maybe some information not included on his cheat sheets but that's why I have my own personal cheat sheet that I can edit, which I also suggest to others to have a personal cheat sheet also to help them in their exam and also on their job. [Link for the Cheatsheets](https://packetlife.net/library/cheat-sheets/)
 
 
-### Resources that are also Helpful:
+### Resources that are also Helpful(Self-Study):
 This is the list that I think that well surely help on your CCNA R&S exam that I was not able to study or buy due to lack of budget:
 
   **1. [CCNA ROUTING & SWITCHING TECHNOLOGIES 200-125 V3.0 - INE(Keith Bogart)](https://ine.com/products/ccna-routing-switching-technologies-200-125-v3-0)**
@@ -95,8 +95,7 @@ This is the list that I think that well surely help on your CCNA R&S exam that I
   
   
 
-I may also add other resources that I might find in the future.
-
+I may also add other resources that I might find in the future but there's a lot of great resources on the internet that you can use.
 
 If you want to know how to pass the CCNA exam, then go ahead and read this [Quora post](https://www.quora.com/How-do-I-pass-the-CCNA-exam) which already has the answer and tips to pass the CCNA exam, sadly I did not found this while I’m still studying and I learned the techniques the hard way :joy:  
 {: .notice--info}
@@ -141,7 +140,7 @@ There are 2 persons also on the room was also taking the CCNA exam which I saw o
 - Try to remove the distractions just for the sake of the exam, think of the money you have spent or will be spending on the exam.
 - Find a person who can mentor you.
 - You only limit is YOU! *Sarili mo lng kalaban mo para ikaw ay maging successful!!*
-- When you don’t feel like studying, go watch some motivational videos on youtube, there a lot there that can motivate you. [NetworkChcuk](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ), [David Bombal](https://www.youtube.com/user/ConfigTerm), and [Kevin Wallace](https://www.youtube.com/user/kwallaceccie) has motivational videos also and I watch their videos most of the time.
+- When you don’t feel like studying, go watch some motivational videos on youtube, there a lot there that can motivate you. [NetworkChcuk](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ), [David Bombal](https://www.youtube.com/user/ConfigTerm), and [Kevin Wallace](https://www.youtube.com/user/kwallaceccie) has motivational videos also and I watch their videos most of the time since most of their videos are for CCNA.
 
 And that’s how I studied and passed the exam. If you want to share some experiences and resources that can help others, go ahead and comment it down below.
 
