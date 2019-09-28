@@ -5,9 +5,6 @@ categories:
 tags:
   - Books
   - Personal Goals
-toc: true
-toc_icon: angle-right
-toc_label: show table-of-contents
 ---
 
 I created this post which are the things that I want to achieve during the year 2019 to 2020 so that I will feel accountable to do the things I listed here and help me focused to achieve my goals and not get distracted on unimportant things.  I created this list last March 2019 on my Google Docs  and on my laptop Sticky Notes so some of my goals are already crossed out because they are already been done which also helps me to think that I'm slowly achieving the goals that I set for myself to keep me motivated to keep moving forward.
