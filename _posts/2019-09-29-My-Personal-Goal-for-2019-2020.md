@@ -27,7 +27,8 @@ I created this post which are the things that I want to achieve during the year 
       * JNCIS-SP Study guide P1-3
       * [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) 
       * Juniper Day One Books:
-      * [MPLS Fundamentals] (https://www.amazon.com/MPLS-Fundamentals-Luc-Ghein/dp/1587051974) - 
+          * 
+      * [MPLS Fundamentals](https://www.amazon.com/MPLS-Fundamentals-Luc-Ghein/dp/1587051974)
       * [MPLS in the SDN Era](http://shop.oreilly.com/product/0636920033905.do)
       * [Routing TCP/IP, Volume II: CCIE Professional Development](https://www.amazon.com/Routing-TCP-CCIE-Professional-Development/dp/1578700892) 
 
