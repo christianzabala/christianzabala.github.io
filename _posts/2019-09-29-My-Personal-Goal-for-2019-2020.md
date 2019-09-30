@@ -14,7 +14,7 @@ I created this post which are the things that I want to achieve during the year 
       * <strike>Study & Pass JNCIA-DevOps</strike> 
       * Study the network of the company I’m working at and also the automation being implemented
       * Study advanced topics (IS-IS, BGP, MPLS, LDP, RSVP, MVPN, PIM-SM) by reading books and courses on INE
-      * Create a python script  for manual workloads being handled on my daily work
+      * Create a python script  for manual workloads being handled on my daily work. <strike>[CSZ tool](https://github.com/christianzabala/CSZ-Tool)</strike>, script that caches ssh passwords, script for Single customer issue(Parse show various commands)
       * Study automation tools (Python, Ansible, Go, Netmiko, Napalm, Nornir, Docker, APIs ,tools being used on the company I’m working for, and etc.)
       * <strike>Prepare the tools for Network automation (ex. GitHub, Python, IDE, and etc.)</strike> 
       * Study & Pass JNCIS-SP
