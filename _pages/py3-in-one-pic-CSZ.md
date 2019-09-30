@@ -1,4 +1,11 @@
-
+---
+title: Python
+layout: collection
+permalink: /Python/
+collection: Python
+classes: wide
+excerpt: "Edited version of coodict-python3-in-one-pic"
+---
 
 ```python
 import this
