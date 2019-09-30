@@ -42,6 +42,7 @@ import this
  - Flexibly supports multiple programming paradigms
  - Cross platform
  - Python is an interpreted programming language - No compilation phase is necessary, Programming file is translated into byte code before execution, Byte code is interpreted in python virtual machine.
+ 
 # Why Python for Network Engineers
  - Readable and easy to learn
  - Widely available and open source
@@ -60,6 +61,7 @@ import this
  - In General expressions can be reduced to some kind of value
  - A statement cannot be part of an expression. Expression is part of a statement
  - for example, "if x = 5:" is not a legal expression, bec assignment is a statement
+ 
 # Basic Statement Examples
  - 3 + 3
  - range(4)
@@ -104,8 +106,8 @@ Python has several standard types built in to the interpreter:
 Can be check using the built-in function **id()**
 - int, float, complex, string, tuple, frozen set [note: immutable version of set], bytes
 
-### I. Native DataTypes
-#### Number
+# I. Native DataTypes
+## Number
 
 **In:**
 ```python
@@ -249,7 +251,7 @@ print(int("0b1010", base = 0)) # 10
     10
     
 
-#### Boolean
+## Boolean
 
 **In:**
 ```python
@@ -262,7 +264,7 @@ print(type(True))   # <class 'bool'>
     <class 'bool'>
     
 
-#### None
+## None
 
 **In:**
 ```python
@@ -275,7 +277,7 @@ print(type(None))   # <class 'NoneType'>
     <class 'NoneType'>
     
 
-#### Byte
+## Byte
 
 **In:**
 ```python
@@ -303,7 +305,7 @@ print(len(byt))     # 3
     3
     
 
-#### String (immutable)
+## String (immutable)
 
 **In:**
 ```python
@@ -453,12 +455,12 @@ print(str({'python': '*.py', 'javascript': '*.js'}))
     {'python': '*.py', 'javascript': '*.js'}
     
 
-### List vs Sets vs Tuples
+## List vs Sets vs Tuples
 - list are mutable, can be modified, individual elements can be accessed directly, and can have duplicate values.
 - sets are mutable, can be modified, individual elements cannot be accessed directly, and cannot have duplicate values.
 - tuples are immutable(sort of), cannot be updated or modified once created, individual elements can be accessed directly, and can have duplicate values.
 
-#### List
+## List
 
 **In:**
 ```python
@@ -570,7 +572,7 @@ print(ips)
     ['10.1.1.1', '10.1.1.2', '10.1.1.4', '10.1.1.9', '10.1.5.1']
     
 
-#### Tuple
+## Tuple
 are similar to lists, created by enclosing values in parentheses. Like lists, the values in the tuple are retrieved by referencing its index number. Unlike lists, the values cannot be modified after creation
 
 **In:**
@@ -626,7 +628,7 @@ print(a, b, c)  # a 2 3
     a 2 3
     
 
-#### Set
+## Set
 
 **In:**
 ```python
@@ -695,7 +697,7 @@ print(st)
     set()
     
 
-#### Dict
+## Dict
 
 **In:**
 ```python
@@ -772,7 +774,7 @@ for brand, os in devices.items():
     Nokia : SR OS
     
 
-### III. Flow Control
+## III. Flow Control
 The if, else, and elif statements control conditional code execution. As one would expect, the format of the conditional statement is as follows:
 
 if expression:
@@ -789,7 +791,7 @@ elif expression:
 else:
   statement
 
-#### If
+## If
 
 **In:**
 ```python
@@ -815,7 +817,7 @@ else:
     Version 3.X
     
 
-#### Loop
+## Loop
 
 **for** (The for loop works with any object that supports iteration; this means all the built-in sequence types, such as lists, tuples, and strings, can be used in a for loop. The letter i in the following for loop is an iterating variable, so you can typically pick something that makes sense within the context of your code:
 
@@ -896,7 +898,7 @@ for num in range(2, 10):
     Found a number 9
     
 
-#### Comprehension
+## Comprehension
 
 **List**
 
@@ -946,7 +948,7 @@ print(sl)
     {10: 'Javascript', 6: 'Golang'}
     
 
-#### Iterators & Generators
+## Iterators & Generators
 
 **In:**
 ```python
@@ -987,8 +989,8 @@ for i in nohtyp:
     P
     
 
-### IV. Function
-#### Definition
+## IV. Function
+## Definition
 
 **In:**
 ```python
@@ -1005,7 +1007,7 @@ print(f.__doc__)
     return 'Hello, World!'
     
 
-#### Arguments
+## Arguments
 
 **In:**
 ```python
@@ -1068,7 +1070,7 @@ f("Python", "Javascript", ms = "C++", fp = "Haskell")
     FP: Haskell & Scripts: Python/Javascript
     
 
-#### Lambda
+## Lambda
 
 **In:**
 ```python
@@ -1084,7 +1086,7 @@ print(pairs)
     [(1, 'one'), (2, 'two'), (3, 'three'), (4, 'four')]
     
 
-#### @decorator
+## @decorator
 
 **In:**
 ```python
@@ -1119,9 +1121,9 @@ fb()
     Bye log~
     
 
-### V. Class(OOP)
+## V. Class(OOP)
 
-### `class`
+## `class`
 
 **In:**
 ```python
@@ -1139,7 +1141,7 @@ print(a.__doc__) # This is an Animal
     This is an Animal
     
 
-### `__init__` & `self`
+## `__init__` & `self`
 
 **In:**
 ```python
@@ -1167,7 +1169,7 @@ b.fly()                    # I CAN fly!
     I CAN fly!
     
 
-### Instance
+## Instance
 
 **In:**
 ```python
@@ -1186,7 +1188,7 @@ print(isinstance(h, Animal))
     False
     
 
-### Inheritance
+## Inheritance
 
 **In:**
 ```python
@@ -1213,7 +1215,7 @@ d.bark()
     Woof!
     
 
-### Override
+## Override
 
 **In:**
 ```python
@@ -1238,9 +1240,9 @@ bird.fly()    # I'm flying high!
     I'm flying high!
     
 
-### VI. Module
+## VI. Module
 
-#### `import`
+## `import`
 
 **In:**
 ```python
@@ -1260,13 +1262,13 @@ print(pi)
     3.141592653589793
     
 
-#### Search Path
+## Search Path
 
 1. current directory
 2. `echo $PYTHONPATH`
 3. `sys.path`
 
-#### Package
+## Package
 
 **In:**
 ```python
@@ -1301,9 +1303,9 @@ smo.run()
     ModuleNotFoundError: No module named 'MyModule'
 
 
-### VII. Pythonic
+## VII. Pythonic
 
-### VIII. Standard Libraries
+## VIII. Standard Libraries
 
 
 ```python
