@@ -92,7 +92,7 @@ Python has several standard types built in to the interpreter:
  - Numerics: int, long, float, complex, and bool (the subclass of int with a True or False value)
  - Sequences: str, list, tuple, and range (Sequences are ordered sets of objects/values with an index of non-negative integers. Sometimes it surprises people that string is actually a sequence type. But if you look closely, strings are a series of characters put together)
  - Mappings: dict (Python provides one mapping type, called the dictionary, it contains objects that can be indexed by keys. This is often referred to as the associated array or hashing table in other languages. This is a powerful type, because you can refer to the object with a human-readable key. This key will make more sense for the poor guy who is trying to maintain and troubleshoot the code. That guy could be you only a few months after you wrote the code. The object in the dictionary value can also be another data type, such as a list. )
- - Sets: set and frozenset (A set is used to contain an unordered collection of objects. Unlike lists and tuples, sets are unordered and cannot be indexed by numbers. But there is one character that makes sets standout as useful: the elements of a set are never duplicated.Ex. duplicate IPs)
+ - Sets: set and frozenset (A set is used to contain an unordered collection of objects. Unlike lists and tuples, sets are unordered and cannot be indexed by numbers. But there is one character that makes sets standout as useful: the elements of a set are never duplicated. Ex. duplicate IPs)
 
 
 
@@ -234,13 +234,14 @@ print(int.__doc__)
     4
     
 
-
+**In:**
 ```python
 print(int(3.14))               # 3
 print(int("3", base = 10))     # 3
 print(int("1010", base = 2))   # 10
 print(int("0b1010", base = 0)) # 10
 ```
+**Out:**
 
     3
     3
@@ -250,23 +251,25 @@ print(int("0b1010", base = 0)) # 10
 
 #### Boolean
 
-
+**In:**
 ```python
 True
 False
 print(type(True))   # <class 'bool'>
 ```
+**Out:**
 
     <class 'bool'>
     
 
 #### None
 
-
+**In:**
 ```python
 print(None is None) # True
 print(type(None))   # <class 'NoneType'>
 ```
+**Out:**
 
     True
     <class 'NoneType'>
@@ -274,7 +277,7 @@ print(type(None))   # <class 'NoneType'>
 
 #### Byte
 
-
+**In:**
 ```python
 # Byte
 ## 0-255/x00-xff
@@ -283,24 +286,26 @@ print(type(byt))    # <class 'bytes'>
 print(byt[0] == 'a')# False
 print(byt[0] == 97) # True
 ```
+**Out:**
 
     <class 'bytes'>
     False
     True
     
 
-
+**In:**
 ```python
 ## Length
 print(len(byt))     # 3
 ```
+**Out:**
 
     3
     
 
 #### String (immutable)
 
-
+**In:**
 ```python
 s1 = 'Chrisz'
 s2 = "Network Automation"
@@ -315,6 +320,7 @@ print("\n%s, %s, %s" % (s1, s2, s3))
 print ("Hi I\'m %s, I love learning %s" % (s1, s2))
 print ("Hi I\'m {}, I love learning {}".format(s1, s2))
 ```
+**Out:**
 
     <class 'str'>
     
@@ -326,7 +332,7 @@ print ("Hi I\'m {}, I love learning {}".format(s1, s2))
     Hi I'm chrisz, I love learning network
     
 
-
+**In:**
 ```python
 ## qutes on a string
 print("a double quoted string")
@@ -336,6 +342,7 @@ print('a single quoted string with \'single quotes\'')
 print("a double quoted string with 'single quotes'")
 print("a double quoted string with \"double quotes\"")
 ```
+**Out:**
 
     a double quoted string
     a single quoted string
@@ -345,27 +352,29 @@ print("a double quoted string with \"double quotes\"")
     a double quoted string with "double quotes"
     
 
-
+**In:**
 ```python
 ## Length
 print(len(s1))      # 6
 ```
+**Out:**
 
     6
     
 
-
+**In:**
 ```python
 ## Slicing
 s = 'study and practice'
 print('{0}:{1}'.format(s[:5], s[-8:]))    # study:practice
 #{0} it is the = s[:5] and the {1} is the = s[-8:] 
 ```
+**Out:**
 
     study:practice
     
 
-
+**In:**
 ```python
 ## Operator: + *
 print("abc" + "." + "xyz")
@@ -376,13 +385,14 @@ s1 = "Christian"
 replaced1 = s1.replace('Christian', 'Philip')
 print(replaced1)
 ```
+**Out:**
 
     abc.xyz
     abcabcabc
     Philip
     
 
-
+**In:**
 ```python
 ## upper() and lower()
 interface = "Ethernet"
@@ -396,7 +406,7 @@ print(interface.capitalize())
     Ethernet
     
 
-
+**In:**
 ```python
 ## startswith() and endswith()
 ipadd = '10.1.1.2'
@@ -405,12 +415,13 @@ print(ipadd.endswith('3'))
 
 ## other methods can be use are strip() , isdigit(10) = True , count()
 ```
+**Out:**
 
     True
     False
     
 
-
+**In:**
 ```python
 ## Casting
 print(str.__doc__)
@@ -422,6 +433,7 @@ print(str((1,2,3)))
 print(str({1,2,3}))
 print(str({'python': '*.py', 'javascript': '*.js'}))
 ```
+**Out:**
 
     str(object='') -> str
     str(bytes_or_buffer[, encoding[, errors]]) -> str
@@ -448,38 +460,41 @@ print(str({'python': '*.py', 'javascript': '*.js'}))
 
 #### List
 
-
+**In:**
 ```python
 l = ['python', 3, 'in', 'one']
 print(type(l))      # <class 'list'>
 ```
+**Out:**
 
     <class 'list'>
     
 
-
+**In:**
 ```python
 ## Length
 print(len(l))       # 4 elements
 ```
+**Out:**
 
     4
     
 
-
+**In:**
 ```python
 ## Slicing
 print(l[0])         # 'python'
 print(l[-1])        # 'one'
 print(l[1:-1])      # [3, 'in']
 ```
+**Out:**
 
     python
     one
     [3, 'in']
     
 
-
+**In:**
 ```python
 ## Alter
 l.append('pic')     # None
@@ -494,13 +509,14 @@ l.extend(['!', '!'])
 print(l)
 # l == ['python', 3, '.4.1', 'in', 'one', 'pic', '!', '!']
 ```
+**Out:**
 
     ['python', 3, 'in', 'one', 'pic']
     ['python', 3, '.4.1', 'in', 'one', 'pic']
     ['python', 3, '.4.1', 'in', 'one', 'pic', '!', '!']
     
 
-
+**In:**
 ```python
 print(l.pop())             # '!'
 print(l)
@@ -518,6 +534,7 @@ del l[2]
 print(l)
 # l == ['python', 3, 'pic', '!']
 ```
+**Out:**
 
     !
     ['python', 3, '.4.1', 'in', 'one', 'pic', '!']
@@ -527,17 +544,18 @@ print(l)
     ['python', 3, 'pic', '!']
     
 
-
+**In:**
 ```python
 print(l.index('pic'))       # 2
 print (l[0][3])             #h is on python[0]
 ```
+**Out:**
 
     2
     h
     
 
-
+**In:**
 ```python
 ips = ['10.1.1.2','10.1.1.1','10.1.1.9', '10.1.1.4','10.1.5.1']
 sorted_ips = sorted(ips) #Sorts the elements on the list(letters & integers)
@@ -546,6 +564,7 @@ print(sorted_ips)
 ips.sort() #sorts the original list
 print(ips)
 ```
+**Out:**
 
     ['10.1.1.1', '10.1.1.2', '10.1.1.4', '10.1.1.9', '10.1.5.1']
     ['10.1.1.1', '10.1.1.2', '10.1.1.4', '10.1.1.9', '10.1.5.1']
@@ -554,19 +573,20 @@ print(ips)
 #### Tuple
 are similar to lists, created by enclosing values in parentheses. Like lists, the values in the tuple are retrieved by referencing its index number. Unlike lists, the values cannot be modified after creation
 
-
+**In:**
 ```python
 tp = (1, 2, 3, [4, 5])
 print(type(tp)) # <class 'tuple'>
 description = tuple(['router','switch', 1])
 print(type(descrip))
 ```
+**Out:**
 
     <class 'tuple'>
     <class 'tuple'>
     
 
-
+**In:**
 ```python
 ## Length
 print(len(tp))  # 4
@@ -576,73 +596,80 @@ print(tp[2])    # 3
 tp[3][1] = 6
 print(tp)       # (1, 2, 3, [4, 6])
 ```
+**Out:**
 
     4
     3
     (1, 2, 3, [4, 6])
     
 
-
+**In:**
 ```python
 ## Single element
 tp = (1, )      # Not tp = (1)
 print(tp)
 ```
+**Out:**
 
     (1,)
     
 
-
+**In:**
 ```python
 ## Assign multiple values at once
 v = (3, 2, 'a')
 (c, b, a) = v
 print(a, b, c)  # a 2 3
 ```
+**Out:**
 
     a 2 3
     
 
 #### Set
 
-
+**In:**
 ```python
 st = {'s', 'e', 'T'}
 print(type(st)) # <class 'set'>
 ```
+**Out:**
 
     <class 'set'>
     
 
-
+**In:**
 ```python
 ## Length
 print(len(st))  # 3
 ```
+**Out:**
 
     3
     
 
-
+**In:**
 ```python
 ## Empty
 st = set()
 print(len(st))  # 0
 ```
+**Out:**
 
     0
     
 
-
+**In:**
 ```python
 st = {}
 print(type(st)) # <class 'dict'>
 ```
+**Out:**
 
     <class 'dict'>
     
 
-
+**In:**
 ```python
 ## Alter
 st = set(['s', 'e', 'T'])
@@ -661,6 +688,7 @@ print(st)
 st.clear()      # st == set()
 print(st)
 ```
+**Out:**
 
     {'T', '!', 's', 't', 'e'}
     {'s', 'e'}
@@ -669,7 +697,7 @@ print(st)
 
 #### Dict
 
-
+**In:**
 ```python
 dic = {}
 print(type(dic))    # <class 'dict'>
@@ -677,21 +705,23 @@ print(type(dic))    # <class 'dict'>
 dic = {'k1': 'v1', 'k2': 'v2'}
 print(dic)
 ```
+**Out:**
 
     <class 'dict'>
     {'k1': 'v1', 'k2': 'v2'}
     
 
-
+**In:**
 ```python
 ## Length
 print(len(dic))     # 2
 ```
+**Out:**
 
     2
     
 
-
+**In:**
 ```python
 print(dic['k2'])            # 'v2'
 print(dic.get('k1'))        # 'v1'
@@ -703,6 +733,7 @@ print(dic)                  # {'k1': 'v1', 'k2': 'v3'}
 print('k2' in dic)          # True
 print('v1' in dic)          # False
 ```
+**Out:**
 
     v2
     v1
@@ -712,7 +743,7 @@ print('v1' in dic)          # False
     False
     
 
-
+**In:**
 ```python
 ## pop and update
 dic.pop('k2')
@@ -721,18 +752,20 @@ oper = dict(cpu='5%', mem='10%')  ##another way to create dict
 oper.update(dic)
 print(oper)          ##{'cpu': '5%', 'mem': '10%', 'k1': 'v1'}
 ```
+**Out:**
 
     {'k1': 'v1'}
     {'cpu': '5%', 'mem': '10%', 'k1': 'v1'}
     
 
-
+**In:**
 ```python
 ## using items, to simyltaneously access keys and values
 devices = {'Juniper':'Junos', 'Cisco':'IOS', 'Nokia':'SR OS'}
 for brand, os in devices.items():
     print(brand, ':' , os)
 ```
+**Out:**
 
     Juniper : Junos
     Cisco : IOS
@@ -758,7 +791,7 @@ else:
 
 #### If
 
-
+**In:**
 ```python
 hostN = "R1"
 if hostN == 'S1':
@@ -776,6 +809,7 @@ elif sys.version_info.major > 3:
 else:
     print("Version 3.X")
 ```
+**Out:**
 
     Device is Router
     Version 3.X
@@ -789,12 +823,13 @@ for i in sequence:
   do something
 
 
-
+**In:**
 ```python
 a = [100, 200, 300, 400]
 for number in a:
     print(number)
 ```
+**Out:**
 
     100
     200
@@ -807,7 +842,7 @@ The **with** block or also called context handler, automatically close what has 
 instead of typing manually **f=open()** and **f.close()**, just use **with open()**, 
 Open and close are built in the python
 
-
+**In:**
 ```python
 prod = 1
 i = 1
@@ -816,11 +851,12 @@ while i < 10:
     i += 1
 print(prod)
 ```
+**Out:**
 
     362880
     
 
-
+**In:**
 ```python
 ## break & continue
 for n in range(2, 10):
@@ -831,6 +867,7 @@ for n in range(2, 10):
         print("n > 5!")
         break
 ```
+**Out:**
 
     Found an even number  2
     Found an even number  4
@@ -838,7 +875,7 @@ for n in range(2, 10):
     n > 5!
     
 
-
+**In:**
 ```python
 ## continue
 for num in range(2, 10):
@@ -847,6 +884,7 @@ for num in range(2, 10):
         continue
     print("Found a number", num)
 ```
+**Out:**
 
     Found an even number 2
     Found a number 3
@@ -862,7 +900,7 @@ for num in range(2, 10):
 
 **List**
 
-
+**In:**
 ```python
 s = [2 * x for x in range(10) if x ** 2 > 3]
 print(s)
@@ -870,6 +908,7 @@ print(s)
 pairs = [(x, y) for x in range(2) for y in range(2)]
 print(pairs)
 ```
+**Out:**
 
     [4, 6, 8, 10, 12, 14, 16, 18]
     [(0, 0), (0, 1), (1, 0), (1, 1)]
@@ -877,7 +916,7 @@ print(pairs)
 
 **Set**
 
-
+**In:**
 ```python
 s = {2 * x for x in range(10) if x ** 2 > 3}
 print(s)
@@ -885,6 +924,7 @@ print(s)
 pairs = set([(x, y) for x in range(2) for y in range(2)])
 print(pairs)
 ```
+**Out:**
 
     {4, 6, 8, 10, 12, 14, 16, 18}
     {(0, 1), (1, 0), (0, 0), (1, 1)}
@@ -892,7 +932,7 @@ print(pairs)
 
 **Dict**
 
-
+**In:**
 ```python
 ls = {s: len(s) for s in ["Python", "Javascript", "Golang"]}
 print(ls)
@@ -900,6 +940,7 @@ print(ls)
 sl = {v: k for k, v in ls.items()}
 print(sl)
 ```
+**Out:**
 
     {'Python': 6, 'Javascript': 10, 'Golang': 6}
     {10: 'Javascript', 6: 'Golang'}
@@ -907,13 +948,14 @@ print(sl)
 
 #### Iterators & Generators
 
-
+**In:**
 ```python
 python = iter("Python")
 print(python)
 for i in python:
     print(i)
 ```
+**Out:**
 
     <str_iterator object at 0x10293f8d0>
     P
@@ -924,7 +966,7 @@ for i in python:
     n
     
 
-
+**In:**
 ```python
 def reverse(data):
     for index in range(len(data)-1, -1, -1):
@@ -934,6 +976,7 @@ print(nohtyp)
 for i in nohtyp:
     print(i)
 ```
+**Out:**
 
     <generator object reverse at 0x1029539e8>
     n
@@ -947,7 +990,7 @@ for i in nohtyp:
 ### IV. Function
 #### Definition
 
-
+**In:**
 ```python
 def f():
     """return 'Hello, World!'"""
@@ -956,6 +999,7 @@ def f():
 print(f())
 print(f.__doc__)
 ```
+**Out:**
 
     Hello, World!
     return 'Hello, World!'
@@ -963,7 +1007,7 @@ print(f.__doc__)
 
 #### Arguments
 
-
+**In:**
 ```python
 ## default arguments
 def f(name = "World"):
@@ -972,12 +1016,13 @@ def f(name = "World"):
 print(f())
 print(f("Python"))
 ```
+**Out:**
 
     Hello, World!
     Hello, Python!
     
 
-
+**In:**
 ```python
 ## keyword arguments
 def f(v, l = "Python"):
@@ -986,12 +1031,13 @@ def f(v, l = "Python"):
 print(f("Hello"))
 print(f("Bye", "C/C++"))
 ```
+**Out:**
 
     Hello, Python!
     Bye, C/C++!
     
 
-
+**In:**
 ```python
 ## arbitrary arguments
 def f(*args, con = " & "):
@@ -1000,12 +1046,13 @@ def f(*args, con = " & "):
 
 f("Python", "C", "C++", con = "/")
 ```
+**Out:**
 
     True
     Hello Python/C/C++
     
 
-
+**In:**
 ```python
 def f(*args, **kargs):
     print("args ", args)
@@ -1014,6 +1061,7 @@ def f(*args, **kargs):
     
 f("Python", "Javascript", ms = "C++", fp = "Haskell")
 ```
+**Out:**
 
     args  ('Python', 'Javascript')
     kargs  {'ms': 'C++', 'fp': 'Haskell'}
@@ -1022,7 +1070,7 @@ f("Python", "Javascript", ms = "C++", fp = "Haskell")
 
 #### Lambda
 
-
+**In:**
 ```python
 pairs = [(1, 'one'), (2, 'two'), (3, 'three'), (4, 'four')]
 pairs.sort(key=lambda pair: pair[1])
@@ -1030,6 +1078,7 @@ print(pairs)
 pairs.sort(key=lambda pair: pair[0])
 print(pairs)
 ```
+**Out:**
 
     [(4, 'four'), (1, 'one'), (3, 'three'), (2, 'two')]
     [(1, 'one'), (2, 'two'), (3, 'three'), (4, 'four')]
@@ -1037,7 +1086,7 @@ print(pairs)
 
 #### @decorator
 
-
+**In:**
 ```python
 def log(f):
     def wrapper():
@@ -1059,6 +1108,7 @@ fa()
 print("*"*10)
 fb()
 ```
+**Out:**
 
     Hey log~
     This is fa!
@@ -1073,7 +1123,7 @@ fb()
 
 ### `class`
 
-
+**In:**
 ```python
 class Animal:
     """This is an Animal"""
@@ -1083,6 +1133,7 @@ a = Animal()
 a.fly()          # I can fly!
 print(a.__doc__) # This is an Animal
 ```
+**Out:**
 
     I can fly!
     This is an Animal
@@ -1090,7 +1141,7 @@ print(a.__doc__) # This is an Animal
 
 ### `__init__` & `self`
 
-
+**In:**
 ```python
 class Animal:
     """This is an Animal"""
@@ -1108,6 +1159,7 @@ a.fly()                    # I can not fly!
 b = Animal(can_fly = True) # Calling __init__() when instantiation!
 b.fly()                    # I CAN fly!
 ```
+**Out:**
 
     Calling __init__() when instantiation!
     I can not fly!
@@ -1117,7 +1169,7 @@ b.fly()                    # I CAN fly!
 
 ### Instance
 
-
+**In:**
 ```python
 class Animal:
     pass
@@ -1128,6 +1180,7 @@ h = Human()
 print(isinstance(a, Animal))
 print(isinstance(h, Animal))
 ```
+**Out:**
 
     True
     False
@@ -1135,7 +1188,7 @@ print(isinstance(h, Animal))
 
 ### Inheritance
 
-
+**In:**
 ```python
 class Animal:
     """This is an Animal"""
@@ -1154,6 +1207,7 @@ d = Dog()
 d.fly()
 d.bark()
 ```
+**Out:**
 
     I can not fly!
     Woof!
@@ -1161,7 +1215,7 @@ d.bark()
 
 ### Override
 
-
+**In:**
 ```python
 class Animal:
     """This is an Animal"""
@@ -1179,6 +1233,7 @@ class Bird:
 bird = Bird()
 bird.fly()    # I'm flying high!
 ```
+**Out:**
 
     I'm flying high!
     
@@ -1187,7 +1242,7 @@ bird.fly()    # I'm flying high!
 
 #### `import`
 
-
+**In:**
 ```python
 import os
 print(os.name)
@@ -1198,6 +1253,7 @@ print("VERSON: {}.{}".format(PY_VERSION.major, PY_VERSION.minor))
 from math import *
 print(pi)
 ```
+**Out:**
 
     posix
     VERSON: 3.5
@@ -1212,7 +1268,7 @@ print(pi)
 
 #### Package
 
-
+**In:**
 ```python
 """
 MyModule/
@@ -1228,7 +1284,7 @@ from MyModule.SubModule import smo
 smo.run()
 # Running MyModule.SubModuleOne.smo!
 ```
-
+**Out:**
 
     ---------------------------------------------------------------------------
 
