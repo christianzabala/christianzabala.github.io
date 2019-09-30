@@ -7,7 +7,8 @@ tags:
   - Juniper
   - Cisco
   - Python
-  - Ansible 
+  - Ansible
+  - SDN
   - Video Courses
   - Books
 toc: true
@@ -17,7 +18,8 @@ toc_label: show table-of-contents
 
 This post is all about how I started learning Network Automation. I used the [JNCIA-DevOps course](https://www.juniper.net/uk/en/training/certification/certification-tracks/devops?tab=jnciadevops) as a guide on the things that I need to study in doing some network automation stuff. After I finished the course and pass the exam, I understand more the automation being done on the company I’m working for, I was able to read the Python codes they are using, and  realized the benefit or the importance of the existing automations it gives for the business.  
 
-> On this post I used the Network Automation but other words may also have connection like NetDevOps, Network Programmability, SDN(Software Defined Networking), and etc. .
+On this post I used the Network Automation but other words may also have connection like NetDevOps, Network Programmability, SDN(Software Defined Networking), and etc.
+{: .notice--info}
 
 Others might want me to go already to the point on how did I got a free exam voucher so here it is:
 
@@ -63,7 +65,7 @@ You may want to check out David Bombal video [Best Python books for Network Engi
 
 
 
-My Recommended Video Courses to watch:
+### My Recommended Video Courses to watch:
 
   **1. JNCIA-Cloud**
     - I recommend to enroll this free course first since this will give you an overview on how the cloud works since most of the knowledge you can acquire on this course like SDN,NFV, and some automation will surely help you understand some of the concepts for the JNCIA-DevOps exam.
