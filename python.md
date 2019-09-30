@@ -6,4 +6,4 @@ collection: Python
 excerpt: "Edited version of coodict-python3-in-one-pic"
 ---
 
-{% include_relative /assests/py3-in-one-pic (CSZ).ipynb %}
+{% include_relative /assests/py3-in-one-pic(CSZ).ipynb %}
