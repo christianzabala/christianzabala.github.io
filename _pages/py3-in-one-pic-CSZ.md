@@ -5,6 +5,9 @@ permalink: /Python/
 collection: Python
 classes: wide
 excerpt: "Edited version of coodict-python3-in-one-pic"
+toc: true
+toc_icon: angle-right
+toc_label: show table-of-contents
 ---
 This is my personal Python Notebook that I used when I studied the JNCIA-DevOps exam, The primary content on this page was from [coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) and I just added and edited some information for me to understand more about Python Programming. Other resources was based on the books and Videos I shared on this post [What are my resources to pass the JNCIA-DevOps and how did I get it for FREE?](https://divide-and-conquer.network/networking%20automation/What-are-my-resources-to-pass-the-JNCIA-DevOps-and-how-did-I-get-it-for-FREE/)
 
