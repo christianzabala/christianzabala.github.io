@@ -108,24 +108,26 @@ Can be check using the built-in function **id()**
 
 
 ```python
+Input:
 ## integer (immutable)
 a = 1
 b = 0x10            # 16
 print(type(a))      # <class 'int'>
 ```
-
+Output:
     <class 'int'>
     
 
 
 ```python
+Input:
 ## float (immutable)
 c = 1.2
 d = .5              # 0.5
 g = .314e1          # 3.14
 print(type(g))      # <class 'float'>
 ```
-
+Output:
     <class 'float'>
     
 
