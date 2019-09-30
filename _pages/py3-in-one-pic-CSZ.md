@@ -10,7 +10,7 @@ excerpt: "Edited version of coodict-python3-in-one-pic"
 ```python
 import this
 ```
-
+**Output:**
     The Zen of Python, by Tim Peters
     
     Beautiful is better than ugly.
@@ -114,7 +114,7 @@ a = 1
 b = 0x10            # 16
 print(type(a))      # <class 'int'>
 ```
-Output:
+**Output:**
     <class 'int'>
     
 
@@ -127,7 +127,7 @@ d = .5              # 0.5
 g = .314e1          # 3.14
 print(type(g))      # <class 'float'>
 ```
-Output:
+**Output:**
     <class 'float'>
     
 
