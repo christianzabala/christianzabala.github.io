@@ -3,12 +3,7 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
-    children:
-        - title: "Networking"
-          url: /categories/Networking
   - title: "Tags"
     url: /tags/
-  - title: "Python"
-    url: /Python/
   - title: "About"
     url: /about/
