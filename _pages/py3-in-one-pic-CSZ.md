@@ -1,11 +1,10 @@
 ---
 title: Python
-layout: collection
 permalink: /Python/
-collection: Python
 classes: wide
 excerpt: "Edited version of coodict-python3-in-one-pic"
 toc: true
+toc_sticky: true
 toc_icon: angle-right
 toc_label: show table-of-contents
 ---
