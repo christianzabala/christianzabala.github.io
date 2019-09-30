@@ -62,7 +62,7 @@ I created this post which are the things that I want to achieve during the year 
        *  [CBT Nuggets - Cisco CCNP Routing and Switching 300-135 TSHOOT](https://www.cbtnuggets.com/it-training/cisco-ccnp-routing-switching-300-135)            
        *  [CBT Nuggets - Cisco CCNP TSHOOT 300-135 Hands-on Labs Exam Prep](https://www.cbtnuggets.com/it-training/cisco-ccnp-tshoot-300-135-hands-on-labs-exam-prep)         
        *  [Oreilly  - Large-Scale Network Design: Best practices for designing elegant, scalable, and programmable networks with OSPF, EIGRP, IS-IS, and BGP routing protocols](https://www.oreilly.com/library/view/large-scale-network-design/9780134686547/) : Failure Domains
-       *  [INE - Security Concepts)(https://my.ine.com/course/ine-ccna-sc-210-260-iins-security-concepts/b76a8686-4855-4af3-95d9-9946b5c72fef) : Common Security Threats :: Part 5    
+       *  [INE - Security Concepts](https://my.ine.com/course/ine-ccna-sc-210-260-iins-security-concepts/b76a8686-4855-4af3-95d9-9946b5c72fef) : Common Security Threats :: Part 5    
       *  [INE - Shell Scripting Fundamentals for Network Engineers](https://my.ine.com/course/shell-scripting-fundamentals/fc599b3a-275d-4907-8ed6-8b8f270ba5a9) :  The big three (awk/grep/sed)           
       *  <strike>[CBT Nuggets - ITIL® v3 Foundation](https://www.cbtnuggets.com/it-training/itilr-foundations) </strike>           
       *  <strike>[Udemy - Practical Web Development: Make Websites Quickly And Easily](https://www.udemy.com/course/make-beautiful-websites-in-a-few-hours/) </strike>    
