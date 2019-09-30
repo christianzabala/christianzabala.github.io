@@ -6,11 +6,12 @@ collection: Python
 classes: wide
 excerpt: "Edited version of coodict-python3-in-one-pic"
 ---
-
+**In:**
 ```python
 import this
 ```
-**Output:** <br/>
+**Out:**
+    
     The Zen of Python, by Tim Peters
     
     Beautiful is better than ugly.
@@ -106,32 +107,34 @@ Can be check using the built-in function **id()**
 ### I. Native DataTypes
 #### Number
 
-
+**In:**
 ```python
-Input:
+
 ## integer (immutable)
 a = 1
 b = 0x10            # 16
 print(type(a))      # <class 'int'>
 ```
-**Output:**
+**Out:**
+
     <class 'int'>
     
 
-
+**In:**
 ```python
-Input:
+
 ## float (immutable)
 c = 1.2
 d = .5              # 0.5
 g = .314e1          # 3.14
 print(type(g))      # <class 'float'>
 ```
-**Output:**
+**Out:**
+
     <class 'float'>
     
 
-
+**In:**
 ```python
 ## complex
 e = 1+2j
@@ -139,12 +142,13 @@ f = complex(1, 2)
 print(type(e))      # <class 'complex'>
 print(f == e)       # True
 ```
+**Out:**
 
     <class 'complex'>
     True
     
 
-
+**In:**
 ```python
 ## Operators: + - * / ** // %
 print(1 + 1) #addition
@@ -171,6 +175,7 @@ my_list = [1,2,3]
 print(a in my_list) #'in' to check for containment a=2
 print(5 > 3 and 'w' in 'word')
 ```
+**Out:**
 
     2
     0
@@ -186,7 +191,7 @@ print(5 > 3 and 'w' in 'word')
     True
     
 
-
+**In:**
 ```python
 ## Casting
 ### Integer -> Float
@@ -196,6 +201,7 @@ print(float(3))
 print(3 / 1)
 print(float("3.14"))
 ```
+**Out:**
 
     float(x) -> floating point number
     
@@ -205,11 +211,12 @@ print(float("3.14"))
     3.14
     
 
-
+**In:**
 ```python
 ### Float -> Integer
 print(int.__doc__)
 ```
+**Out:**
 
     int(x=0) -> integer
     int(x, base=10) -> integer
