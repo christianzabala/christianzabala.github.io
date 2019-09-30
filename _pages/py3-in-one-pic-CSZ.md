@@ -10,7 +10,7 @@ excerpt: "Edited version of coodict-python3-in-one-pic"
 ```python
 import this
 ```
-**Output:**
+**Output:** <br/>
     The Zen of Python, by Tim Peters
     
     Beautiful is better than ugly.
