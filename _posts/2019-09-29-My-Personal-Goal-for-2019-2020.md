@@ -9,7 +9,7 @@ tags:
 
 I created this post which are the things that I want to achieve during the year 2019 to 2020 so that I will feel accountable to do the things I listed here and help me focused to achieve my goals and not get distracted on unimportant things.  I created this list last March 2019 on my Google Docs  and on my laptop Sticky Notes so some of my goals are already crossed out because they are already been done which also helps me to think that I'm slowly achieving the goals that I set for myself to keep me motivated to keep moving forward.
 
-  * Technical 
+  * **Technical** 
       * <strike>Study & Pass JNCIA-Junos</strike> 
       * <strike>Study & Pass JNCIA-DevOps</strike> 
       * Study the network of the company I’m working at and also the automation being implemented
@@ -23,24 +23,26 @@ I created this post which are the things that I want to achieve during the year 
       * Study network security technologies
       * Study Courses on [AWS Educate](https://www.awseducate.com/student/s/) provided by Edukasyon.ph
       * Study some tools used for front-end web development (HTML,CSS,JavaScript,Angular or React)
-  * Non-Technical
+  * **Non-Technical**
       *  <strike>Create a personal blog(To share some knowledge & to organize my resources and what I have learned)</strike> 
       * Get fit
       *  <strike>Learn to trade on the stock market and start to buy some stocks on PSE</strike>
       * Continuously create post for my blog that is helpful for the community
-  * Books to read
-      * [Network Programmability and Automation](https://www.amazon.com/Network-Programmability-Automation-Next-Generation-Engineer-ebook/dp/B079K6HWQX)
-      * [Mastering Python Networking](https://www.packtpub.com/networking-and-servers/mastering-python-networking) 
-      * [Network Warrior](http://shop.oreilly.com/product/0636920010159.do)
+  * **Books to read**
+      * [Network Programmability and Automation](https://www.amazon.com/Network-Programmability-Automation-Next-Generation-Engineer-ebook/dp/B079K6HWQX) : Chapter 6: Network Configuration Templates
+      * [Mastering Python Networking](https://www.packtpub.com/networking-and-servers/mastering-python-networking) : Chapter 5: The Python Automation Framework – Beyond Basics
+      * [Introducing Python: Modern Computing in Simple Packages](http://shop.oreilly.com/product/0636920028659.do) : Chapter 6: Oh Oh: Objects and Classes
+      * <strike>[Network Automation with Ansible - Jason Edelman](https://www.oreilly.com/library/view/network-automation-with/9781492042389/)</strike>
+      * [Network Warrior](http://shop.oreilly.com/product/0636920010159.do) : Chapter 7: Link Aggregation
       * JNCIS-SP Study guide P1-3
-      * [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) 
+      * [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) : Chapter 4: Check the Ego
       * [Juniper Day One Books](https://www.juniper.net/us/en/training/jnbooks/):
           * 
       * [MPLS Fundamentals](https://www.amazon.com/MPLS-Fundamentals-Luc-Ghein/dp/1587051974)
       * [MPLS in the SDN Era](http://shop.oreilly.com/product/0636920033905.do)
       * [Routing TCP/IP, Volume II: CCIE Professional Development](https://www.amazon.com/Routing-TCP-CCIE-Professional-Development/dp/1578700892) 
       
-  * Video Training Courses
+  * **Video Training Courses**
       * <strike>[CBT Nuggets - Cisco CCIP BGP 642-661](https://www.cbtnuggets.com/it-training/cisco-ccip-bgp-642-661)</strike> 
       *  <strike>[CBT Nuggets - MPLS Fundamentals](https://www.cbtnuggets.com/it-training/mpls-fundamentals)</strike> 
       *  <strike>[CBT Nuggets - Juniper JNCIA-Junos (JN0-102)](https://www.cbtnuggets.com/it-training/juniper-jncia-junos-jn0-102)</strike> 
