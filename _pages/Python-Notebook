@@ -1,8 +1,0 @@
----
-permalink: /Python/
-title: "My Python Notebook"
-excerpt: "Edited version of coodict-python3-in-one-pic"
-layout: default
----
-
-{% include_relative /assests/py3-in-one-pic (CSZ).ipynb %}
