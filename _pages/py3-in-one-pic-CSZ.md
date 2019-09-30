@@ -8,7 +8,7 @@ toc_sticky: true
 toc_icon: angle-right
 toc_label: show table-of-contents
 ---
-This is my personal Python Notebook that I used when I studied the JNCIA-DevOps exam, The primary content on this page was from [coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) and I just added and edited some information for me to understand more about Python Programming. Other resources was based on the books and Videos I shared on this post [What are my resources to pass the JNCIA-DevOps and how did I get it for FREE?](https://divide-and-conquer.network/networking%20automation/What-are-my-resources-to-pass-the-JNCIA-DevOps-and-how-did-I-get-it-for-FREE/)
+This is my personal Python Notebook that I used when I studied the JNCIA-DevOps exam, The primary content on this page was from [coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) and I just added and edited some information for me to understand more about Python Programming. Other resources was based on the books and videos I shared on this post [What are my resources to pass the JNCIA-DevOps and how did I get it for FREE?](https://divide-and-conquer.network/networking%20automation/What-are-my-resources-to-pass-the-JNCIA-DevOps-and-how-did-I-get-it-for-FREE/)
 
 **In:**
 ```python
@@ -1150,28 +1150,24 @@ print(a.__doc__) # This is an Animal
 
 **In:**
 ```python
-class Animal:
-    """This is an Animal"""
-    def __init__(self, can_fly = False):
-        print("Calling __init__() when instantiation!")
-        self.can_fly = can_fly
-    def fly(self):
-        if self.can_fly:
-            print("I CAN fly!")
-        else:
-            print("I can not fly!")
-a = Animal()               # Calling __init__() when instantiation!
-a.fly()                    # I can not fly!
-
-b = Animal(can_fly = True) # Calling __init__() when instantiation!
-b.fly()                    # I CAN fly!
+class Switch:
+    """Info for a switch"""
+    def __init__(self, Vendor, Name, Interface):
+        self.vendor = Vendor
+        self.name = Name
+        self.interface = Interface
+s1 = Switch("Juniper", "vSRX-01", 5)
+print(s1.vendor)
+print(s1.name)
+print(s1.interface)
+print(s1.__doc__)
 ```
 **Out:**
 
-    Calling __init__() when instantiation!
-    I can not fly!
-    Calling __init__() when instantiation!
-    I CAN fly!
+    Juniper
+    vSRX-01
+    5
+    Info for a switch
     
 
 ## Instance
@@ -1306,11 +1302,6 @@ smo.run()
     
 
     ModuleNotFoundError: No module named 'MyModule'
-
-
-## VII. Pythonic
-
-## VIII. Standard Libraries
 
 
 ```python
