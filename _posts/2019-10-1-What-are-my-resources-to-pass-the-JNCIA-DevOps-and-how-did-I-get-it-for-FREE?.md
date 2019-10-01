@@ -23,16 +23,15 @@ On this post I used the Network Automation but other words may also have connect
 
 Others might want me to go already to the point on how did I got a free exam voucher so here it is:
 
-As of now the JNCIA-DevOPS is only available on [Open learning website](https://openlearning.juniper.net/jol-courses/) unlike other courses like JNCIA-Junos and JNCIA-Cloud which I think they are already available on the [Junos Genius](www.junosgenius.net).
-Click for a live sessions course you want to take ex. [JNCIA-DevOps Preparation](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=11060)
-Choose a date that has still available slot to register
-Click the register > Customer & Partner Login
-If you don’t have a Juniper account yet, click on the New user but if you already have go ahead and use it.
-After you register, you will most likely have emails regarding you registration, Event reminder and how to have an access for the materials. Note: All emails are not sent for just one day 
-Perhaps 2 days before the course start date you will get an email on how to have an access on the course material on [Junos Genius](https://cloud.contentraven.com/junosgenius/index) so make sure you already have a working account for Junos Genius 
-Once your account has the course you have chosen on the Juniper Open Learning tab then proceed on studying the self paced video course
-After you finish the course modules, you will need to take the Voucher Assessment Test which you must pass it within 3 attempts only but it doesn’t have any time limit.
-After you pass the assessment test you will need to click a button then you will get an email with the voucher code for the exam that you will apply for the Pearson Vue exam.
+1. As of now the JNCIA-DevOPS is only available on [Open learning website](https://openlearning.juniper.net/jol-courses/) unlike other courses like JNCIA-Junos and JNCIA-Cloud which I think they are already available on the [Junos Genius](www.junosgenius.net).
+2. Click for a live sessions course you want to take ex. [JNCIA-DevOps Preparation](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=11060)
+3. Choose a date that has still available slot to register
+4. Click the register > Customer & Partner Login, If you don’t have a Juniper account yet, click on the New user but if you already have go ahead and use it.
+5. After you register, you will most likely have emails regarding you registration, Event reminder and how to have an access for the materials. Note: All emails are not sent for just one day 
+6. Perhaps 2 days before the course start date you will get an email on how to have an access on the course material on [Junos Genius](https://cloud.contentraven.com/junosgenius/index) so make sure you already have a working account for Junos Genius 
+7. Once your account has the course you have chosen on the Juniper Open Learning tab then proceed on studying the self paced video course
+8. After you finish the course modules, you will need to take the Voucher Assessment Test which you must pass it within 3 attempts only but it doesn’t have any time limit.
+9. After you pass the assessment test you will need to click a button then you will get an email with the voucher code for the exam that you will apply for the Pearson Vue exam.
 
 And that’s how simple it is to get an Exam voucher worth of $200 US dollars.
 
