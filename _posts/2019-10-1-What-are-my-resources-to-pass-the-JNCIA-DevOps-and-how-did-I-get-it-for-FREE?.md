@@ -70,7 +70,7 @@ You may want to check out David Bombal video [Best Python books for Network Engi
   **1. JNCIA-Cloud**
     - I recommend to enroll this free course first since this will give you an overview on how the cloud works since most of the knowledge you can acquire on this course like SDN,NFV, and some automation will surely help you understand some of the concepts for the JNCIA-DevOps exam.
 
-  **2. [Cisco NetDevOps - network programmability basics](https://developer.cisco.com/video/net-prog-basics/)**
+  **2. [Cisco DevNet - Network Programmability Basics](https://developer.cisco.com/video/net-prog-basics/)**
     - This course might be for Cisco products but it is really helpful for me on my Network automation journey and Hank Preston explain well the topics and the role of a Network Engineer nowadays. I just watch Module 1 and 2 only on this free video course.
     
   **3. [Pinoy Python - Programming Tutoria](https://www.youtube.com/watch?v=5IfJ_rwj8SA&list=PL7uPIMVcTgxlqtlGvcnO_Q72P4b5Nzm_W)l**
