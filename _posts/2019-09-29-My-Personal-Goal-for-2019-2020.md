@@ -28,7 +28,7 @@ I created this post which are the things that I want to achieve during the year 
       * Get fit
       *  <strike>Learn to trade on the stock market and start to buy some stocks on PSE</strike>
       * Continuously create post for my blog that is helpful for the community
-      * Finish TV Series(<strike>Silicon Valley</strike>, Suits S8 Ep11, The Big Bang Theory S12, Mr. Robot S2
+      * Finish TV Series(<strike>Silicon Valley</strike>, Suits S8 Ep11, The Big Bang Theory S12, Mr. Robot S2)
   * **Books to read**
       * [Network Programmability and Automation](https://www.amazon.com/Network-Programmability-Automation-Next-Generation-Engineer-ebook/dp/B079K6HWQX) : Chapter 6: Network Configuration Templates
       * [Mastering Python Networking](https://www.packtpub.com/networking-and-servers/mastering-python-networking) : Chapter 5: The Python Automation Framework – Beyond Basics
