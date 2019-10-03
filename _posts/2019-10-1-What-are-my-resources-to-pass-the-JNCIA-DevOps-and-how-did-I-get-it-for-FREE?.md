@@ -78,7 +78,7 @@ You may want to check out David Bombal video [Best Python books for Network Engi
   **4. [INE - Automation & Systems Category](https://my.ine.com/search?query=Automation%20Systems)**
 - There are plenty of Automation Video courses available on INE which are all helpful but for now I only choose 4 of them since some overlaps with other videos. Luckily the company I’m working for had given us a INE account. :heart_eyes:
  
-  * [Python Programming for Network Engineers(https://my.ine.com/course/ine-python-programming/7477146c-397b-4510-b910-1108608879b5) - was able to watch upto Control Structures :: Breaking Out of Loops.
+  * [Python Programming for Network Engineers](https://my.ine.com/course/ine-python-programming/7477146c-397b-4510-b910-1108608879b5) - was able to watch upto Control Structures :: Breaking Out of Loops.
   * [Python Programming for Network Engineers](https://my.ine.com/course/ine-python-101-for-network-engineers/448da730-773e-49a0-a4a2-6eb675288b7e)
   * [Practical Python Cisco Network Automation](https://my.ine.com/course/ine-practical-python-cisco-network-automation/3be5db2b-43fb-4510-9288-d9c6913a9037)
   * [GIT Fundamentals](https://my.ine.com/course/ine-git-fundamentals/1f09eded-6c92-4a68-ac7e-043c48bd35c1)
