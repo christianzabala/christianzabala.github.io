@@ -33,7 +33,7 @@ Others might want me to go already to the point on how did I got a free exam vou
 8. After you finish the course modules, you will need to take the Voucher Assessment Test which you must pass it within 3 attempts only but it doesn’t have any time limit.
 9. After you pass the assessment test you will need to click a button then you will get an email with the voucher code for the exam that you will apply for the Pearson Vue exam.
 
-And that’s how simple it is to get an Exam voucher worth of $200 US dollars.
+And that’s how simple it is to get an Exam voucher worth of $200 US dollars., Those steps is also applicable for JNCIA-Junos, JNCIA-Cloud and JNCDA, which I plan to have post of the resources I used to pass those exams.
 
 The Course might be enough already to pass the exam for individuals who already have existing knowledge already on most of the exam topics. But if you are a complete beginner like me you may want to continue studying on other resources. I have listed below the books, video courses, and other links that I used to pass the exam and help me on my daily work which I’m sure will also help others, especially for those who are just starting to learn about network automation. 
 
@@ -53,7 +53,7 @@ You may want to check out David Bombal video [Best Python books for Network Engi
     - This book may overlap some topics on the 3 books above but this book contains great topics also that was not included on those 3 books plus it has great real word examples that is explained in a simple way.
 
   **4. [Juniper Free Day One books](https://www.juniper.net/us/en/training/jnbooks/)**
-    - This are the books that I was able to read, I did not dig deeper for all the books listed here since most of the further chapters on each book will not be included in the exam and I don’t get to interface them on my daily work.
+    - This are the books that I was able to read, I did not dig deeper for all the books listed here since most of the further chapters on each book will not be included in the exam and I don’t get to interface them on my daily work. If you read these books you will get high chance to pass the exam since there are a lot of exam questions that can be found on these books.
           * Day One: Automating Junos® with Ansible, 2nd Edition - upto Chapter 12 (Scan only some chapters)
           * Day One: Automating Junos with Salt - upto Chapter 2
           * Junos PyEZ Cookbook - was able to scan the whole book(200 pages) since the 23 Recipes on this book was very interesting since it will give me an Idea on what are the probable automation stuff I can do in the future. 
@@ -70,16 +70,43 @@ You may want to check out David Bombal video [Best Python books for Network Engi
     - I recommend to enroll this free course first since this will give you an overview on how the cloud works since most of the knowledge you can acquire on this course like SDN,NFV, and some automation will surely help you understand some of the concepts for the JNCIA-DevOps exam.
 
   **2. [Cisco DevNet - Network Programmability Basics](https://developer.cisco.com/video/net-prog-basics/)**
-    - This course might be for Cisco products but it is really helpful for me on my Network automation journey and Hank Preston explain well the topics and the role of a Network Engineer nowadays. I just watch Module 1 and 2 only on this free video course.
+    - This course might be for Cisco products but it is really helpful for me on my Network automation journey and Hank Preston explain well the topics and the role of a Network Engineer nowadays. I just watch Module 1 and 2 only on this free video course but you can learn a lot from those videos. There's a lot of other free DevNet Tracks you can choose on the [Cisco DevNet](https://developer.cisco.com/) website plus there are labs you can work on. A sample explanation about Cisco Devnet and about Hank Preston can be watched on this [video](https://www.youtube.com/watch?v=Tarqb6uRvX8&t=122s) of David Bombal.
     
   **3. [Pinoy Python - Programming Tutoria](https://www.youtube.com/watch?v=5IfJ_rwj8SA&list=PL7uPIMVcTgxlqtlGvcnO_Q72P4b5Nzm_W)l**
     - I recommend this free youtube video tutorial for my fellow Filipinos since the Python Basic Concepts is explained well Tag-lish and in layman's terms.
 
-  **4. INE**
-    - Introduction to Python Programming for Network Engineers
-    - Python Programming for Network Engineers
-    - Practical Python Cisco Network Automation
+  **4. [INE - Automation & Systems Category](https://my.ine.com/search?query=Automation%20Systems)**
+- There are plenty of Automation Video courses available on INE which are all helpful but for now I only choose 4 of them since some overlaps with other videos. Luckily the company I’m working for had given us a INE account. :heart_eyes:
+ 
+  * [Python Programming for Network Engineers(https://my.ine.com/course/ine-python-programming/7477146c-397b-4510-b910-1108608879b5) - was able to watch upto Control Structures :: Breaking Out of Loops.
+  * [Python Programming for Network Engineers](https://my.ine.com/course/ine-python-101-for-network-engineers/448da730-773e-49a0-a4a2-6eb675288b7e)
+  * [Practical Python Cisco Network Automation](https://my.ine.com/course/ine-practical-python-cisco-network-automation/3be5db2b-43fb-4510-9288-d9c6913a9037)
+  * [GIT Fundamentals](https://my.ine.com/course/ine-git-fundamentals/1f09eded-6c92-4a68-ac7e-043c48bd35c1)
+
+  **5. Youtube Videos -There are a lot of free videos on youtube that is related to Network Automation, But it’s up to you to choose only what is helpful for your career. Here are the videos that I was able to watched that I’m sure that all of them are really helpful for a person who is starting his/her Network Automation journey:
+
+
+  * [NetDevOps: Hank Preston and David Bombal discuss the future of Network DevOps: Cisco Python, Automation, NETCONF, SDN, Docker, Kubernetes and more](https://www.youtube.com/watch?v=Tarqb6uRvX8&list=PLhfrWIlLOoKMduetaIJgOoQCyfiJNEX74) - Currently 26 great videos from David and Hank since it is more of a question and answer series for NetDevOps not just pure discussion.
+
+  * [NetDevOps Live!](https://www.youtube.com/watch?v=_6ZoQ1QRw7I&list=PL2k86RlAekM-0_lErsVdS_xqQMLYRcdhU) - Currently there are 27 videos on this playlist of Cisco Devnet, I did not watch yet all of it but I’m able to watch most of the videos during my commute and when I have vacant time on my work. :smile:
+
 
 
 ### Other resources that I used:
-To be continue
+  **1. [coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic/blob/master/README.md)** - The mind map of coodict repository is great way to connect the concepts needed together with example use but the IPython Notebook is more useful for me since it serves as my reviewer and together with [Jupyter](https://jupyter.org/), I use it to learn Python.
+
+  **2. [Anaconda](https://www.anaconda.com/distribution/)** -  This application is what I have installed on my Windows 10 laptop for studying Python plus Jupyter notebook is already included on its installer.
+
+  **3. [PyCharm](https://www.jetbrains.com/pycharm/?fromMenu)** - This is the IDE I used for creating my Python script projects like my [CSZ tool](https://github.com/christianzabala/CSZ-Tool), but there are other great IDEs you can used, I suggest to choose what you prefer. IDE is not that necessary for the JNCIA-DevOps exam but if you want to pursue your Network Automation career, an IDE is really important tool for developing programs. You may want to check out David video about [Python IDEs for network engineers](https://www.youtube.com/watch?v=pbdF_4YpRJg) for more info.
+
+  **4. [GitHub](https://github.com/)** - This platform is for collaboration of code projects and a place where you can store your codes(Private or Public). This may not be necessary for the JNCIA-DevOps exam but it is also an essential tool for the Network Automation Track.  A great discussion about GitHub can be viewed on this [David & Hank Video](https://www.youtube.com/watch?v=7OoGuLH9IwU&t=69s)
+
+ **5. [Juniper TechLibrary](https://www.juniper.net/documentation/** - If you are struggling to find information regarding topics that are for Juniper only, this is the site where you can find a lot of information 
+
+**Note:** You might think that I did not install or practice around other tools that is included in the exam like Ansible. I did not yet play around with it since the concepts is only needed for the exam and I’m not going to interface with it yet on my present job since they mostly used Python and [Go]( https://golang.org)for the automation works since there are more benefits in using them for example the multithreaded on python which is really useful when pushing new configs to a lot of network device, but I’m not sure if Ansible doesn’t have that feature and there are more codes available on the community for Python than Ansible.
+  
+That’s all I can think of for now but there might be other resources that I used that I already forgot since I often just google around the web so if you find something difficult just search the web. If you find some useful stuff that can help other then you may want to share it in the comments section. 
+
+Thank you for reading this post and I hope you can get a lot of information here for your journey to Network Automation .
+
+> Take an object. Do something to it. Do something else to it. - Jasper Johns
