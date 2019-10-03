@@ -1,5 +1,6 @@
 ---
 title: Python Notebook
+permalink: /Python/
 classes: defualt
 excerpt: "My Personal Python Notebook that contains the basic conepts needed for Python Programming, This is a edited version of coodict-python3-in-one-pic"
 toc: true
@@ -1191,6 +1192,27 @@ print(isinstance(h, Animal))
 
     True
     False
+
+**In:**
+```python
+class Switch:
+    """Info for a switch"""
+    def __init__(self, Vendor, Name, Interface):
+        self.vendor = Vendor
+        self.name = Name
+        self.interface = Interface
+s1 = Switch("Juniper", "vSRX-01", 5)
+print(s1.vendor)
+print(s1.name)
+print(s1.interface)
+print(s1.__doc__)
+```
+**Out:**
+
+    Juniper
+    vSRX-01
+    5
+    Info for a switch
     
 
 ## Inheritance
