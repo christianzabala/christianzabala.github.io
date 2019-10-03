@@ -66,7 +66,7 @@ You may want to check out David Bombal video [Best Python books for Network Engi
 
 ### My Recommended Video Courses to watch:
 
-  **1. JNCIA-Cloud**
+  **1. [JNCIA-Cloud](https://www.juniper.net/us/en/training/certification/resources/jncia-cloud/)**
     - I recommend to enroll this free course first since this will give you an overview on how the cloud works since most of the knowledge you can acquire on this course like SDN,NFV, and some automation will surely help you understand some of the concepts for the JNCIA-DevOps exam.
 
   **2. [Cisco DevNet - Network Programmability Basics](https://developer.cisco.com/video/net-prog-basics/)**
