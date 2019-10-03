@@ -101,10 +101,11 @@ You may want to check out David Bombal video [Best Python books for Network Engi
 
   **4. [GitHub](https://github.com/)** - This platform is for collaboration of code projects and a place where you can store your codes(Private or Public). This may not be necessary for the JNCIA-DevOps exam but it is also an essential tool for the Network Automation Track.  A great discussion about GitHub can be viewed on this [David & Hank Video](https://www.youtube.com/watch?v=7OoGuLH9IwU&t=69s)
 
- **5. [Juniper TechLibrary](https://www.juniper.net/documentation/** - If you are struggling to find information regarding topics that are for Juniper only, this is the site where you can find a lot of information 
+ **5. [Juniper TechLibrary](https://www.juniper.net/documentation/)** - If you are struggling to find information regarding topics that are for Juniper only, this is the site where you can find a lot of information 
 
 **Note:** You might think that I did not install or practice around other tools that is included in the exam like Ansible. I did not yet play around with it since the concepts is only needed for the exam and I’m not going to interface with it yet on my present job since they mostly used Python and [Go]( https://golang.org)for the automation works since there are more benefits in using them for example the multithreaded on python which is really useful when pushing new configs to a lot of network device, but I’m not sure if Ansible doesn’t have that feature and there are more codes available on the community for Python than Ansible.
-  
+ {: .notice--info}
+ 
 That’s all I can think of for now but there might be other resources that I used that I already forgot since I often just google around the web so if you find something difficult just search the web. If you find some useful stuff that can help other then you may want to share it in the comments section. 
 
 Thank you for reading this post and I hope you can get a lot of information here for your journey to Network Automation .
