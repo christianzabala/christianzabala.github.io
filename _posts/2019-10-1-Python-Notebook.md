@@ -83,14 +83,14 @@ list comprehensions are considered expressions, but they also have looping const
 - String (delimited by """ """) is actually called a docstring and is used on special places for defined purposes (briefly: first thing in module or function describing the module or function) and is actually accessible in the code (so it is a part of the program, it is not a comment).
 Ex. <br/> 
 ```python
-'>>> def my_function():<br/>  
-...  """The function's docstring"""<br/> 
-... <br/> 
-'>>> help(my_function)<br/> 
-<br/> 
+>>> def my_function(): 
+...  """The function's docstring"""
+... 
+'>>> help(my_function)
+
         Help on function my_function in module __main__:
-<br/> 
-my_function()<br/> 
+
+my_function()
     The function's docstring
 ```
 
