@@ -86,7 +86,7 @@ Ex. <br/>
 >>> def my_function(): 
 ...  """The function's docstring"""
 ... 
-'>>> help(my_function)
+>>> help(my_function)
 
         Help on function my_function in module __main__:
 
