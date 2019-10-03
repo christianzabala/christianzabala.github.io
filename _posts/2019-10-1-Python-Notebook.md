@@ -52,9 +52,10 @@ import this
  - Python is an interpreted programming language - No compilation phase is necessary, Programming file is translated into byte code before execution, Byte code is interpreted in python virtual machine.
  
 # Why Python for Network Engineers
- - Readable and easy to learn
- - Widely available and open source
+ - Readable and easy to learn since Python is a dynamically typed language that allows you to create and use Python objects (such as variables and functions) 
+ - Widely available and Open Source
  - Many relevant code samples and lots of training resources
+ - Lots of training resources
 
 # Statements
  - In General a Python statement does something
@@ -75,12 +76,22 @@ import this
  - 3 + 3
  - range(4)
  - [x*2 for x in range()]
-
- list comprehensions are considered expressions, but they also have looping constructions, so they also "do something"
+list comprehensions are considered expressions, but they also have looping constructions, so they also "do something"
 
 # Difference between comments in python # and “”"
 - Comments start with # and are not part of the code.
 - String (delimited by """ """) is actually called a docstring and is used on special places for defined purposes (briefly: first thing in module or function describing the module or function) and is actually accessible in the code (so it is a part of the program, it is not a comment).
+Ex. 
+>>> def my_function():
+...  """The function's docstring"""
+... 
+>>> help(my_function)
+
+        Help on function my_function in module __main__:
+
+my_function()
+    The function's docstring
+
 
 
 # Helpful Interactive Python Commands
@@ -99,11 +110,11 @@ import this
 
 # Python built-in types or Native Data Types
 Python has several standard types built in to the interpreter:
- - None: The Null object
- - Numerics: int, long, float, complex, and bool (the subclass of int with a True or False value)
- - Sequences: str, list, tuple, and range (Sequences are ordered sets of objects/values with an index of non-negative integers. Sometimes it surprises people that string is actually a sequence type. But if you look closely, strings are a series of characters put together)
- - Mappings: dict (Python provides one mapping type, called the dictionary, it contains objects that can be indexed by keys. This is often referred to as the associated array or hashing table in other languages. This is a powerful type, because you can refer to the object with a human-readable key. This key will make more sense for the poor guy who is trying to maintain and troubleshoot the code. That guy could be you only a few months after you wrote the code. The object in the dictionary value can also be another data type, such as a list. )
- - Sets: set and frozenset (A set is used to contain an unordered collection of objects. Unlike lists and tuples, sets are unordered and cannot be indexed by numbers. But there is one character that makes sets standout as useful: the elements of a set are never duplicated. Ex. duplicate IPs)
+ - **None:** The Null object or denotes an object with no value.
+ - **Numerics:** int, long, float, complex, and bool (the subclass of int with a True or False value)
+ - **Sequences:** str, list, tuple, and range (Sequences are ordered sets of objects/values with an index of non-negative integers. Sometimes it surprises people that string is actually a sequence type. But if you look closely, strings are a series of characters put together)
+ - **Mappings:** dict (Python provides one mapping type, called the dictionary, it contains objects that can be indexed by keys. This is often referred to as the associated array or hashing table in other languages. This is a powerful type, because you can refer to the object with a human-readable key. This key will make more sense for the poor guy who is trying to maintain and troubleshoot the code. That guy could be you only a few months after you wrote the code. The object in the dictionary value can also be another data type, such as a list. )
+ - **Sets:** set and frozenset (A set is used to contain an unordered collection of objects. Unlike lists and tuples, sets are unordered and cannot be indexed by numbers. But there is one character that makes sets standout as useful: the elements of a set are never duplicated. Ex. duplicate IPs)
 
 
 
@@ -342,10 +353,9 @@ print ("Hi I\'m {}, I love learning {}".format(s1, s2))
     Hi I'm chrisz, I love learning network
     Hi I'm chrisz, I love learning network
     
-
+## Qutes on a string
 **In:**
 ```python
-## qutes on a string
 print("a double quoted string")
 print('a single quoted string')
 print('a single quoted string with "double quotes"')
@@ -372,10 +382,12 @@ print(len(s1))      # 6
 
     6
     
+## Slicing 
+- used to extract a substring
+Note that index starts at 0. Therefore, the index 1 is actually the second element in the sequence.
 
 **In:**
 ```python
-## Slicing
 s = 'study and practice'
 print('{0}:{1}'.format(s[:5], s[-8:]))    # study:practice
 #{0} it is the = s[:5] and the {1} is the = s[-8:] 
@@ -384,14 +396,13 @@ print('{0}:{1}'.format(s[:5], s[-8:]))    # study:practice
 
     study:practice
     
-
+## Operator: + * and replacing a string
 **In:**
 ```python
-## Operator: + *
+
 print("abc" + "." + "xyz")
 print("abc"*3)
 
-#replace a string
 s1 = "Christian"
 replaced1 = s1.replace('Christian', 'Philip')
 print(replaced1)
@@ -402,10 +413,9 @@ print(replaced1)
     abcabcabc
     Philip
     
-
+## upper() and lower()
 **In:**
 ```python
-## upper() and lower()
 interface = "Ethernet"
 print(interface.lower())
 print(interface.upper())
@@ -416,10 +426,9 @@ print(interface.capitalize())
     ETHERNET
     Ethernet
     
-
+## startswith() and endswith()
 **In:**
 ```python
-## startswith() and endswith()
 ipadd = '10.1.1.2'
 print(ipadd.startswith('10'))
 print(ipadd.endswith('3'))
@@ -431,10 +440,9 @@ print(ipadd.endswith('3'))
     True
     False
     
-
+## Casting
 **In:**
 ```python
-## Casting
 print(str.__doc__)
 
 print(str(3.14))
@@ -480,20 +488,18 @@ print(type(l))      # <class 'list'>
 
     <class 'list'>
     
-
+### Length
 **In:**
 ```python
-## Length
 print(len(l))       # 4 elements
 ```
 **Out:**
 
     4
     
-
+### Slicing on list
 **In:**
 ```python
-## Slicing
 print(l[0])         # 'python'
 print(l[-1])        # 'one'
 print(l[1:-1])      # [3, 'in']
@@ -504,10 +510,9 @@ print(l[1:-1])      # [3, 'in']
     one
     [3, 'in']
     
-
+### Manipulate contets on a list: append(), insert(), extend(), pop(), remove(), del, index(), sorted(), sort()
 **In:**
 ```python
-## Alter
 l.append('pic')     # None
 print(l)
 # l == ['python', 3, 'in', 'one', 'pic']
@@ -557,7 +562,7 @@ print(l)
 
 **In:**
 ```python
-print(l.index('pic'))       # 2
+print(l.index('pic'))       # 2 since the original l was already altered
 print (l[0][3])             #h is on python[0]
 ```
 **Out:**
@@ -638,7 +643,7 @@ print(a, b, c)  # a 2 3
     
 
 ## Set
-
+- is an unordered collection data type that is iterable, mutable, and has no duplicate elements. 
 **In:**
 ```python
 st = {'s', 'e', 'T'}
@@ -674,15 +679,15 @@ print(len(st))  # 0
 ```python
 st = {}
 print(type(st)) # <class 'dict'>
+# set is like a dict with keys but no values,  Use set() for empty sets, use {} for empty dicts for less complication
 ```
 **Out:**
 
     <class 'dict'>
     
-
+### Manipulate contets on a list: add(), update(), discard(), remove(), pop(), clear()
 **In:**
 ```python
-## Alter
 st = set(['s', 'e', 'T'])
 st.add('t')     # st == {'s', 'e', 't', 'T'}
 st.add('t')     # st == {'s', 'e', 't', 'T'}
@@ -706,8 +711,8 @@ print(st)
     set()
     
 
-## Dict
-
+## Dictionary
+- is an unordered collection of items. Has Key : Value pair.
 **In:**
 ```python
 dic = {}
@@ -753,10 +758,9 @@ print('v1' in dic)          # False
     True
     False
     
-
+## dict pop and update
 **In:**
 ```python
-## pop and update
 dic.pop('k2')
 print(dic)                          ##{'k1': 'v1'}
 oper = dict(cpu='5%', mem='10%')  ##another way to create dict
@@ -768,10 +772,9 @@ print(oper)          ##{'cpu': '5%', 'mem': '10%', 'k1': 'v1'}
     {'k1': 'v1'}
     {'cpu': '5%', 'mem': '10%', 'k1': 'v1'}
     
-
+### using items, to simyltaneously access keys and values
 **In:**
 ```python
-## using items, to simyltaneously access keys and values
 devices = {'Juniper':'Junos', 'Cisco':'IOS', 'Nokia':'SR OS'}
 for brand, os in devices.items():
     print(brand, ':' , os)
