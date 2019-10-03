@@ -83,7 +83,7 @@ You may want to check out David Bombal video [Best Python books for Network Engi
   * [Practical Python Cisco Network Automation](https://my.ine.com/course/ine-practical-python-cisco-network-automation/3be5db2b-43fb-4510-9288-d9c6913a9037)
   * [GIT Fundamentals](https://my.ine.com/course/ine-git-fundamentals/1f09eded-6c92-4a68-ac7e-043c48bd35c1)
 
-  **5. Youtube Videos -There are a lot of free videos on youtube that is related to Network Automation, But it’s up to you to choose only what is helpful for your career. Here are the videos that I was able to watched that I’m sure that all of them are really helpful for a person who is starting his/her Network Automation journey:
+  **5. Youtube Videos** -There are a lot of free videos on youtube that is related to Network Automation, But it’s up to you to choose only what is helpful for your career. Here are the videos that I was able to watched that I’m sure that all of them are really helpful for a person who is starting his/her Network Automation journey:
 
 
   * [NetDevOps: Hank Preston and David Bombal discuss the future of Network DevOps: Cisco Python, Automation, NETCONF, SDN, Docker, Kubernetes and more](https://www.youtube.com/watch?v=Tarqb6uRvX8&list=PLhfrWIlLOoKMduetaIJgOoQCyfiJNEX74) - Currently 26 great videos from David and Hank since it is more of a question and answer series for NetDevOps not just pure discussion.
@@ -103,7 +103,7 @@ You may want to check out David Bombal video [Best Python books for Network Engi
 
  **5. [Juniper TechLibrary](https://www.juniper.net/documentation/)** - If you are struggling to find information regarding topics that are for Juniper only, this is the site where you can find a lot of information 
 
-**Note:** You might think that I did not install or practice around other tools that is included in the exam like Ansible. I did not yet play around with it since the concepts is only needed for the exam and I’m not going to interface with it yet on my present job since they mostly used Python and [Go]( https://golang.org)for the automation works since there are more benefits in using them for example the multithreaded on python which is really useful when pushing new configs to a lot of network device, but I’m not sure if Ansible doesn’t have that feature and there are more codes available on the community for Python than Ansible.
+**Note:** You might think that I did not install or practice around other tools that is included in the exam like Ansible. I did not yet play around with it since the concepts is only needed for the exam and I’m not going to interface with it yet on my present job since they mostly used Python and [Go]( https://golang.org) for the automation works since there are more benefits in using them for example the multithreaded on python which is really useful when pushing new configs to a lot of network device, but I’m not sure if Ansible doesn’t have that feature and there are more codes available on the community for Python than Ansible.
  {: .notice--info}
  
 That’s all I can think of for now but there might be other resources that I used that I already forgot since I often just google around the web so if you find something difficult just search the web. If you find some useful stuff that can help other then you may want to share it in the comments section. 
