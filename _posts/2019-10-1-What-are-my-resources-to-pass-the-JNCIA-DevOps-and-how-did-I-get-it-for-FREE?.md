@@ -54,11 +54,11 @@ You may want to check out David Bombal video [Best Python books for Network Engi
 
   **4. [Juniper Free Day One books](https://www.juniper.net/us/en/training/jnbooks/)**
     - This are the books that I was able to read, I did not dig deeper for all the books listed here since most of the further chapters on each book will not be included in the exam and I don’t get to interface them on my daily work. If you read these books you will get high chance to pass the exam since there are a lot of exam questions that can be found on these books.
-          * Day One: Automating Junos® with Ansible, 2nd Edition - upto Chapter 12 (Scan only some chapters)
-          * Day One: Automating Junos with Salt - upto Chapter 2
-          * Junos PyEZ Cookbook - was able to scan the whole book(200 pages) since the 23 Recipes on this book was very interesting since it will give me an Idea on what are the probable automation stuff I can do in the future. 
-          * Using JSNAP to Automate Network Verifications - only 128 page book same reason as the PyEZ Cookbook on why I finished the whole book.
-          * This Week: Mastering Junos Automation Programming - Scan the book upto chapter 2, got bored on SLAX topic.
+      * Day One: Automating Junos® with Ansible, 2nd Edition - upto Chapter 12 (Scan only some chapters)
+      * Day One: Automating Junos with Salt - upto Chapter 2
+      * Junos PyEZ Cookbook - was able to scan the whole book(200 pages) since the 23 Recipes on this book was very interesting since it will give me an Idea on what are the probable automation stuff I can do in the future. 
+      * Using JSNAP to Automate Network Verifications - only 128 page book same reason as the PyEZ Cookbook on why I finished the whole book.
+      * This Week: Mastering Junos Automation Programming - Scan the book upto chapter 2, got bored on SLAX topic.
 
 
 
