@@ -82,6 +82,7 @@ list comprehensions are considered expressions, but they also have looping const
 - Comments start with # and are not part of the code.
 - String (delimited by """ """) is actually called a docstring and is used on special places for defined purposes (briefly: first thing in module or function describing the module or function) and is actually accessible in the code (so it is a part of the program, it is not a comment).
 Ex. <br/> 
+```python
 '>>> def my_function():<br/>  
 ...  """The function's docstring"""<br/> 
 ... <br/> 
@@ -91,7 +92,7 @@ Ex. <br/>
 <br/> 
 my_function()<br/> 
     The function's docstring
-
+```
 
 
 # Helpful Interactive Python Commands
