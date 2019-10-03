@@ -110,7 +110,7 @@ You may want to check out David Bombal video [Best Python books for Network Engi
  
 That’s all I can think of for now but there might be other resources that I used that I already forgot since I often just google around the web so if you find something difficult just search the web. If you find some useful stuff that can help other then you may want to share it in the comments section. 
 
-#My Advice:
+# My Advice:
   * If you feel or think that you can’t handle the topics for the exam or learning a Programming is hard, always remember that there is no person that was born that already knows how to write codes, All of us always start at the beginning and a constant practice is the key to be successful on your chosen path.
 
   * If you find learning Python difficult, just start on learning just the basics like how to manipulate the native data types then think of something that you want to play around or there is a manual work you always do that you think writing a script could help you. You may want to search for easy python projects that you can work on to get a grasp on writing and reading Python codes.
