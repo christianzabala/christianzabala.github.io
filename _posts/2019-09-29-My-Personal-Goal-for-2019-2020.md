@@ -14,13 +14,14 @@ I created this post which are the things that I want to achieve during the year 
       * <strike>Study & Pass JNCIA-DevOps</strike> 
       * Study the network of the company I’m working at and also the automation being implemented
       * Study advanced topics (IS-IS, BGP, MPLS, LDP, RSVP, MVPN, PIM-SM) by reading books and courses on INE
-      * Create a python script  for manual workloads being handled on my daily work. <strike>[CSZ tool](https://github.com/christianzabala/CSZ-Tool)</strike>, script that caches ssh passwords, script for Single customer issue(Parse show various commands)
+      * Create a python script  for manual workloads being handled on my daily work. <strike>[CSZ tool](https://github.com/christianzabala/CSZ-Tool)</strike>, script that caches ssh passwords, script for Single customer issue(Parse show various commands), script to auto provision basic config for multi-vendor devices using a template 
       * Study automation tools (Python, Ansible, Go, Netmiko, Napalm, Nornir, Docker, APIs , Jinja2, tools being used on the company I’m working for, and etc.)
       * <strike>Prepare the tools for Network automation (ex. GitHub, Python, IDE, and etc.)</strike> 
       * Study & Pass JNCIS-SP
       * Study the topics involved on the CCNP Enterprise (300-401 ENCOR & 300-410 ENARSI), as a preparation for the new exam in Feb 2020
       * Study  Comptia Linux+ topics perhaps take the exam also
       * Study network security technologies
+      * Study database system(SQL)
       * Study Courses on [AWS Educate](https://www.awseducate.com/student/s/) provided by Edukasyon.ph
       * Study some tools used for front-end web development (HTML,CSS,JavaScript,Angular or React)
   * **Non-Technical**
@@ -78,7 +79,8 @@ I created this post which are the things that I want to achieve during the year 
        *  [CBT Nuggets - Cisco CCNP Routing and Switching 300-115 SWITCH](https://www.cbtnuggets.com/it-training/cisco-ccnp-routing-switching-300-115) : STP Configuring RSTP and MST
        *  [CBT Nuggets - Cisco CCNP Routing and Switching 300-101 ROUTE Training](https://www.cbtnuggets.com/it-training/cisco-ccnp-routing-switching-300-101)      
        *  [CBT Nuggets - Cisco CCNP Routing and Switching 300-135 TSHOOT](https://www.cbtnuggets.com/it-training/cisco-ccnp-routing-switching-300-135)            
-       *  [CBT Nuggets - Cisco CCNP TSHOOT 300-135 Hands-on Labs Exam Prep](https://www.cbtnuggets.com/it-training/cisco-ccnp-tshoot-300-135-hands-on-labs-exam-prep)         
+       *  [CBT Nuggets - Cisco CCNP TSHOOT 300-135 Hands-on Labs Exam Prep](https://www.cbtnuggets.com/it-training/cisco-ccnp-tshoot-300-135-hands-on-labs-exam-prep) 
+       * [CCDA Design 200-310 v3.0 Technology Course](https://my.ine.com/course/ine-ccda-200-310-tech-course/8230d74d-5bf4-4c88-afe5-0cf4536a4cf1)
        *  [Oreilly  - Large-Scale Network Design: Best practices for designing elegant, scalable, and programmable networks with OSPF, EIGRP, IS-IS, and BGP routing protocols](https://www.oreilly.com/library/view/large-scale-network-design/9780134686547/) : Failure Domains
        *  [INE - Security Concepts](https://my.ine.com/course/ine-ccna-sc-210-260-iins-security-concepts/b76a8686-4855-4af3-95d9-9946b5c72fef) : Common Security Threats :: Part 5    
       *  [INE - Shell Scripting Fundamentals for Network Engineers](https://my.ine.com/course/shell-scripting-fundamentals/fc599b3a-275d-4907-8ed6-8b8f270ba5a9) :  The big three (awk/grep/sed)           
