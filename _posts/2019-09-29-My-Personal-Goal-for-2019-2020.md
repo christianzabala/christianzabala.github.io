@@ -57,6 +57,7 @@ I created this post which are the things that I want to achieve during the year 
           
       * [MPLS Fundamentals](https://www.amazon.com/MPLS-Fundamentals-Luc-Ghein/dp/1587051974)
       * [MPLS in the SDN Era](http://shop.oreilly.com/product/0636920033905.do)
+      * [Routing TCP/IP Volume 1_2 (CCIE Professional Development)](https://www.amazon.com/Routing-TCP-IP-Professional-Development-ebook/dp/B008K9ADRI)
       * [Routing TCP/IP, Volume II: CCIE Professional Development](https://www.amazon.com/Routing-TCP-CCIE-Professional-Development/dp/1578700892) 
       
   * **Video Training Courses**
