@@ -1,6 +1,7 @@
 ---
 title: What are my resources to pass the JNCIA-DevOps and how did I get it for FREE?
 excerpt: "How to get free voucher for JNCIA-DevOps exam, How to pass the JNCIA-DevOps Juniper Exam, What are the possible resources can be used for JNCIA-DevOps"
+layout: splash
 categories:
   - Networking Automation
 tags:
