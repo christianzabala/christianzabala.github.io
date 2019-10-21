@@ -17,7 +17,7 @@ toc_icon: angle-right
 toc_label: show table-of-contents
 ---
 
-<figure style="width: 300px" class="align-right">
+<figure style="width: 400px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ccna_exam_pic.jpg" alt="">
 </figure>
 
