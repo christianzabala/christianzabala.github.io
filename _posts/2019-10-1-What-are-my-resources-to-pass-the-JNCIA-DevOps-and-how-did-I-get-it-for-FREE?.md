@@ -11,6 +11,8 @@ tags:
   - SDN
   - Video Courses
   - Books
+header:
+  teaser: /assets/images/Jncia_devops_exam.jpg 
 toc: true
 toc_icon: angle-right
 toc_label: show table-of-contents
