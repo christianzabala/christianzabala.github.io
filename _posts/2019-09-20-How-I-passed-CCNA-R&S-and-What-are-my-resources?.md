@@ -10,6 +10,8 @@ tags:
   - Switching 
   - Video Courses
   - Books
+header:
+  teaser: /assets/images/ccna_exam_pic.jpg
 toc: true
 toc_icon: angle-right
 toc_label: show table-of-contents
