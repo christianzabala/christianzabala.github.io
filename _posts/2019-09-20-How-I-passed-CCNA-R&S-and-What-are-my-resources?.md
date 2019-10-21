@@ -16,6 +16,7 @@ toc: true
 toc_icon: angle-right
 toc_label: show table-of-contents
 ---
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/ccna_exam_pic.jpg){: .align-right}
 
 In this post I will share my  journey on conquering the CCNA Routing & Switching certification exam. I have first List the 
 resources that I studied on this post because not might all people are interested on my short story, but  if you have time 
