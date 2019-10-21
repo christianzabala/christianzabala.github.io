@@ -1,7 +1,6 @@
 ---
 title: What are my resources to pass the JNCIA-DevOps and how did I get it for FREE?
 excerpt: "How to get free voucher for JNCIA-DevOps exam, How to pass the JNCIA-DevOps Juniper Exam, What are the possible resources can be used for JNCIA-DevOps"
-layout: splash
 categories:
   - Networking Automation
 tags:
@@ -19,6 +18,11 @@ toc_icon: angle-right
 toc_label: show table-of-contents
 ---
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/Jncia_devops_exam.jpg){: .align-right}
+
+<figure style="width: 150px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Jncia_devops_exam.jpg" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+</figure> 
 
 This post is all about how I started learning Network Automation. I used the [JNCIA-DevOps course](https://www.juniper.net/uk/en/training/certification/certification-tracks/devops?tab=jnciadevops) as a guide on the things that I need to study in doing some network automation stuff. After I finished the course and pass the exam, I understand more the automation being done on the company I’m working for, I was able to read the Python codes they are using, and  realized the benefit or the importance of the existing automations it gives for the business.  
 
