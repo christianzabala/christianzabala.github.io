@@ -12,6 +12,7 @@ I created this post which are the things that I want to achieve during the year 
   * **Technical** 
       * <strike>Study & Pass JNCIA-Junos</strike> 
       * <strike>Study & Pass JNCIA-DevOps</strike> 
+      * Study & Pass JNCIA-SEC      
       * Study the network of the company I’m working at and also the automation being implemented
       * Study advanced topics (IS-IS, BGP, MPLS, LDP, RSVP, MVPN, PIM-SM) by reading books and courses on INE
       * Create a python script  for manual workloads being handled on my daily work. <strike>[CSZ tool](https://github.com/christianzabala/CSZ-Tool)</strike>, script that caches ssh passwords, script for Single customer issue(Parse show various commands), script to auto provision basic config for multi-vendor devices using a template 
@@ -19,7 +20,7 @@ I created this post which are the things that I want to achieve during the year 
       * <strike>Prepare the tools for Network automation (ex. GitHub, Python, IDE, and etc.)</strike> 
       * Study & Pass JNCIS-SP
       * Study the topics involved on the CCNP Enterprise (300-401 ENCOR & 300-410 ENARSI), as a preparation for the new exam in Feb 2020
-      * Study  Comptia Linux+ topics perhaps take the exam also
+      * Study Comptia Linux+ topics perhaps take the exam also
       * Study network security technologies
       * Study database system(SQL)
       * Study Courses on [AWS Educate](https://www.awseducate.com/student/s/) provided by Edukasyon.ph
@@ -31,7 +32,7 @@ I created this post which are the things that I want to achieve during the year 
       * Continuously create post for my blog that is helpful for the community
       * Finish TV Series(<strike>Silicon Valley</strike>, Suits S8 Ep11, The Big Bang Theory S12, Mr. Robot S2)
       * <strike>Buy additional RAM for my laptop and a Monitor</strike>
-      * Replace my phone(Samsung Note 3)
+      * <strike>Replace my phone(Samsung Note 3)</strike>
   * **Books to read**
       * [Network Programmability and Automation](https://www.amazon.com/Network-Programmability-Automation-Next-Generation-Engineer-ebook/dp/B079K6HWQX) : Chapter 6: Network Configuration Templates
       * [Mastering Python Networking](https://www.packtpub.com/networking-and-servers/mastering-python-networking) : Chapter 5: The Python Automation Framework – Beyond Basics
