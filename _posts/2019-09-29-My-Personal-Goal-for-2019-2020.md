@@ -70,7 +70,9 @@ I created this post which are the things that I want to achieve during the year 
       *  <strike>[INE - JNCIA: Introduction to the Junos Operating System](https://my.ine.com/course/ine-jncia-intro-to-junos-os/92b72673-6aeb-4f65-9d32-a30a3301d362)</strike>   
       *  <strike>[INE - Introduction To MPLS](https://my.ine.com/course/rs-intro-to-mpls/43b76338-4e6a-40a6-acbc-76ef40be2557s)</strike>
       *  <strike>[INE -  CCIE R&S: Routing with ISIS](https://my.ine.com/course/ccie-rs-routing-with-isis/d57a7f7c-7fc3-42bc-a28e-dc827fb0d7f3)</strike>   
-      *  <strike>[[INE - CCIE R&S: L3 Multicast with PIM Sparse-Mode](https://my.ine.com/course/ccie-rs-l3-multicast-pim/2867b1d9-83a4-460d-851f-80bebc95a256)</strike>     
+      *  ~~[INE - CCIE R&S: L3 Multicast with PIM Sparse-Mode](https://my.ine.com/course/ccie-rs-l3-multicast-pim/2867b1d9-83a4-460d-851f-80bebc95a256)~~    
+      *  <strike>[INE - CCIE ROUTING & SWITCHING ADVANCED TROUBLESHOOTING](https://my.ine.com/course/ccie-adv-troubleshooting/f3849e99-4bc3-4c22-ac6d-534590df9912)</strike>  Except Frame Relay, RIP, and EIGRP Topics  
+      *  <strike>[CCIE R&S: Understanding Transmission Control Protocol (TCP)]https://my.ine.com/course/ccie-rs-understaning-tcp/cff2f246-49cf-413c-a4c7-d8b33f30b038)</strike>
       *  [INE - Python Programming for Network Engineers](https://my.ine.com/course/ine-python-programming/7477146c-397b-4510-b910-1108608879b5) : Control Structures :: Breaking Out of Loops
       *  <strike>[INE - Python 101 for Network Engineers](https://my.ine.com/course/ine-python-101-for-network-engineers/448da730-773e-49a0-a4a2-6eb675288b7e)</strike> 
       *  <strike>[INE - Practical Python Cisco Network Automation](https://my.ine.com/course/ine-practical-python-cisco-network-automation/3be5db2b-43fb-4510-9288-d9c6913a9037)</strike>
