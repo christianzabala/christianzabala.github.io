@@ -60,12 +60,15 @@ For sure every candidate for the Network Development Engineer role or any person
   *  Master first the basic fundamental concepts because that will serve as your foundation on how can you be able to quickly learn or retain the knowledge that you have studied on the advance technologies 
   *  Don’t hesitate to answer their questions even If you are not confident in the knowledge you currently have because you don't know if the question that you decided to skip might be a big factor in their selection process. 
   *  Don’t be afraid to fail or try something new, so you don’t get left behind.
-  *  Create your own document for the Interview question. For me I used Google Docs since I can access it anywhere and since my handwriting is not that good :D , Example docs that I made:
+  *  Create your own document for the Interview question. For me I used Google Docs since I can access it anywhere and since my handwriting is not that good :smile: , Example docs that I made:
       * Technical Q&A
       * Troubleshooting Q&A
       * Interview Q&A (contains common interview questions for different company and the questions that I want to ask to the interviewer)
       * AWS Interview Q&A (research it on [Glassdoor](https://www.glassdoor.com/Interview/Amazon-Interview-Questions-E6036.htm))
-  *   The role requires deep knowledge of different protocols used in networking which may vary depending on the role of the team you will apply for, so it’s important you really know the major protocols in networking. For example TCP, you must not settle on knowing that it uses three-way handshake. You must know how it achieves reliability and flow control, what are the fields on the TCP header including the flag bits and their purposes, and how it tears down the session. But you don’t have to master it or be like a human wireshark, for meI think you just need to understand how it really works but for sure it’s a plus if you can answer an Expert type of questions.
+  *   The role requires deep knowledge of different protocols used in networking which may vary depending on the role of the team you will apply for, so it’s important you really know the major protocols in networking. For example TCP, you must not settle on knowing that it uses three-way handshake. You must know how it achieves reliability and flow control, what are the fields on the TCP header including the flag bits and their purposes, and how it tears down the session. But you don’t have to master it or be like a human wireshark, for meI think you just need to understand how it really works but for sure it’s a plus if you can answer an Expert type of question.
  
   *  Create your own automation tool or script that could help you or your current team remove some manual works on your day to day job. Nowadays, having programming language knowledge will surely help you get the job you wanted. But make sure that you can clearly explain what you have created and what is the result of the script that you made since most probably you will get asked about it.
+  
+  * Practice, Practice, Practice! Try doing a mock interview to someone you know or simulate it on your own, ask interview questions to yourself or think of the technical questions in your head then write your answer on a paper.
+  
   *  Lastly just relax during every interview that you would take because if you get nervous you can't think clearly. Just  be yourself and trust yourself that you could answer their questions or will pass the interview.
