@@ -1,9 +1,9 @@
 ---
 title: My personal goal for 2019-2020
 categories:
-  - Pesonal Development
+  - Personal Development
 tags:
-  - Books
+  - Books & Videos
   - Personal Goals
 ---
 
