@@ -36,7 +36,7 @@ The first person who interviewed me was the hiring manager and it was all about 
       *  [The Broadcast Storm](https://open.spotify.com/show/17USQEYa2UL1OoQ9qIeHAf) on spotify which is the podcasts of  Kevin Wallace is also very helpful for me since I was able to hear the different educational podcast during my commute and while I’m walking going to the office or home. I can’t remember how many times I have played his podcast about OSPF and BGP.
 
 
-      *  AWS re:Invent  - I have watched AWS re:Invent videos especially those related to their network infrastructure, I was never asked about their network, but who knows what questions would they might ask perhaps someone might ask related to their Network design since you can get a lot of information on how they address different networking design issues. Plus you might get ideas on those videos on what you would like to ask the interviewers. 
+      *  AWS re:Invent  - I have watched AWS re:Invent Youtube videos especially those related to their network infrastructure, I was never asked about their network, but who knows what questions would they might ask perhaps someone might ask related to their Network design since you can get a lot of information on how they address different networking design issues. Plus you might get ideas on those videos on what you would like to ask the interviewers. 
 
 
 
@@ -69,6 +69,6 @@ For sure every candidate for the Network Development Engineer role or any person
  
   *  Create your own automation tool or script that could help you or your current team remove some manual works on your day to day job. Nowadays, having programming language knowledge will surely help you get the job you wanted. But make sure that you can clearly explain what you have created and what is the result of the script that you made since most probably you will get asked about it.
   
-  * Practice, Practice, Practice! Try doing a mock interview to someone you know or simulate it on your own, ask interview questions to yourself or think of the technical questions in your head then write your answer on a paper.
+  * Practice, Practice, Practice! Try doing a mock interview with someone you know or simulate it on your own, ask interview questions to yourself or think of the technical questions in your head then write your answer on a paper.
   
   *  Lastly just relax during every interview that you would take because if you get nervous you can't think clearly. Just  be yourself and trust yourself that you could answer their questions or will pass the interview.
