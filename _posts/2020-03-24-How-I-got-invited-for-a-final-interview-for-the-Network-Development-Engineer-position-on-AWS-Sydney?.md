@@ -40,7 +40,7 @@ The first person who interviewed me was the hiring manager and it was all about 
 
 
 
-Resources that I should have studied:
+**Resources that I should have studied:**
       *  [Day One: Data Center Fundamental](https://www.juniper.net/documentation/en_US/day-one-books/DC_Fundamentals.pdf) -  I have read the chapter 1 to 5 of this book but I wasn’t able to apply it on my interview and I forgot what I read about it, it's because I prioritize learning what a service provider has which the field I currently working at. 
       *  [THIS WEEK: DATA CENTER DEPLOYMENT WITH EVPN/VXLAN](https://www.juniper.net/documentation/en_US/day-one-books/TW_DCDeployment.v2.pdf) - For me if I could have just read this, it may gave me some advantage from other applicants even though I don't know what AWS used on its underlay and overlay
 
