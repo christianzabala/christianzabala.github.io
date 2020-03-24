@@ -10,7 +10,7 @@ tags:
   - Ansible
   - SDN
   - Video Courses
-  - Books
+  - Books & Videos
 header:
   teaser: /assets/images/Jncia_devops_exam.jpg 
 toc: true
