@@ -7,7 +7,7 @@ tags:
   - Interview
   - Books & Videos
 header:
-  teaser: /assets/images/syd.jpg 
+  teaser: /assets/images/syd1.jpg 
 ---
 
 
