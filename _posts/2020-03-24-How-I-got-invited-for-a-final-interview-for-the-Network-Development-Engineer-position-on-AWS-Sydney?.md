@@ -13,7 +13,7 @@ header:
 
 I wasn’t able to create a post on this site since last October 2019 because I was preparing for the interviews for the Network Development Engineer role for AWS. Luckily now I have extra time again to write posts that could perhaps help others in their career, So I decided why not share first my AWSome experience on my journey to pass one of my dream job which I wasn’t able to achieve yet but perhaps someday I can finally pass the final interview if I get lucky to be called again, or perhaps I can achieve a similar kind of role here in the Philippines since it is better if you can see your family for just a couple of hours of travel.
 
-NOTE: I will not be sharing the Interview questions on this post since I have signed a NDA.
+**NOTE:** I will not be sharing the Interview questions on this post since I have signed a NDA.
 {: .notice--info}
 
 For what I can remember I first saw the job posting on a facebook group around July or August of 2019 but I did not apply for it immediately since I still enjoy and still have a lot to learn my current job, and also  the job requirements is 5+ years of experience which I don’t have yet, even combining my first job which is not mainly network related role, I only have 2+ years of experience back then. But the job description got stuck on my head for days that made me look for the job posting several times until I decided to study the needed qualifications for the role. 
