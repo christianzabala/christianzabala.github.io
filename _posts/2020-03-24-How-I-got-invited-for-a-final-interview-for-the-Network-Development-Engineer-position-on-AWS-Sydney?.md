@@ -6,6 +6,8 @@ tags:
   - AWS
   - Interview
   - Books & Videos
+header:
+  teaser: /assets/images/syd.jpg 
 ---
 
 
