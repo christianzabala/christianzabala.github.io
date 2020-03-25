@@ -34,7 +34,9 @@ The first person who interviewed me was the hiring manager and it was all about 
       *  [Troubleshooting End-to-End MPLS - BRKMPL-3124](https://www.ciscolive.com/global/on-demand-library.html?search=mpls#/session/14545296394170016WcY)
       *  [Multicast Troubleshooting - BRKIPM-2264](https://www.ciscolive.com/global/on-demand-library.html?search=#/session/1542224318892001rjEi)
 
-      *  I have watch videos about OSPF, BGP, MPLS, and Automation on [TeamNANOG](https://www.youtube.com/user/TeamNANOG) and [CHI-NOG](https://www.youtube.com/user/chicagonog) youtube channels which are really great videos that will surely help anyone on their career: 
+      *  I have watch videos about OSPF, BGP, MPLS, and Automation on [TeamNANOG](https://www.youtube.com/user/TeamNANOG) and [CHI-NOG](https://www.youtube.com/user/chicagonog) youtube channels which are really great videos that will surely help anyone on their career.
+      
+      * Cisco and Juniper Documentation - If you are done watching traning videos, read the topic you have learned so your mind will really understand or build the concept you have studied and not just put it on your short-term memory.
 
       *  [The Broadcast Storm](https://open.spotify.com/show/17USQEYa2UL1OoQ9qIeHAf) on spotify which is the podcasts of  Kevin Wallace is also very helpful for me since I was able to hear the different educational podcast during my commute and while I’m walking going to the office or home. I can’t remember how many times I have played his podcast about OSPF and BGP.
 
@@ -68,6 +70,7 @@ For sure every candidate for the Network Development Engineer role or any person
       * Troubleshooting Q&A
       * Interview Q&A (contains common interview questions for different company and the questions that I want to ask to the interviewer)
       * AWS Interview Q&A (research it on [Glassdoor](https://www.glassdoor.com/Interview/Amazon-Interview-Questions-E6036.htm))
+      * Protocols Docs (For example BGP doc, I always document what I have learned during watching BGP training videos, reading books, and on a vendor documentation so that I can find easily something when I forgot something. This also help me ratain what I have learned.)
       
   *   The role requires deep knowledge of different protocols used in networking which may vary depending on the role of the team you will apply for, so it’s important you really know the major protocols in networking. For example TCP, you must not settle on knowing that it uses three-way handshake. You must know how it achieves reliability and flow control, what are the fields on the TCP header including the flag bits and their purposes, and how it tears down the session. But you don’t have to master it or be like a human wireshark, for me I think you just need to understand how it really works but for sure it’s a plus if you can answer an Expert type of question.
  
