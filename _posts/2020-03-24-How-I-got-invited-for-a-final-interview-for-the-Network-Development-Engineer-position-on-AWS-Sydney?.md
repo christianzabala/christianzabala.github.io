@@ -1,5 +1,6 @@
 ---
 title: How I got invited for a final interview for the Network Development Engineer position on AWS Sydney?
+excerpt: "Network Development Engineer AWS, final interview for Network Development Engineer Amazon"
 categories:
   - Personal Development
 tags:
