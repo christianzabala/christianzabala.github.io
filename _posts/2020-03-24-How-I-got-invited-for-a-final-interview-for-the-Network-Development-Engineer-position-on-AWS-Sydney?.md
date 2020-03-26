@@ -32,9 +32,11 @@ The first person who interviewed me was the hiring manager and it was all about 
       * [Troubleshooting OSPF - BRKRST-3310: Nicholas Russo](https://www.ciscolive.com/global/on-demand-library.html?search=ospf#/session/1542224324396001rr0i) 
       *  [Troubleshooting BGP - BRKRST-3320](https://www.ciscolive.com/global/on-demand-library.html?search=bgp#/session/14479207948420017zOu)
       *  [Troubleshooting End-to-End MPLS - BRKMPL-3124](https://www.ciscolive.com/global/on-demand-library.html?search=mpls#/session/14545296394170016WcY)
-      *  [Multicast Troubleshooting - BRKIPM-2264](https://www.ciscolive.com/global/on-demand-library.html?search=#/session/1542224318892001rjEi)
+      *  [Multicast Troubleshooting - BRKIPM-2264](https://www.ciscolive.com/global/on-demand-library.html?search=#/session/1542224318892001rjEi) - Not so important
 
       *  I have watch videos about OSPF, BGP, MPLS, and Automation on [TeamNANOG](https://www.youtube.com/user/TeamNANOG) and [CHI-NOG](https://www.youtube.com/user/chicagonog) youtube channels which are really great videos that will surely help anyone on their career.
+      
+      * [Dan Croitor'Youtube'](https://www.youtube.com/channel/UCw0uQHve23oMWgQcTTpgQsQ) - I have watched his videos for preparing for the Amazon's Leadership Principles and other behavioral questions.
       
       * Cisco and Juniper Documentation - If you are done watching traning videos, read the topic you have learned so your mind will really understand or build the concept you have studied and not just put it on your short-term memory.
 
