@@ -38,7 +38,7 @@ The first person who interviewed me was the hiring manager and it was all about 
       
       * [Dan Croitor'Youtube'](https://www.youtube.com/channel/UCw0uQHve23oMWgQcTTpgQsQ) - I have watched his videos for preparing for the Amazon's Leadership Principles and other behavioral questions.
       
-      * Cisco and Juniper Documentation - If you are done watching traning videos, read the topic you have learned so your mind will really understand or build the concept you have studied and not just put it on your short-term memory.
+      * Cisco and Juniper Documentation - If you are done watching training videos, read the topic you have learned so your mind will really understand or build the concept you have studied and not just put it on your short-term memory.
 
       *  [The Broadcast Storm](https://open.spotify.com/show/17USQEYa2UL1OoQ9qIeHAf) on spotify which is the podcasts of  Kevin Wallace is also very helpful for me since I was able to hear the different educational podcast during my commute and while I’m walking going to the office or home. I can’t remember how many times I have played his podcast about OSPF and BGP.
 
@@ -72,12 +72,14 @@ For sure every candidate for the Network Development Engineer role or any person
       * Troubleshooting Q&A
       * Interview Q&A (contains common interview questions for different company and the questions that I want to ask to the interviewer)
       * AWS Interview Q&A (research it on [Glassdoor](https://www.glassdoor.com/Interview/Amazon-Interview-Questions-E6036.htm))
-      * Protocols Docs (For example BGP doc, I always document what I have learned during watching BGP training videos, reading books, and on a vendor documentation so that I can find easily something when I forgot something. This also help me ratain what I have learned.)
+      * Protocols Docs (For example BGP doc, I always document what I have learned during watching BGP training videos, reading books, and on vendor documentation so that I can easily find something when I forgot something. This also help me retain what I have learned.)
       
   *   The role requires deep knowledge of different protocols used in networking which may vary depending on the role of the team you will apply for, so it’s important you really know the major protocols in networking. For example TCP, you must not settle on knowing that it uses three-way handshake. You must know how it achieves reliability and flow control, what are the fields on the TCP header including the flag bits and their purposes, and how it tears down the session. But you don’t have to master it or be like a human wireshark, for me I think you just need to understand how it really works but for sure it’s a plus if you can answer an Expert type of question.
  
   *  Create your own automation tool or script that could help you or your current team remove some manual works on your day to day job. Nowadays, having programming language knowledge will surely help you get the job you wanted. But make sure that you can clearly explain what you have created and what is the result of the script that you made since most probably you will get asked about it.
   
   * Practice, Practice, Practice! Try doing a mock interview with someone you know or simulate it on your own, ask interview questions to yourself or think of the technical questions in your head then write your answer on a paper.
+  
+  * Be Curious! If you are not curious about how things work, then you should start learning to be curious because curiosity leads you to really understand the things that you are studying since you will really deep dive into it. If you are not curious enough on how protocols work then perhaps you don't have passion on what you are doing.
   
   *  Lastly just relax during every interview that you would take because if you get nervous you can't think clearly. Just  be yourself and trust yourself that you could answer their questions or will pass the interview.
