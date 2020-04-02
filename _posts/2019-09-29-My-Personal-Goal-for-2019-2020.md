@@ -44,6 +44,7 @@ I created this post which are the things that I want to achieve during the year 
       * [Juniper Day One Books](https://www.juniper.net/us/en/training/jnbooks/):
           * <stike>Exploring the Junos CLI, 2nd Edition</stirke>
           * <strike>Junos for IOS Engineers</strike>
+          * <strike>Data Center Fundamentals</strike>
           * Monitoring and Troubleshooting
           * Routing the Internet Protocol - Chapter 5
           * Automating Junos® with Ansible, 2nd Edition - Chapter 12
