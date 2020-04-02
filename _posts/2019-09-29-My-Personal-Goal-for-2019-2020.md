@@ -44,13 +44,13 @@ I created this post which are the things that I want to achieve during the year 
       * [Juniper Day One Books](https://www.juniper.net/us/en/training/jnbooks/):
           * ~~Exploring the Junos CLI, 2nd Edition~~
           * ~~Junos for IOS Engineers~~
-          * <strike>Data Center Fundamentals</strike>
+          * ~~Data Center Fundamentals~~
           * Monitoring and Troubleshooting
           * Routing the Internet Protocol - Chapter 5
           * Automating Junos® with Ansible, 2nd Edition - Chapter 12
           * Automating Junos with Salt - Chapter 2
-          * <strike>Junos PyEZ Cookbook</strike>
-          * <stirke>Using JSNAP to Automate Network Verifications</strike>
+          * ~~Junos PyEZ Cookbook~~
+          * ~~Using JSNAP to Automate Network Verifications~~
           * Mastering Junos Automation Programming - Chapter 2
           * Advanced OSPF in the Enterprise
           * MPLS Up and Running On Junos
