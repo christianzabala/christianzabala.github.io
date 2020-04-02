@@ -42,8 +42,8 @@ I created this post which are the things that I want to achieve during the year 
       * JNCIS-SP Study guide P1-3
       * [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) : Chapter 4: Check the Ego
       * [Juniper Day One Books](https://www.juniper.net/us/en/training/jnbooks/):
-          * <stike>Exploring the Junos CLI, 2nd Edition</stirke>
-          * <strike>Junos for IOS Engineers</strike>
+          * ~~Exploring the Junos CLI, 2nd Edition~~
+          * ~~Junos for IOS Engineers~~
           * <strike>Data Center Fundamentals</strike>
           * Monitoring and Troubleshooting
           * Routing the Internet Protocol - Chapter 5
