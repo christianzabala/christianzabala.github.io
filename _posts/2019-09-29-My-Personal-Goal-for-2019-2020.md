@@ -21,18 +21,16 @@ I created this post which are the things that I want to achieve during the year 
       * Create a python script  for manual workloads being handled on my daily work. ~~[CSZ tool](https://github.com/christianzabala/CSZ-Tool)~~, script that caches ssh passwords, script for Single customer issue(Parse show various commands), script to auto provision basic config for multi-vendor devices using a template 
       * Study automation tools (Python, Ansible, Go, Netmiko, Napalm, Nornir, Docker, APIs , Jinja2, tools being used on the company I’m working for, and etc.)
       * ~~Prepare the tools for Network automation (ex. GitHub, Python, IDE, and etc.)~~
-      * Study the topics involved on the CCNP Enterprise (300-401 ENCOR & 300-410 ENARSI), as a preparation for the new exam in Feb 2020
       * Study Comptia Linux+ topics perhaps take the exam also
       * Study network security technologies
       * Study database system(SQL)
-      * Study Courses on [AWS Educate](https://www.awseducate.com/student/s/) provided by Edukasyon.ph
       * Study some tools used for front-end web development (HTML,CSS,JavaScript,Angular or React)
   * **Non-Technical**
       *  ~~Create a personal blog(To share some knowledge & to organize my resources and what I have learned)~~
       * Get fit
       *  ~~Learn to trade on the stock market and start to buy some stocks on PSE~~
       * Continuously create post for my blog that is helpful for the community
-      * Finish TV Series(~~Silicon Valley~~, Suits S8 Ep11, The Big Bang Theory S12, Mr. Robot S2)
+      * Finish TV Series(~~Silicon Valley~~, ~~Suits~~, ~~The Big Bang Theory~~, Mr. Robot S2)
       * ~~Buy additional RAM for my laptop and a Monitor~~
       * ~~Replace my phone(Samsung Note 3)~~
   * **Books to read**
@@ -40,9 +38,9 @@ I created this post which are the things that I want to achieve during the year 
       * [Mastering Python Networking](https://www.packtpub.com/networking-and-servers/mastering-python-networking) : Chapter 5: The Python Automation Framework – Beyond Basics
       * [Introducing Python: Modern Computing in Simple Packages](http://shop.oreilly.com/product/0636920028659.do) : Chapter 6: Oh Oh: Objects and Classes
       * ~~[Network Automation with Ansible - Jason Edelman](https://www.oreilly.com/library/view/network-automation-with/9781492042389/)~~
-      * [Network Warrior](http://shop.oreilly.com/product/0636920010159.do) : Chapter 7: Link Aggregation
+      * [Network Warrior](http://shop.oreilly.com/product/0636920010159.do) : Chapter 12: Tunnels
       * JNCIS-SP Study guide P1-3
-      * [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) : Chapter 4: Check the Ego
+      * ~~[Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2)~~
       * [Juniper Day One Books](https://www.juniper.net/us/en/training/jnbooks/):
           * ~~Exploring the Junos CLI, 2nd Edition~~
           * ~~Junos for IOS Engineers~~
