@@ -2,7 +2,7 @@
 title: Networking Resources
 permalink: /Networking Resources/
 classes: defualt
-excerpt: "Some useful networking sites that I used to improved my career"
+excerpt: "Some useful networking/automation/career & motivation and other sites that I used to improved my career"
 toc: true
 toc_sticky: true
 toc_icon: angle-right
