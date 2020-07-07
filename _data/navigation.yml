@@ -7,5 +7,7 @@ main:
     url: /tags/
   - title: "Python"
     url: /Python/
+  - title: "Networking Resources"
+    url: /Networking Resources/
   - title: "About"
     url: /about/
