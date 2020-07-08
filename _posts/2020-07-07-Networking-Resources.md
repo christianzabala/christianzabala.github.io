@@ -73,10 +73,12 @@ TEDx -
 <https://www.networkcomputing.com/topic/networking>
 <http://routeralley.com/guides.html>
 <https://www.ajsnetworking.com>
+<https://codingpackets.com/blog/>
 <https://aboutnetworks.net>
 <https://orhanergun.net/blog/>
 <https://journey2theccie.wordpress.com/>
 <http://www.gilles-bertrand.com/search/label/CDN>
+https://ipcisco.com/ipcisco-blog/
 
 **Old CCIE R&S:**
  <https://docs.google.com/document/d/1I6h4BrO29kyfrXb9olnE7Y8DEDlyNAZ486_eBlF7wsE/edit>
@@ -92,28 +94,23 @@ NetDevOps -
 
 
 **Juniper Sites:**
-Free Cert and course: <https://openlearning.juniper.net/jol-courses/>
-Devnet of Juniper: <https://eng.juniper.net/site/global/learn/index.gsp>
-Free PDFs and mini videos: <https://cloud.contentraven.com/junosgenius>
+:   Free Cert and course: <https://openlearning.juniper.net/jol-courses/>
+:   Devnet of Juniper: <https://eng.juniper.net/site/global/learn/index.gsp>
+:   Free PDFs and mini videos: <https://cloud.contentraven.com/junosgenius>
 <https://www.youtube.com/playlist?list=PLGvolzhkU_gTBYNZZ10mozRPrIaBN8zBs>
 <https://forums.juniper.net/t5/Day-One-Books/bg-p/Day1Books>
 <https://www.juniper.net/documentation/>
-Juniper Blogs: 
-<https://codingpackets.com/blog/jncia-junos>
-<http://weblogs.com.pk/jahil/archive/tags/Juniper/default.aspx>
-<https://www.cocheno.com/>
-<https://www.networkfuntimes.com/jncia-cloud-the-ultimate-resource-for-junipers-sdn-certification/>
-<https://www.fryguy.net/2014/01/13/junos-workbook-volume-1-full/>
-<http://puluka.com/home/networking/junos/junos-automation-training-resources/#comment-1210>
-<https://r2079.wordpress.com/2018/04/16/cleared-jncis-devops/>
-<https://netwx.wordpress.com/category/jncia-short-notes/>
-
-
+:   Juniper Blogs: 
+<https://www.cocheno.com/category/juniper/>
+<https://www.networkfuntimes.com/category/junos/>
+<https://fryguy.net/>
+<http://puluka.com/home/category/networking/junos/>
+<https://r2079.com/2018/09/22/cleared-jncie-dc/>
+<https://netwx.wordpress.com/>
 
 **Nokia Alcatel-Lucent:**
 <https://medium.com/@gokhankosem/nokia-service-routing-certification-src-program-part-1-5f898273fdc4>
-<https://ipcisco.com/lesson/ies-internet-enhanced-services/>
-<https://www.youtube.com/channel/UCe2-ZSkn7letAKD6zE3r0oA>
+<https://www.youtube.com/channel/UCe2-ZSkn7letAKD6zE3r0oA/videos>
 <https://www.youtube.com/channel/UCyK5T3UohvSgiPy-fT-fXCQ/videos>
 [Virtual Private Routed Network Service](https://documentation.nokia.com/html/0_add-h-f/93-0076-10-01/7750_SR_OS_Services_Guide/services_con_vprn.html)
 [Subscriber Redundancy for Routed-CO](https://documentation.nokia.com/html/0_add-h-f/93-0267-HTML/7X50_Advanced_Configuration_Guide/SRRP.html)
@@ -123,7 +120,9 @@ Juniper Blogs:
 <https://mrncciew.com/>
 
 **Multicast:**
+<https://www.ciscolive.com/global/on-demand-library.html?#/session/1542224318892001rjEi>
 <https://www.youtube.com/channel/UC2xDUkd_PuxDvhl4zQz67Aw/featured>
+
 
 **AWS:**
 <https://www.awseducate.com/student/s/>
