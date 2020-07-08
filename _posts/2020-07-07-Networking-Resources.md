@@ -36,6 +36,7 @@ This are some of the useful networking sites that I used to improved my career, 
 - [TeamNanog](youtube.com/user/TeamNANOG)
 - [CHI-NOG](https://www.youtube.com/user/chicagonog)
 - [USENIX](https://www.youtube.com/user/USENIXAssociation/videos)
+- [Tech Field Day](https://www.youtube.com/channel/UCSnTTyp4q7jMhwECxXzMAXQ/videos)
 - [Danscourses](https://www.youtube.com/c/danscourses/playlists)
 
 **Motivational Videos:**
