@@ -22,7 +22,8 @@ This are some of the useful networking sites that I used to improved my career, 
 <https://www.netacad.com/careers/career-advice/networking-applying-interviewing/seven-ways-to-impress-employers>
 <https://www.netacad.com/careers/career-advice/networking-applying-interviewing/basics-building-your-brilliant-resume>
 
-**Group**
+**Group:**
+
 <https://www.meetup.com/routergods/>
 
 
@@ -77,7 +78,7 @@ TEDx -
 <https://journey2theccie.wordpress.com/>
 <http://www.gilles-bertrand.com/search/label/CDN>
 
-Old CCIE R&S:
+**Old CCIE R&S:**
  <https://docs.google.com/document/d/1I6h4BrO29kyfrXb9olnE7Y8DEDlyNAZ486_eBlF7wsE/edit>
 <https://www.youtube.com/watch?v=dBjQ9yA9Vos&list=PLUpJskD9Y-AULcvPaPFUXtTn48f-OSWZU>
 
@@ -109,7 +110,7 @@ Juniper Blogs:
 
 
 
-**Nokia Alcatel-Lucent**
+**Nokia Alcatel-Lucent:**
 <https://medium.com/@gokhankosem/nokia-service-routing-certification-src-program-part-1-5f898273fdc4>
 <https://ipcisco.com/lesson/ies-internet-enhanced-services/>
 <https://www.youtube.com/channel/UCe2-ZSkn7letAKD6zE3r0oA>
@@ -117,7 +118,7 @@ Juniper Blogs:
 [Virtual Private Routed Network Service](https://documentation.nokia.com/html/0_add-h-f/93-0076-10-01/7750_SR_OS_Services_Guide/services_con_vprn.html)
 [Subscriber Redundancy for Routed-CO](https://documentation.nokia.com/html/0_add-h-f/93-0267-HTML/7X50_Advanced_Configuration_Guide/SRRP.html)
 
-**Wireless**
+**Wireless:**
 <https://www.cleartosend.net/>
 <https://mrncciew.com/>
 
