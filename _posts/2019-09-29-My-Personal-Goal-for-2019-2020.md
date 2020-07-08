@@ -14,7 +14,7 @@ I created this post which are the things that I want to achieve during the year 
       * ~~Study & Pass JNCIA-DevOps~~ 
       * Study & Pass JNCIA-SEC     
       * Study & Pass JNCIS-SP
-      * Study & Pass 350-401 ENCOR(Cisco)
+      * ~~Study & Pass 350-401 ENCOR(Cisco)~~
       * Study & Pass 300-410 ENARSI(Cisco)
       * Study the network of the company I’m working at and also the automation being implemented
       * Study advanced topics (IS-IS, BGP, MPLS, LDP, RSVP, MVPN, PIM-SM) by reading books and courses on INE
@@ -38,7 +38,7 @@ I created this post which are the things that I want to achieve during the year 
       * [Mastering Python Networking](https://www.packtpub.com/networking-and-servers/mastering-python-networking) : Chapter 5: The Python Automation Framework – Beyond Basics
       * [Introducing Python: Modern Computing in Simple Packages](http://shop.oreilly.com/product/0636920028659.do) : Chapter 6: Oh Oh: Objects and Classes
       * ~~[Network Automation with Ansible - Jason Edelman](https://www.oreilly.com/library/view/network-automation-with/9781492042389/)~~
-      * [Network Warrior](http://shop.oreilly.com/product/0636920010159.do) : Chapter 12: Tunnels
+      * [Network Warrior](http://shop.oreilly.com/product/0636920010159.do) : Chapter 16: Multilayer Switches
       * JNCIS-SP Study guide P1-3
       * ~~[Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2)~~
       * [Juniper Day One Books](https://www.juniper.net/us/en/training/jnbooks/):
@@ -94,6 +94,11 @@ I created this post which are the things that I want to achieve during the year 
       *  ~~[CBT Nuggets - ITIL® v3 Foundation](https://www.cbtnuggets.com/it-training/itilr-foundations)~~
       *  ~~[Udemy - Practical Web Development: Make Websites Quickly And Easily](https://www.udemy.com/course/make-beautiful-websites-in-a-few-hours/)~~
        *  [Udemy - Beginner Full Stack Web Development: HTML, CSS, React & Node](https://www.udemy.com/course/ultimate-web/) : CSS: Colors 
+       *  ~~[ITPRO.TV - Cisco CCNP Enterprise ENCOR (350-401)](https://www.itpro.tv/courses/cisco/cisco-ccnp-enterprise-encor-350401/)~~
+       *  ~~[CBT Nuggets - Cisco CCNP Enterprise Core (350-401 ENCOR)](https://www.cbtnuggets.com/certification-playlist/Cisco/ccnp-enterprise-core)~~
+       *  ~~[Cisco Academy - Implementing and Operating Cisco Enterprise Network Core Technologies (ENCOR) v1.0](https://www.cisco.com/c/en/us/training-events/training-certifications/training/training-services/courses/implementing-and-operating-cisco-enterprise-network-core-technologies-encor.html)~~
+
+
 
 
       
