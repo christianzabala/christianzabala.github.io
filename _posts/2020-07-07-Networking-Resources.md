@@ -38,126 +38,127 @@ This are some of the useful networking sites that I used to improved my career, 
 - [Danscourses](https://www.youtube.com/c/danscourses/playlists)
 
 **Motivational Videos:**
-Jocko Willink (Extreme Ownership) - https://www.youtube.com/watch?v=z3ScszkzJqk
-https://www.youtube.com/watch?v=y2X7c9TUQJ8
-https://www.youtube.com/watch?v=TQMbvJNRpLE
-https://www.youtube.com/watch?v=2paoNvG5Nmo&t=41s
+Jocko Willink (Extreme Ownership) - <https://www.youtube.com/watch?v=z3ScszkzJqk>
+TEDx -
+<https://www.youtube.com/watch?v=y2X7c9TUQJ8>
+<https://www.youtube.com/watch?v=TQMbvJNRpLE>
+<https://www.youtube.com/watch?v=2paoNvG5Nmo&t>
 
 
 # Network Related: News, Blogs, Vendors, and other resourses
 
 **Network/IT News:**
-https://www.networkworld.com/
-https://www.itworld.com/
+<https://www.networkworld.com/>
+<https://www.itworld.com/>
 
 **Mind map:**
-https://ccie24081.files.wordpress.com/2013/03/cisco_rs_quick_review_kit_v5.pdf
-https://neckercube.com/posts/2018-04-12-mind-map-for-ccie-ccnp-routing-switching/
-https://www.mindmeister.com/140156859/ccie
+<https://ccie24081.files.wordpress.com/2013/03/cisco_rs_quick_review_kit_v5.pdf>
+<https://neckercube.com/posts/2018-04-12-mind-map-for-ccie-ccnp-routing-switching/>
+<https://www.mindmeister.com/140156859/ccie>
 
 **Networking blog:**
-https://sites.google.com/site/amitsciscozone/
-http://njrusmc.net/
-https://packetpushers.net/
-http://www.subnetzero.info/
-https://blog.thousandeyes.com/
-https://networkingnerd.net/
-https://www.routerfreak.com/
-http://lostintransit.se/
-https://neckercube.com/
-https://thenetworkcollective.com/
-https://ipwithease.com/
-https://packetlife.net/blog/
-https://www.networkcomputing.com/topic/networking
-http://routeralley.com/guides.html
-https://www.ajsnetworking.com
-https://aboutnetworks.net
-https://orhanergun.net/blog/
-https://journey2theccie.wordpress.com/
-http://www.gilles-bertrand.com/search/label/CDN
+<https://sites.google.com/site/amitsciscozone/>
+<http://njrusmc.net/>
+<https://packetpushers.net/>
+<http://www.subnetzero.info/>
+<https://blog.thousandeyes.com/>
+<https://networkingnerd.net/>
+<https://www.routerfreak.com/>
+<http://lostintransit.se/>
+<https://neckercube.com/>
+<https://thenetworkcollective.com/>
+<https://ipwithease.com/>
+<https://packetlife.net/blog/>
+<https://www.networkcomputing.com/topic/networking>
+<http://routeralley.com/guides.html>
+<https://www.ajsnetworking.com>
+<https://aboutnetworks.net>
+<https://orhanergun.net/blog/>
+<https://journey2theccie.wordpress.com/>
+<http://www.gilles-bertrand.com/search/label/CDN>
 
 Old CCIE R&S:
- https://docs.google.com/document/d/1I6h4BrO29kyfrXb9olnE7Y8DEDlyNAZ486_eBlF7wsE/edit
-https://www.youtube.com/watch?v=dBjQ9yA9Vos&list=PLUpJskD9Y-AULcvPaPFUXtTn48f-OSWZU
+ <https://docs.google.com/document/d/1I6h4BrO29kyfrXb9olnE7Y8DEDlyNAZ486_eBlF7wsE/edit>
+<https://www.youtube.com/watch?v=dBjQ9yA9Vos&list=PLUpJskD9Y-AULcvPaPFUXtTn48f-OSWZU>
 
 **Cisco Sites:**
-[CiscoLive-Videos](https://www.ciscolive.com/global/featured-on-demand.html)
-NetDevOps
-https://developer.cisco.com/video/net-prog-basics/
-https://youtu.be/rviCeA-vpc4?t=310
-https://youtu.be/QAaVBp2CDzk
-[Cisco Validated Designs](https://www.cisco.com/c/en/us/solutions/enterprise/validated-design-program/networking_solutions_products_genericcontent0900aecd80601e22.html)
+[CiscoLive-Videos](<https://www.ciscolive.com/global/featured-on-demand.html)
+NetDevOps -
+<https://developer.cisco.com/video/net-prog-basics/>
+<https://youtu.be/rviCeA-vpc4?t=310>
+<https://youtu.be/QAaVBp2CDzk>
+[Cisco Validated Designs](<https://www.cisco.com/c/en/us/solutions/enterprise/validated-design-program/networking_solutions_products_genericcontent0900aecd80601e22.html)
 
 
 **Juniper Sites:**
-Free Cert and course: https://openlearning.juniper.net/jol-courses/
-Devnet of Juniper: https://eng.juniper.net/site/global/learn/index.gsp
-Free PDFs and mini videos: https://cloud.contentraven.com/junosgenius
-https://www.youtube.com/playlist?list=PLGvolzhkU_gTBYNZZ10mozRPrIaBN8zBs
-https://forums.juniper.net/t5/Day-One-Books/bg-p/Day1Books
-https://www.juniper.net/documentation/
+Free Cert and course: <https://openlearning.juniper.net/jol-courses/>
+Devnet of Juniper: <https://eng.juniper.net/site/global/learn/index.gsp>
+Free PDFs and mini videos: <https://cloud.contentraven.com/junosgenius>
+<https://www.youtube.com/playlist?list=PLGvolzhkU_gTBYNZZ10mozRPrIaBN8zBs>
+<https://forums.juniper.net/t5/Day-One-Books/bg-p/Day1Books>
+<https://www.juniper.net/documentation/>
 Juniper Blogs: 
-https://codingpackets.com/blog/jncia-junos
-http://weblogs.com.pk/jahil/archive/tags/Juniper/default.aspx
-https://www.cocheno.com/
-https://www.networkfuntimes.com/jncia-cloud-the-ultimate-resource-for-junipers-sdn-certification/
-https://www.fryguy.net/2014/01/13/junos-workbook-volume-1-full/
-http://puluka.com/home/networking/junos/junos-automation-training-resources/#comment-1210
-https://r2079.wordpress.com/2018/04/16/cleared-jncis-devops/
-https://netwx.wordpress.com/category/jncia-short-notes/
+<https://codingpackets.com/blog/jncia-junos>
+<http://weblogs.com.pk/jahil/archive/tags/Juniper/default.aspx>
+<https://www.cocheno.com/>
+<https://www.networkfuntimes.com/jncia-cloud-the-ultimate-resource-for-junipers-sdn-certification/>
+<https://www.fryguy.net/2014/01/13/junos-workbook-volume-1-full/>
+<http://puluka.com/home/networking/junos/junos-automation-training-resources/#comment-1210>
+<https://r2079.wordpress.com/2018/04/16/cleared-jncis-devops/>
+<https://netwx.wordpress.com/category/jncia-short-notes/>
 
 
 
-Nokia Alcatel-Lucent
-https://medium.com/@gokhankosem/nokia-service-routing-certification-src-program-part-1-5f898273fdc4
-https://ipcisco.com/lesson/ies-internet-enhanced-services/
-https://www.youtube.com/channel/UCe2-ZSkn7letAKD6zE3r0oA
-https://www.youtube.com/channel/UCyK5T3UohvSgiPy-fT-fXCQ/videos
-How to install 7750, asa, in eve ng https://www.youtube.com/channel/UCQlEgyTXfnYgYwo0xTcHOnw
-Virtual Private Routed Network Service
-Subscriber Redundancy for Routed-CO
+**Nokia Alcatel-Lucent**
+<https://medium.com/@gokhankosem/nokia-service-routing-certification-src-program-part-1-5f898273fdc4>
+<https://ipcisco.com/lesson/ies-internet-enhanced-services/>
+<https://www.youtube.com/channel/UCe2-ZSkn7letAKD6zE3r0oA>
+<https://www.youtube.com/channel/UCyK5T3UohvSgiPy-fT-fXCQ/videos>
+[Virtual Private Routed Network Service](https://documentation.nokia.com/html/0_add-h-f/93-0076-10-01/7750_SR_OS_Services_Guide/services_con_vprn.html)
+[Subscriber Redundancy for Routed-CO](https://documentation.nokia.com/html/0_add-h-f/93-0267-HTML/7X50_Advanced_Configuration_Guide/SRRP.html)
 
-Wireless
-https://www.cleartosend.net/
-https://mrncciew.com/
+**Wireless**
+<https://www.cleartosend.net/>
+<https://mrncciew.com/>
 
-Multicast:
-https://www.youtube.com/channel/UC2xDUkd_PuxDvhl4zQz67Aw/featured
+**Multicast:**
+<https://www.youtube.com/channel/UC2xDUkd_PuxDvhl4zQz67Aw/featured>
 
-AWS: https://www.awseducate.com/student/s/
-https://www.aws.training/
+**AWS:**
+<https://www.awseducate.com/student/s/>
+<https://www.aws.training/>
  
 # Network Automation Blog and other info:
-https://github.com/networktocode/awesome-network-automation?fbclid=IwAR03lbnOS4Dkx-n64W1BZ4AE_M2AiJzMcGJjnIEBVpvX8mRnN7E6iz1fKPU
-https://blog.networktocode.com/
-Dmitry Figol(https://www.youtube.com/channel/UCS8yWZCX-fdxft8yFAffZCg/videos),
-https://www.ipspace.net/Main_Page
-https://dave.dev/blog/
-http://networkstatic.net/golang-network-ops/
-https://pynet.twb-tech.com/blog/automation/netmiko.html
-https://developer.cisco.com/video/net-prog-basics/
-https://www.youtube.com/user/schafer5/playlists
-https://github.com/coodict/python3-in-one-pic/blob/master/README.md
-https://karneliuk.com/?post_type=post
-https://mirceaulinic.net/
-https://www.codecademy.com/
+<https://github.com/networktocode/awesome-network-automation?fbclid=IwAR03lbnOS4Dkx-n64W1BZ4AE_M2AiJzMcGJjnIEBVpvX8mRnN7E6iz1fKPU>
+<https://blog.networktocode.com/>
+[Dmitry Figol](<https://www.youtube.com/channel/UCS8yWZCX-fdxft8yFAffZCg/videos)
+<https://www.ipspace.net/Main_Page>
+<https://dave.dev/blog/>
+<http://networkstatic.net/golang-network-ops/>
+<https://pynet.twb-tech.com/blog/automation/netmiko.html>
+<https://developer.cisco.com/video/net-prog-basics/>
+<https://www.youtube.com/user/schafer5/playlists>
+<https://github.com/coodict/python3-in-one-pic/blob/master/README.md>
+<https://karneliuk.com/?post_type=post>
+<https://mirceaulinic.net/>
+<https://www.codecademy.com/>
 
 # Security/Hacking:
 (Not yet my priority)
-http://www.network-node.com
-https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw/videos
-https://www.youtube.com/c/STOKfredrik/videos
-https://gbhackers.com/
+<http://www.network-node.com>
+<https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw/videos>
+<https://www.youtube.com/c/STOKfredrik/videos>
+<https://gbhackers.com/>
 
 
 # Linux/Bash:
-https://itsfoss.com/learn-linux-for-free/
-https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma/
-http://wiki.bash-hackers.org/
+<https://itsfoss.com/learn-linux-for-free/>
+<https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma/>
+<http://wiki.bash-hackers.org/>
 
 
 # ITIL:
-https://cdn-diontrainnew.pressidium.com/wp-content/uploads/2019/11/ITIL-4-Foundation-Cram-Card.pdf
+<https://cdn-diontrainnew.pressidium.com/wp-content/uploads/2019/11/ITIL-4-Foundation-Cram-Card.pdf>
 
 # Others:
-Greate sample portfolio: http://www.amilabs.com/jeff/
+Greate sample portfolio: <http://www.amilabs.com/jeff/>
