@@ -39,7 +39,9 @@ This are some of the useful networking sites that I used to improved my career, 
 - [Danscourses](https://www.youtube.com/c/danscourses/playlists)
 
 **Motivational Videos:**
+
 Jocko Willink (Extreme Ownership) - <https://www.youtube.com/watch?v=z3ScszkzJqk>
+
 TEDx -
 <https://www.youtube.com/watch?v=y2X7c9TUQJ8>
 <https://www.youtube.com/watch?v=TQMbvJNRpLE>
