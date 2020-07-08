@@ -16,14 +16,15 @@ This are some of the useful networking sites that I used to improved my career, 
 
 # Career/Job/Motivation & etc.: 
 **Sites:**
-http://www.network-node.com/blog/tag/Career
-https://dmfigol.me/blog/becoming-a-better-engineer-study-tips
-http://www.definethecloud.net/my-career-my-rules/
-https://www.netacad.com/careers/career-advice/networking-applying-interviewing/seven-ways-to-impress-employers
-https://www.netacad.com/careers/career-advice/networking-applying-interviewing/basics-building-your-brilliant-resume
+<script src="http://www.network-node.com/blog/tag/Career"></script>
+<script src="https://dmfigol.me/blog/becoming-a-better-engineer-study-tips"></script>
+<script src="http://www.definethecloud.net/my-career-my-rules/"></script>
+<script src="https://www.netacad.com/careers/career-advice/networking-applying-interviewing/seven-ways-to-impress-employers"></script>
+<script src="https://www.netacad.com/careers/career-advice/networking-applying-interviewing/basics-building-your-brilliant-resume"></script>
 
 **Group**
-https://www.meetup.com/routergods/
+<script src="https://www.meetup.com/routergods/"></script>
+
 
 **Youtube Channels:**
 - [NetworkChuck](https://www.youtube.com/user/NetworkChuck/playlists)
