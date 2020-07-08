@@ -94,13 +94,13 @@ NetDevOps -
 
 
 **Juniper Sites:**
-Free Cert and course: <https://openlearning.juniper.net/jol-courses/> /
-Devnet of Juniper: <https://eng.juniper.net/site/global/learn/index.gsp> /
-Free PDFs and mini videos: <https://cloud.contentraven.com/junosgenius> /
+Free Cert and course: <https://openlearning.juniper.net/jol-courses/> \
+Devnet of Juniper: <https://eng.juniper.net/site/global/learn/index.gsp> \
+Free PDFs and mini videos: <https://cloud.contentraven.com/junosgenius> \
 <https://www.youtube.com/playlist?list=PLGvolzhkU_gTBYNZZ10mozRPrIaBN8zBs>
 <https://forums.juniper.net/t5/Day-One-Books/bg-p/Day1Books>
 <https://www.juniper.net/documentation/>
-Juniper Blogs: /
+Juniper Blogs: \
 <https://www.cocheno.com/category/juniper/>
 <https://www.networkfuntimes.com/category/junos/>
 <https://fryguy.net/>
