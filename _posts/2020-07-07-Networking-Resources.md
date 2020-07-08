@@ -23,7 +23,6 @@ This are some of the useful networking sites that I used to improved my career, 
 <https://www.netacad.com/careers/career-advice/networking-applying-interviewing/basics-building-your-brilliant-resume>
 
 **Group:**
-
 <https://www.meetup.com/routergods/>
 
 
@@ -40,7 +39,6 @@ This are some of the useful networking sites that I used to improved my career, 
 - [Danscourses](https://www.youtube.com/c/danscourses/playlists)
 
 **Motivational Videos:**
-
 Jocko Willink (Extreme Ownership) - <https://www.youtube.com/watch?v=z3ScszkzJqk>
 
 TEDx -
@@ -89,10 +87,12 @@ https://ipcisco.com/ipcisco-blog/
 
 **Cisco Sites:**
 [CiscoLive-Videos](<https://www.ciscolive.com/global/featured-on-demand.html)
+
 NetDevOps -
 <https://developer.cisco.com/video/net-prog-basics/>
 <https://youtu.be/rviCeA-vpc4?t=310>
 <https://youtu.be/QAaVBp2CDzk>
+
 [Cisco Validated Designs](<https://www.cisco.com/c/en/us/solutions/enterprise/validated-design-program/networking_solutions_products_genericcontent0900aecd80601e22.html)
 
 
@@ -148,6 +148,7 @@ NetDevOps -
 
 # Security/Hacking:
 (Not yet my priority)
+
 <http://www.network-node.com>
 <https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw/videos>
 <https://www.youtube.com/c/STOKfredrik/videos>
