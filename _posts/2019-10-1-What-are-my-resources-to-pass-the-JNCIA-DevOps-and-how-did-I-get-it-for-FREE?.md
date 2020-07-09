@@ -29,7 +29,10 @@ On this post I used the Network Automation but other words may also have connect
 
 Others might want me to go already to the point on how did I got a free exam voucher so here it is:
 
-1. As of now the JNCIA-DevOps is only available on [Open learning website](https://openlearning.juniper.net/jol-courses/) unlike other courses like JNCIA-Junos and JNCIA-Cloud which I think they are already available on the [Junos Genius](www.junosgenius.net).
+Note: You now may skip the steps 1 to 5 since free courses to take get an exam voucher is already on [Junos Genius](https://cloud.contentraven.com/junosgenius/login) under the Juniper Open Learning section.
+{: .notice--danger}
+
+1. As of this writing the JNCIA-DevOps is only available on [Open learning website](https://openlearning.juniper.net/jol-courses/) unlike other courses like JNCIA-Junos and JNCIA-Cloud which I think they are already available on the [Junos Genius](www.junosgenius.net).
 2. Click for a live sessions course you want to take ex. [JNCIA-DevOps Preparation](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=11060)
 3. Choose a date that has still available slot to register
 4. Click the register > Customer & Partner Login, If you don’t have a Juniper account yet, click on the New user but if you already have go ahead and use it.
