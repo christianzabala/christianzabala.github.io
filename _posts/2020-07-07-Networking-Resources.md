@@ -23,7 +23,8 @@ This are some of the useful networking sites that I used to improved my career, 
 <https://www.netacad.com/careers/career-advice/networking-applying-interviewing/basics-building-your-brilliant-resume>
 
 **Group:**
-<https://www.meetup.com/routergods/>
+[Routergods](https://www.meetup.com/routergods/) - A great group where you can learn/share/find things that will help your career.
+I've learn it on this videos [Homeless security guard to CCIE: You can't train ambition: Katherine McNamara shares her story](https://www.youtube.com/watch?v=hCRjDwuuQOA)
 
 
 **Youtube Channels:**
@@ -31,6 +32,8 @@ This are some of the useful networking sites that I used to improved my career, 
 - [David Bombal](https://www.youtube.com/c/DavidBombal/playlists)
 - [This is IT! Show - NetworkChuck and David Bombal](https://www.youtube.com/c/ThisisITShowNetworkChuckandDavidBombal/videos)
 - [Kevin Wallace](https://www.youtube.com/user/kwallaceccie/playlists)
+- [I.T. Career Questions](https://www.youtube.com/c/ITCareerQuestions/videos)
+- [Du’An Lightfoot/LabEveryDay](https://www.youtube.com/c/LabEveryday/videos)
 - [RouterGods](https://www.youtube.com/user/routergods)
 - [TeamNanog](youtube.com/user/TeamNANOG)
 - [CHI-NOG](https://www.youtube.com/user/chicagonog)
