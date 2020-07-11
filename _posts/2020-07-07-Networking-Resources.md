@@ -70,6 +70,8 @@ TEDx -
 - [Udemy](https://www.udemy.com/)
 - [Pluralsight](https://www.pluralsight.com/)
 - [Linux Academy](https://linuxacademy.com/)
+- [O’Reilly](https://www.oreilly.com/)
+- [Packt>](https://www.packtpub.com/)
 
 **Networking blog:**
 <https://sites.google.com/site/amitsciscozone/>
