@@ -11,7 +11,7 @@ toc_label: show table-of-contents
 
 This are some of the useful networking sites that I used to improved my career, which I think may help others also.
 
-**NOTE:** I will continue to update this post.
+**NOTE:** This is not a complete list of resources that are useful since there are a lot of sites out there that are great which I have not see it yet. But I will continue to update this post.
 {: .notice--info}
 
 # Career/Job/Motivation & etc.: 
@@ -60,6 +60,16 @@ TEDx -
 <https://ccie24081.files.wordpress.com/2013/03/cisco_rs_quick_review_kit_v5.pdf>
 <https://neckercube.com/posts/2018-04-12-mind-map-for-ccie-ccnp-routing-switching/>
 <https://www.mindmeister.com/140156859/ccie>
+
+
+**Networking Training sites:**
+[INE](https://ine.com/)
+[CBT Nuggets](https://www.cbtnuggets.com/)
+[Networklessons](https://networklessons.com/)
+[ITProTV](https://www.itpro.tv/)
+[Udemy](https://www.udemy.com/)
+[Pluralsight](https://www.pluralsight.com/)
+[Linux Academy](https://linuxacademy.com/)
 
 **Networking blog:**
 <https://sites.google.com/site/amitsciscozone/>
