@@ -63,13 +63,13 @@ TEDx -
 
 
 **Networking Training sites:**
-[INE](https://ine.com/)
-[CBT Nuggets](https://www.cbtnuggets.com/)
-[Networklessons](https://networklessons.com/)
-[ITProTV](https://www.itpro.tv/)
-[Udemy](https://www.udemy.com/)
-[Pluralsight](https://www.pluralsight.com/)
-[Linux Academy](https://linuxacademy.com/)
+- [INE](https://ine.com/)
+- [CBT Nuggets](https://www.cbtnuggets.com/)
+- [Networklessons](https://networklessons.com/)
+- [ITProTV](https://www.itpro.tv/)
+- [Udemy](https://www.udemy.com/)
+- [Pluralsight](https://www.pluralsight.com/)
+- [Linux Academy](https://linuxacademy.com/)
 
 **Networking blog:**
 <https://sites.google.com/site/amitsciscozone/>
