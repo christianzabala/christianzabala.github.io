@@ -32,7 +32,7 @@ I've learn it on this videos [Homeless security guard to CCIE: You can't train a
 - [David Bombal](https://www.youtube.com/c/DavidBombal/playlists)
 - [This is IT! Show - NetworkChuck and David Bombal](https://www.youtube.com/c/ThisisITShowNetworkChuckandDavidBombal/videos)
 - [Kevin Wallace](https://www.youtube.com/user/kwallaceccie/playlists)
-- [Keeping IT Simple - Jeremy Cioara](https://www.youtube.com/c/KeepingITSimple/videos)
+- [Keeping IT Simple-Jeremy Cioara](https://www.youtube.com/c/KeepingITSimple/videos)
 - [Keith Barker](https://www.youtube.com/c/KeithBarker/videos)
 - [Data Knox](https://www.youtube.com/c/DataKnox/videos)
 - [I.T. Career Questions](https://www.youtube.com/c/ITCareerQuestions/videos)
