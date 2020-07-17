@@ -42,6 +42,11 @@ I've learn it on this videos [Homeless security guard to CCIE: You can't train a
 - [USENIX](https://www.youtube.com/user/USENIXAssociation/videos)
 - [Tech Field Day](https://www.youtube.com/channel/UCSnTTyp4q7jMhwECxXzMAXQ/videos)
 - [Danscourses](https://www.youtube.com/c/danscourses/playlists)
+- [Carpe DMVPN](https://www.youtube.com/c/CarpeDMVPN/videos)
+- [Cisco DevNet](https://www.youtube.com/channel/UChRmUH4H5hiYzPiFhvNoCIg)
+- [Professor Messer](https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ)
+- [Travis Bonfigli](https://www.youtube.com/channel/UCUvPIajgtMRapB3K9_w1DcA)
+
 
 **Motivational Videos:**
 Jocko Willink (Extreme Ownership) - <https://www.youtube.com/watch?v=z3ScszkzJqk>
@@ -157,11 +162,12 @@ NetDevOps -
 <http://networkstatic.net/golang-network-ops/>
 <https://pynet.twb-tech.com/blog/automation/netmiko.html>
 <https://developer.cisco.com/video/net-prog-basics/>
-<https://www.youtube.com/user/schafer5/playlists>
+[](https://www.youtube.com/user/schafer5/playlists)
 <https://github.com/coodict/python3-in-one-pic/blob/master/README.md>
 <https://karneliuk.com/?post_type=post>
 <https://mirceaulinic.net/>
 <https://www.codecademy.com/>
+[Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw)
 
 # Security/Hacking:
 (Not yet my priority)
