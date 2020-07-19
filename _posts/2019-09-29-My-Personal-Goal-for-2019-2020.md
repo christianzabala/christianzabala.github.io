@@ -77,6 +77,7 @@ I created this post which are the things that I want to achieve during the year 
       *  ~~[INE - Border Gateway Protocol (BGP)](https://my.ine.com/course/ine-ccie-eiv1-bgp/9ab31b01-cfd4-48cf-8ccd-63fda604f5da)~~  
       *  ~~[Multiprotocol Label Switching (MPLS)](https://my.ine.com/course/ine-ccie-eiv1-mpls/50e2699d-e804-40b0-80a3-2181d2731098)~~  
       *  [INE - Python Programming for Network Engineers](https://my.ine.com/course/ine-python-programming/7477146c-397b-4510-b910-1108608879b5) : Control Structures :: Breaking Out of Loops
+      *  ~~[INE - Practical Python for Network Engineers](https://my.ine.com/course/practical-python-for-network-engineers/038b82b1-7a08-44c8-99e7-2ce6c2033b1d) ~~
       *  ~~[INE - Python 101 for Network Engineers](https://my.ine.com/course/ine-python-101-for-network-engineers/448da730-773e-49a0-a4a2-6eb675288b7e)~~
       *  ~~[INE - Practical Python Cisco Network Automation](https://my.ine.com/course/ine-practical-python-cisco-network-automation/3be5db2b-43fb-4510-9288-d9c6913a9037)~~
       *  ~~[INE - GIT Fundamentals](https://my.ine.com/course/ine-git-fundamentals/1f09eded-6c92-4a68-ac7e-043c48bd35c1)~~
