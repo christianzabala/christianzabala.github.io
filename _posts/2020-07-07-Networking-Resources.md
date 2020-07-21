@@ -101,7 +101,8 @@ TEDx -
 <https://orhanergun.net/blog/>
 <https://journey2theccie.wordpress.com/>
 <http://www.gilles-bertrand.com/search/label/CDN>
-https://ipcisco.com/ipcisco-blog/
+<https://ipcisco.com/ipcisco-blog/>
+<https://brunswyck.github.io/docu/nw/rns/inhoud.html>
 
 **Old CCIE R&S:**
  <https://docs.google.com/document/d/1I6h4BrO29kyfrXb9olnE7Y8DEDlyNAZ486_eBlF7wsE/edit>
