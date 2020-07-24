@@ -93,6 +93,7 @@ I created this post which are the things that I want to achieve during the year 
        *  [INE - Security Concepts](https://my.ine.com/course/ine-ccna-sc-210-260-iins-security-concepts/b76a8686-4855-4af3-95d9-9946b5c72fef) : Common Security Threats :: Part 5    
       *  [INE - Shell Scripting Fundamentals for Network Engineers](https://my.ine.com/course/shell-scripting-fundamentals/fc599b3a-275d-4907-8ed6-8b8f270ba5a9) :  The big three (awk/grep/sed)           
       *  ~~[CBT Nuggets - ITIL® v3 Foundation](https://www.cbtnuggets.com/it-training/itilr-foundations)~~
+      *  ~~[Udemy - The Ultimate Python Masterclass - learn from scratch](https://www.udemy.com/course/python-masterclass/)~~
       *  ~~[Udemy - Practical Web Development: Make Websites Quickly And Easily](https://www.udemy.com/course/make-beautiful-websites-in-a-few-hours/)~~
        *  [Udemy - Beginner Full Stack Web Development: HTML, CSS, React & Node](https://www.udemy.com/course/ultimate-web/) : CSS: Colors 
        *  ~~[ITPRO.TV - Cisco CCNP Enterprise ENCOR (350-401)](https://www.itpro.tv/courses/cisco/cisco-ccnp-enterprise-encor-350401/)~~
