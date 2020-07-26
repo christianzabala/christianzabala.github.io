@@ -21,6 +21,7 @@ This are some of the useful networking sites that I used to improved my career, 
 <http://www.definethecloud.net/my-career-my-rules/>
 <https://www.netacad.com/careers/career-advice/networking-applying-interviewing/seven-ways-to-impress-employers>
 <https://www.netacad.com/careers/career-advice/networking-applying-interviewing/basics-building-your-brilliant-resume>
+[Using Curiosity & Mistakes To Advance Your Career (Day Two Cloud Full Podcast)](https://www.youtube.com/watch?v=YeVFpVvBplA)
 
 **Group:**
 [Routergods](https://www.meetup.com/routergods/) - A great group where you can learn/share/find things that will help your career.
@@ -39,6 +40,7 @@ I've learn it on this videos [Homeless security guard to CCIE: You can't train a
 - [RouterGods](https://www.youtube.com/user/routergods)
 - [TeamNanog](youtube.com/user/TeamNANOG)
 - [CHI-NOG](https://www.youtube.com/user/chicagonog)
+- [Packet Pushers](https://www.youtube.com/c/PacketPushersNetwork/videos)
 - [USENIX](https://www.youtube.com/user/USENIXAssociation/videos)
 - [Tech Field Day](https://www.youtube.com/channel/UCSnTTyp4q7jMhwECxXzMAXQ/videos)
 - [Danscourses](https://www.youtube.com/c/danscourses/playlists)
