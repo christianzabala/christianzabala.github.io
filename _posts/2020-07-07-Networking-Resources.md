@@ -148,7 +148,7 @@ NetDevOps -
 <https://github.com/networktocode/awesome-network-automation?fbclid=IwAR03lbnOS4Dkx-n64W1BZ4AE_M2AiJzMcGJjnIEBVpvX8mRnN7E6iz1fKPU>
 <https://blog.networktocode.com/>
 <https://nrelabs.io/>
-[Dmitry Figol](<https://www.youtube.com/channel/UCS8yWZCX-fdxft8yFAffZCg/videos)
+[Dmitry Figol](https://www.youtube.com/channel/UCS8yWZCX-fdxft8yFAffZCg/videos)
 <https://www.ipspace.net/Main_Page>
 <https://dave.dev/blog/>
 <http://networkstatic.net/golang-network-ops/>
@@ -164,7 +164,7 @@ NetDevOps -
 **Wireless:**
 <https://www.cleartosend.net/>
 [Wireless LAN Professionals](https://wlanprofessionals.com/) [WLPC youtube](https://www.youtube.com/c/WirelessLANProfessionals)
-(https://wififorbeginners.com/)
+<https://wififorbeginners.com/>
 <https://mrncciew.com/>
 [CWNPTV](https://www.youtube.com/user/CWNPTV/videos)
 
