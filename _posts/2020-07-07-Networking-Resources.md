@@ -41,8 +41,9 @@ I've learn it on this videos [Homeless security guard to CCIE: You can't train a
 - [TeamNanog](youtube.com/user/TeamNANOG)
 - [CHI-NOG](https://www.youtube.com/user/chicagonog)
 - [Packet Pushers](https://www.youtube.com/c/PacketPushersNetwork/videos)
-- [USENIX](https://www.youtube.com/user/USENIXAssociation/videos)
 - [Tech Field Day](https://www.youtube.com/channel/UCSnTTyp4q7jMhwECxXzMAXQ/videos)
+- [iNOG net](https://www.youtube.com/channel/UCBl3zIF_JJZd1iOjvU1ItZw)
+- [USENIX](https://www.youtube.com/user/USENIXAssociation/videos)
 - [Danscourses](https://www.youtube.com/c/danscourses/playlists)
 - [Carpe DMVPN](https://www.youtube.com/c/CarpeDMVPN/videos)
 - [Cisco DevNet](https://www.youtube.com/channel/UChRmUH4H5hiYzPiFhvNoCIg)
@@ -143,10 +144,30 @@ NetDevOps -
 [Virtual Private Routed Network Service](https://documentation.nokia.com/html/0_add-h-f/93-0076-10-01/7750_SR_OS_Services_Guide/services_con_vprn.html)
 [Subscriber Redundancy for Routed-CO](https://documentation.nokia.com/html/0_add-h-f/93-0267-HTML/7X50_Advanced_Configuration_Guide/SRRP.html)
 
+# Network Automation Blog and other info:
+<https://github.com/networktocode/awesome-network-automation?fbclid=IwAR03lbnOS4Dkx-n64W1BZ4AE_M2AiJzMcGJjnIEBVpvX8mRnN7E6iz1fKPU>
+<https://blog.networktocode.com/>
+<https://nrelabs.io/>
+[Dmitry Figol](<https://www.youtube.com/channel/UCS8yWZCX-fdxft8yFAffZCg/videos)
+<https://www.ipspace.net/Main_Page>
+<https://dave.dev/blog/>
+<http://networkstatic.net/golang-network-ops/>
+<https://pynet.twb-tech.com/blog/automation/netmiko.html>
+<https://developer.cisco.com/video/net-prog-basics/>
+[Corey Schafer](https://www.youtube.com/user/schafer5/playlists)
+<https://github.com/coodict/python3-in-one-pic/blob/master/README.md>
+<https://karneliuk.com/?post_type=post>
+<https://mirceaulinic.net/>
+<https://www.codecademy.com/>
+[Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw)
+
 **Wireless:**
 <https://www.cleartosend.net/>
+[Wireless LAN Professionals](https://wlanprofessionals.com/) [WLPC youtube](https://www.youtube.com/c/WirelessLANProfessionals)
+(https://wififorbeginners.com/)
 <https://mrncciew.com/>
 [CWNPTV](https://www.youtube.com/user/CWNPTV/videos)
+
 
 **Multicast:**
 <https://www.ciscolive.com/global/on-demand-library.html?#/session/1542224318892001rjEi>
@@ -156,22 +177,6 @@ NetDevOps -
 **AWS:**
 <https://www.awseducate.com/student/s/>
 <https://www.aws.training/>
- 
-# Network Automation Blog and other info:
-<https://github.com/networktocode/awesome-network-automation?fbclid=IwAR03lbnOS4Dkx-n64W1BZ4AE_M2AiJzMcGJjnIEBVpvX8mRnN7E6iz1fKPU>
-<https://blog.networktocode.com/>
-[Dmitry Figol](<https://www.youtube.com/channel/UCS8yWZCX-fdxft8yFAffZCg/videos)
-<https://www.ipspace.net/Main_Page>
-<https://dave.dev/blog/>
-<http://networkstatic.net/golang-network-ops/>
-<https://pynet.twb-tech.com/blog/automation/netmiko.html>
-<https://developer.cisco.com/video/net-prog-basics/>
-[](https://www.youtube.com/user/schafer5/playlists)
-<https://github.com/coodict/python3-in-one-pic/blob/master/README.md>
-<https://karneliuk.com/?post_type=post>
-<https://mirceaulinic.net/>
-<https://www.codecademy.com/>
-[Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw)
 
 # Security/Hacking:
 (Not yet my priority)
