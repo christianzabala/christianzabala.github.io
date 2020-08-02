@@ -15,7 +15,7 @@ This are some of the useful networking sites that I used to improved my career, 
 {: .notice--info}
 
 # Career/Job/Motivation & etc.: 
-**Sites:**
+## Sites:
 <http://www.network-node.com/blog/tag/Career>
 <https://dmfigol.me/blog/becoming-a-better-engineer-study-tips>
 <http://www.definethecloud.net/my-career-my-rules/>
@@ -23,11 +23,11 @@ This are some of the useful networking sites that I used to improved my career, 
 <https://www.netacad.com/careers/career-advice/networking-applying-interviewing/basics-building-your-brilliant-resume>
 [Using Curiosity & Mistakes To Advance Your Career (Day Two Cloud Full Podcast)](https://www.youtube.com/watch?v=YeVFpVvBplA)
 
-**Group:**
+## Group:
 [Routergods](https://www.meetup.com/routergods/) - A great group where you can learn/share/find things that will help your career.
 I've learn it on this videos [Homeless security guard to CCIE: You can't train ambition: Katherine McNamara shares her story](https://www.youtube.com/watch?v=hCRjDwuuQOA)
 
-**Youtube Channels:**
+## Youtube Channels:
 - [NetworkChuck](https://www.youtube.com/user/NetworkChuck/playlists)
 - [David Bombal](https://www.youtube.com/c/DavidBombal/playlists)
 - [This is IT! Show - NetworkChuck and David Bombal](https://www.youtube.com/c/ThisisITShowNetworkChuckandDavidBombal/videos)
@@ -51,7 +51,7 @@ I've learn it on this videos [Homeless security guard to CCIE: You can't train a
 - [Travis Bonfigli](https://www.youtube.com/channel/UCUvPIajgtMRapB3K9_w1DcA)
 
 
-**Motivational Videos:**
+## Motivational Videos:
 Jocko Willink (Extreme Ownership) - <https://www.youtube.com/watch?v=z3ScszkzJqk>
 
 TEDx -
@@ -72,7 +72,7 @@ TEDx -
 <https://www.mindmeister.com/140156859/ccie>
 
 
-**Networking Training sites:**
+## Networking Training sites:
 - [INE](https://ine.com/)
 - [CBT Nuggets](https://www.cbtnuggets.com/)
 - [Networklessons](https://networklessons.com/)
@@ -83,7 +83,7 @@ TEDx -
 - [O’Reilly](https://www.oreilly.com/)
 - [Packt>](https://www.packtpub.com/)
 
-**Networking blog:**
+## Networking blog:
 <https://sites.google.com/site/amitsciscozone/>
 <http://njrusmc.net/>
 <https://packetpushers.net/>
@@ -107,11 +107,11 @@ TEDx -
 <https://ipcisco.com/ipcisco-blog/>
 <https://brunswyck.github.io/docu/nw/rns/inhoud.html>
 
-**Old CCIE R&S:**
+## Old CCIE R&S:
  <https://docs.google.com/document/d/1I6h4BrO29kyfrXb9olnE7Y8DEDlyNAZ486_eBlF7wsE/edit>
 <https://www.youtube.com/watch?v=dBjQ9yA9Vos&list=PLUpJskD9Y-AULcvPaPFUXtTn48f-OSWZU>
 
-**Cisco Sites:**
+## Cisco Sites:
 [CiscoLive-Videos](<https://www.ciscolive.com/global/featured-on-demand.html)
 
 NetDevOps -
@@ -122,7 +122,7 @@ NetDevOps -
 [Cisco Validated Designs](<https://www.cisco.com/c/en/us/solutions/enterprise/validated-design-program/networking_solutions_products_genericcontent0900aecd80601e22.html)
 
 
-**Juniper Sites:**
+## Juniper Sites:
   * Free Cert and course: <https://openlearning.juniper.net/jol-courses/>
   * Devnet of Juniper: <https://eng.juniper.net/site/global/learn/index.gsp>
   * Free PDFs and mini videos: <https://cloud.contentraven.com/junosgenius>
@@ -137,7 +137,7 @@ NetDevOps -
 <https://r2079.com/2018/09/22/cleared-jncie-dc/>
 <https://netwx.wordpress.com/>
 
-**Nokia Alcatel-Lucent:**
+## Nokia Alcatel-Lucent:
 <https://medium.com/@gokhankosem/nokia-service-routing-certification-src-program-part-1-5f898273fdc4>
 <https://www.youtube.com/channel/UCe2-ZSkn7letAKD6zE3r0oA/videos>
 <https://www.youtube.com/channel/UCyK5T3UohvSgiPy-fT-fXCQ/videos>
@@ -161,7 +161,7 @@ NetDevOps -
 <https://www.codecademy.com/>
 [Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw)
 
-**Wireless:**
+# Wireless:
 <https://www.cleartosend.net/>
 [Wireless LAN Professionals](https://wlanprofessionals.com/) [WLPC youtube](https://www.youtube.com/c/WirelessLANProfessionals)
 <https://wififorbeginners.com/>
@@ -169,12 +169,12 @@ NetDevOps -
 [CWNPTV](https://www.youtube.com/user/CWNPTV/videos)
 
 
-**Multicast:**
+# Multicast:
 <https://www.ciscolive.com/global/on-demand-library.html?#/session/1542224318892001rjEi>
 <https://www.youtube.com/channel/UC2xDUkd_PuxDvhl4zQz67Aw/featured>
 
 
-**AWS:**
+# AWS:
 <https://www.awseducate.com/student/s/>
 <https://www.aws.training/>
 
