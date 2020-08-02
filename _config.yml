@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name   : "Christian Philip Zabala"
-  avatar : "/assets/images/csz.png"
+  # avatar : "/assets/images/csz.png"
   bio    : "Hi! I’m Christian and welcome to my blog, where I share information such as Networking and Automation 
   which I have learned while studying for the certifications and the knowledge I acquired in my IT career. 
   If you want to know more about me click on my [**About**](https://christianzabala.github.io/about/) page."
