@@ -62,11 +62,11 @@ TEDx -
 
 # Network Related: News, Blogs, Vendors, and other resourses
 
-**Network/IT News:**
+## Network/IT News:
 <https://www.networkworld.com/>
 <https://www.itworld.com/>
 
-**Mind map:**
+## Mind map:
 <https://ccie24081.files.wordpress.com/2013/03/cisco_rs_quick_review_kit_v5.pdf>
 <https://neckercube.com/posts/2018-04-12-mind-map-for-ccie-ccnp-routing-switching/>
 <https://www.mindmeister.com/140156859/ccie>
