@@ -165,8 +165,10 @@ NetDevOps -
 <https://www.cleartosend.net/>
 [Wireless LAN Professionals](https://wlanprofessionals.com/) [WLPC youtube](https://www.youtube.com/c/WirelessLANProfessionals)
 <https://wififorbeginners.com/>
-<https://mrncciew.com/>
 [CWNPTV](https://www.youtube.com/user/CWNPTV/videos)
+<http://www.revolutionwifi.net/>
+<https://mrncciew.com/>
+
 
 
 # Multicast:
