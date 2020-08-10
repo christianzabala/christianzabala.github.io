@@ -98,7 +98,7 @@ TEDx -
 [The Networking Nerd](https://networkingnerd.net/)
 [Router Freak](https://www.routerfreak.com/)
 [IP With Ease](https://ipwithease.com/)
-[PacketLife.net](https://packetlife.net/blog/>
+[PacketLife.net](https://packetlife.net/blog/)
 [NETWORKComputing](https://www.networkcomputing.com/topic/networking)
 [Router Alley](http://routeralley.com/guides.html)
 [AJSnetworking - Anthony Sequeira](https://www.ajsnetworking.com)
