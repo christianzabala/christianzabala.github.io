@@ -2,7 +2,7 @@
 title: Networking Resources
 permalink: /Networking Resources/
 classes: defualt
-excerpt: "Some useful resources for networking / automation / career & motivation and other sites / videos that I used to improved my Network engineering career"
+excerpt: "Some useful resources for networking / automation / wireless / career & motivation and other sites / videos that I used to improved my Network engineering career"
 toc: true
 toc_sticky: true
 toc_icon: angle-right
