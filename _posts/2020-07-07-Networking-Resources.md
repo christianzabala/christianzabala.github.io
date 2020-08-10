@@ -52,7 +52,9 @@ I've learn it on this videos [Homeless security guard to CCIE: You can't train a
 
 
 ## Motivational Videos:
-Jocko Willink (Extreme Ownership) - <https://www.youtube.com/watch?v=z3ScszkzJqk>
+[Jocko Willink - Extreme Ownership](https://www.youtube.com/watch?v=z3ScszkzJqk)
+[MotivationHub](https://www.youtube.com/channel/UCR54lF_dD3f-8srmRqnTwgQ)
+[Tony Robbins](https://www.youtube.com/user/TonyRobbinsLive)
 
 TEDx -
 <https://www.youtube.com/watch?v=y2X7c9TUQJ8>
@@ -84,28 +86,29 @@ TEDx -
 - [Packt>](https://www.packtpub.com/)
 
 ## Networking blog:
-<https://sites.google.com/site/amitsciscozone/>
-<http://njrusmc.net/>
-<https://packetpushers.net/>
-<http://www.subnetzero.info/>
-<https://blog.thousandeyes.com/>
-<https://networkingnerd.net/>
-<https://www.routerfreak.com/>
-<http://lostintransit.se/>
-<https://neckercube.com/>
-<https://thenetworkcollective.com/>
-<https://ipwithease.com/>
-<https://packetlife.net/blog/>
-<https://www.networkcomputing.com/topic/networking>
-<http://routeralley.com/guides.html>
-<https://www.ajsnetworking.com>
-<https://codingpackets.com/blog/>
-<https://aboutnetworks.net>
-<https://orhanergun.net/blog/>
-<https://journey2theccie.wordpress.com/>
-<http://www.gilles-bertrand.com/search/label/CDN>
-<https://ipcisco.com/ipcisco-blog/>
-<https://brunswyck.github.io/docu/nw/rns/inhoud.html>
+[Knowledge Base - Amit N. Bhagat](https://sites.google.com/site/amitsciscozone/)
+[Nick Russo](http://njrusmc.net/)
+[Lostintransit - Daniels Networking Blog](http://lostintransit.se/)
+[Packet Pushers](https://packetpushers.net/)
+[Network Collective](https://thenetworkcollective.com/)
+[neckercube.com: Jedadiah Casey](https://neckercube.com/)
+[Patrick’s Docuhub](https://brunswyck.github.io/docu/index.html)
+[SubnetZero](http://www.subnetzero.info/)
+[ThousandEves](https://blog.thousandeyes.com/)
+[The Networking Nerd](https://networkingnerd.net/)
+[Router Freak](https://www.routerfreak.com/)
+[IP With Ease](https://ipwithease.com/)
+[PacketLife.net](https://packetlife.net/blog/>
+[NETWORKComputing](https://www.networkcomputing.com/topic/networking)
+[Router Alley](http://routeralley.com/guides.html)
+[AJSnetworking - Anthony Sequeira](https://www.ajsnetworking.com)
+[codingpackets.com](https://codingpackets.com/blog/)
+[About Networks - Jerome Tissieres](https://aboutnetworks.net)
+[Orhan Ergun](https://orhanergun.net/blog/)
+[JOURNEY2THECCIE](https://journey2theccie.wordpress.com/)
+[Gilles' Blog](http://www.gilles-bertrand.com/search/label/CDN)
+[IPCisco](https://ipcisco.com/ipcisco-blog/)
+
 
 ## Old CCIE R&S:
  <https://docs.google.com/document/d/1I6h4BrO29kyfrXb9olnE7Y8DEDlyNAZ486_eBlF7wsE/edit>
@@ -162,12 +165,15 @@ NetDevOps -
 [Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw)
 
 # Wireless:
-<https://www.cleartosend.net/>
+[Clear To Send](https://www.cleartosend.net/) [Clear To Send - youtube](https://www.youtube.com/channel/UCYWhT-mlCKl6i4pzd3Pg_dA)
 [Wireless LAN Professionals](https://wlanprofessionals.com/) [WLPC youtube](https://www.youtube.com/c/WirelessLANProfessionals)
-<https://wififorbeginners.com/>
 [CWNPTV](https://www.youtube.com/user/CWNPTV/videos)
-<http://www.revolutionwifi.net/>
-<https://mrncciew.com/>
+[WifiNigel](http://wifinigel.blogspot.com/)
+[Wi-Fi For Beginners](https://wififorbeginners.com/)
+[Wirednot](https://wirednot.wordpress.com/)
+[WiFi Ninjas](https://wifininjas.net/)
+[Revolution Wi-Fi](http://www.revolutionwifi.net/)
+[mrn-cciew](https://mrncciew.com/)
 
 
 
