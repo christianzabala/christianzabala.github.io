@@ -9,9 +9,9 @@ toc_icon: angle-right
 toc_label: show table-of-contents
 ---
 
-This are some of the useful networking sites that I used to improved my career, which I think may help others also.
+These are some of the useful networking sites that I used to improve my career, which I think may help others also.
 
-**NOTE:** This is not a complete list of resources that are useful since there are a lot of sites out there that are great which I have not see it yet. But I will continue to update this post.
+**NOTE:** This is not a complete list of resources that are useful since there are a lot of sites out there that are great which I have not seen it yet. But I will continue to update this post.
 {: .notice--info}
 
 # Career/Job/Motivation & etc.: 
@@ -34,6 +34,7 @@ I've learn it on this videos [Homeless security guard to CCIE: You can't train a
 - [Kevin Wallace](https://www.youtube.com/user/kwallaceccie/playlists)
 - [Keeping IT Simple - Jeremy Cioara](https://www.youtube.com/c/KeepingITSimple/videos)
 - [Keith Barker](https://www.youtube.com/c/KeithBarker/videos)
+- [Orhan Ergun](https://www.youtube.com/channel/UCu4SrOE1vlvOEQh58Ej14tg)
 - [Data Knox](https://www.youtube.com/c/DataKnox/videos)
 - [I.T. Career Questions](https://www.youtube.com/c/ITCareerQuestions/videos)
 - [Du’An Lightfoot/LabEveryDay](https://www.youtube.com/c/LabEveryday/videos)
@@ -84,6 +85,7 @@ TEDx -
 - [Linux Academy](https://linuxacademy.com/)
 - [O’Reilly](https://www.oreilly.com/)
 - [Packt>](https://www.packtpub.com/)
+- [Orhan Ergun](https://orhanergun.net/)
 
 ## Networking blog:
 [Knowledge Base - Amit N. Bhagat](https://sites.google.com/site/amitsciscozone/)
@@ -91,6 +93,7 @@ TEDx -
 [Lostintransit - Daniels Networking Blog](http://lostintransit.se/)
 [Packet Pushers](https://packetpushers.net/)
 [Network Collective](https://thenetworkcollective.com/)
+[A Network Artist](https://anetworkartist.blogspot.com/)
 [neckercube.com: Jedadiah Casey](https://neckercube.com/)
 [Patrick’s Docuhub](https://brunswyck.github.io/docu/index.html)
 [SubnetZero](http://www.subnetzero.info/)
@@ -174,7 +177,7 @@ NetDevOps -
 [WiFi Ninjas](https://wifininjas.net/)
 [Revolution Wi-Fi](http://www.revolutionwifi.net/)
 [mrn-cciew](https://mrncciew.com/)
-
+[Airheads Broadcasting Channel](https://www.youtube.com/channel/UCFJCnuXFGfEbwEzfcgU_ERQ) - For Aruba Networks
 
 
 # Multicast:
