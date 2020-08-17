@@ -84,10 +84,6 @@ I created this post which are the things that I want to achieve during the year 
       *  [INE - Vagrant Fundamentals for Network Engineers](https://my.ine.com/course/vagrant-fundamentals/432d0641-9a6d-11e4-8f7f-22000b4a8afe)
       *  [Udemy - Linux Administration Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp/) : File and Directory Permissions Explained - Part One      
       *  [INE - CCNP Routing & Switching Technologies v2](https://my.ine.com/course/ccnp-routing-switching-course-v2/71df49b5-4f80-4100-a878-bb289da661ea) :  OSPF Network Types :: Part 1    
-       *  [CBT Nuggets - Cisco CCNP Routing and Switching 300-115 SWITCH](https://www.cbtnuggets.com/it-training/cisco-ccnp-routing-switching-300-115) : STP Configuring RSTP and MST
-       *  [CBT Nuggets - Cisco CCNP Routing and Switching 300-101 ROUTE Training](https://www.cbtnuggets.com/it-training/cisco-ccnp-routing-switching-300-101)      
-       *  [CBT Nuggets - Cisco CCNP Routing and Switching 300-135 TSHOOT](https://www.cbtnuggets.com/it-training/cisco-ccnp-routing-switching-300-135)            
-       *  [CBT Nuggets - Cisco CCNP TSHOOT 300-135 Hands-on Labs Exam Prep](https://www.cbtnuggets.com/it-training/cisco-ccnp-tshoot-300-135-hands-on-labs-exam-prep) 
        * [CCDA Design 200-310 v3.0 Technology Course](https://my.ine.com/course/ine-ccda-200-310-tech-course/8230d74d-5bf4-4c88-afe5-0cf4536a4cf1)
        *  [Oreilly  - Large-Scale Network Design: Best practices for designing elegant, scalable, and programmable networks with OSPF, EIGRP, IS-IS, and BGP routing protocols](https://www.oreilly.com/library/view/large-scale-network-design/9780134686547/) : Failure Domains
        *  [INE - Security Concepts](https://my.ine.com/course/ine-ccna-sc-210-260-iins-security-concepts/b76a8686-4855-4af3-95d9-9946b5c72fef) : Common Security Threats :: Part 5    
