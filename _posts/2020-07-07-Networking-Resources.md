@@ -131,6 +131,7 @@ NetDevOps -
 ## Juniper Sites:
   * Free Cert and course: <https://openlearning.juniper.net/jol-courses/>
   * Devnet of Juniper: <https://eng.juniper.net/site/global/learn/index.gsp>
+  * Juniper vLabs: <https://jlabs.juniper.net/vlabs/>
   * Free PDFs and mini videos: <https://cloud.contentraven.com/junosgenius>
 <https://www.youtube.com/playlist?list=PLGvolzhkU_gTBYNZZ10mozRPrIaBN8zBs>
 <https://forums.juniper.net/t5/Day-One-Books/bg-p/Day1Books>
