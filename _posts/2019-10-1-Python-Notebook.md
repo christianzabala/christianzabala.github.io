@@ -2,13 +2,13 @@
 title: Python Notebook
 permalink: /Python/
 classes: defualt
-excerpt: "My Personal Python Notebook that contains the basic conepts needed for Python Programming, This is a edited version of coodict-python3-in-one-pic"
+excerpt: "My Personal Python Notebook that contains the basic concepts needed for Python Programming, This is an edited version of coodict-python3-in-one-pic"
 toc: true
 toc_sticky: true
 toc_icon: angle-right
 toc_label: show table-of-contents
 ---
-This is my personal Python Notebook that I used when I studied the JNCIA-DevOps exam, The primary content on this page was from [coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) and I just added and edited some information for me to understand more about Python Programming. Other resources was based on the books and videos I shared on this post [What are my resources to pass the JNCIA-DevOps and how did I get it for FREE?](https://divide-and-conquer.network/networking%20automation/What-are-my-resources-to-pass-the-JNCIA-DevOps-and-how-did-I-get-it-for-FREE/)
+This is my personal Python Notebook that I used when I studied the JNCIA-DevOps exam, The primary content on this page was from [coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) and I just added and edited some information for me to understand more about Python Programming. Other resources were based on the books and videos I shared on this post [What are my resources to pass the JNCIA-DevOps and how did I get it for FREE?](https://divide-and-conquer.network/networking%20automation/What-are-my-resources-to-pass-the-JNCIA-DevOps-and-how-did-I-get-it-for-FREE/)
 
 **NOTE:** This post still needs a lot of changes.
 {: .notice--danger}
