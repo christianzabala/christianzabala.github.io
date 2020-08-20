@@ -56,6 +56,8 @@ I've learn it on this videos [Homeless security guard to CCIE: You can't train a
 [Jocko Willink - Extreme Ownership](https://www.youtube.com/watch?v=z3ScszkzJqk)
 [MotivationHub](https://www.youtube.com/channel/UCR54lF_dD3f-8srmRqnTwgQ)
 [Tony Robbins](https://www.youtube.com/user/TonyRobbinsLive)
+[Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=Hd_ptbiPoXM&list=WL&index=26&t=0s)
+[What Makes People Successful?](https://www.youtube.com/watch?v=RGbCR_pq4_A&list=WL&index=27&t=0s)
 
 TEDx -
 <https://www.youtube.com/watch?v=y2X7c9TUQJ8>
@@ -158,6 +160,7 @@ NetDevOps -
 [Dmitry Figol](https://www.youtube.com/channel/UCS8yWZCX-fdxft8yFAffZCg/videos)
 <https://www.ipspace.net/Main_Page>
 <https://dave.dev/blog/>
+[TTL255 - Przemek Rogala's Blog](https://ttl255.com/)
 <http://networkstatic.net/golang-network-ops/>
 <https://pynet.twb-tech.com/blog/automation/netmiko.html>
 <https://developer.cisco.com/video/net-prog-basics/>
@@ -177,6 +180,7 @@ NetDevOps -
 [Wirednot](https://wirednot.wordpress.com/)
 [WiFi Ninjas](https://wifininjas.net/)
 [Revolution Wi-Fi](http://www.revolutionwifi.net/)
+[Ekahau Wi-Fi Design Tools](https://www.youtube.com/channel/UCuhom3rBK4pX6VL656-K07A)
 [mrn-cciew](https://mrncciew.com/)
 [Airheads Broadcasting Channel](https://www.youtube.com/channel/UCFJCnuXFGfEbwEzfcgU_ERQ) - For Aruba Networks
 
