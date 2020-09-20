@@ -22,6 +22,8 @@ These are some of the useful networking sites that I used to improve my career, 
 <https://www.netacad.com/careers/career-advice/networking-applying-interviewing/seven-ways-to-impress-employers>
 <https://www.netacad.com/careers/career-advice/networking-applying-interviewing/basics-building-your-brilliant-resume>
 [Using Curiosity & Mistakes To Advance Your Career (Day Two Cloud Full Podcast)](https://www.youtube.com/watch?v=YeVFpVvBplA)
+<http://njrusmc.net/blog/2019/hide/net-career.html>
+[Success in Interviews- The Art of Network Engineering](https://artofnetworkengineering.com/2020/09/14/success-in-interviews/)
 
 ## Group:
 [Routergods](https://www.meetup.com/routergods/) - A great group where you can learn/share/find things that will help your career.
@@ -113,6 +115,7 @@ TEDx -
 [JOURNEY2THECCIE](https://journey2theccie.wordpress.com/)
 [Gilles' Blog](http://www.gilles-bertrand.com/search/label/CDN)
 [IPCisco](https://ipcisco.com/ipcisco-blog/)
+[The Art of Network Engineering](https://artofnetworkengineering.com/)
 
 
 ## Old CCIE R&S:
