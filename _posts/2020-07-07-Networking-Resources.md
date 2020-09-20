@@ -197,13 +197,6 @@ NetDevOps -
 <https://www.awseducate.com/student/s/>
 <https://www.aws.training/>
 
-# Security/Hacking:
-(Not yet my priority)
-
-<http://www.network-node.com>
-<https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw/videos>
-<https://www.youtube.com/c/STOKfredrik/videos>
-<https://gbhackers.com/>
 
 
 # Linux/Bash:
