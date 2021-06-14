@@ -19,6 +19,7 @@ These are some of the useful networking sites that I used to improve my career, 
 <http://www.network-node.com/blog/tag/Career>
 <https://dmfigol.me/blog/becoming-a-better-engineer-study-tips>
 <http://www.definethecloud.net/my-career-my-rules/>
+[How to study network engineering, without feeling guilty for not studying](https://www.networkfuntimes.com/how-to-study-network-engineering-without-feeling-guilty-for-not-studying/)
 <https://www.netacad.com/careers/career-advice/networking-applying-interviewing/seven-ways-to-impress-employers>
 <https://www.netacad.com/careers/career-advice/networking-applying-interviewing/basics-building-your-brilliant-resume>
 [Using Curiosity & Mistakes To Advance Your Career (Day Two Cloud Full Podcast)](https://www.youtube.com/watch?v=YeVFpVvBplA)
@@ -28,13 +29,14 @@ These are some of the useful networking sites that I used to improve my career, 
 ## Group:
 [Routergods](https://www.meetup.com/routergods/) - A great group where you can learn/share/find things that will help your career.
 I've learn it on this videos [Homeless security guard to CCIE: You can't train ambition: Katherine McNamara shares her story](https://www.youtube.com/watch?v=hCRjDwuuQOA)
+[Network to Code](http://slack.networktocode.com/) - If you're into automation/programming stuff then this is the best group for it.
 
 ## Youtube Channels:
 - [NetworkChuck](https://www.youtube.com/user/NetworkChuck/playlists)
 - [David Bombal](https://www.youtube.com/c/DavidBombal/playlists)
 - [This is IT! Show - NetworkChuck and David Bombal](https://www.youtube.com/c/ThisisITShowNetworkChuckandDavidBombal/videos)
 - [Kevin Wallace](https://www.youtube.com/user/kwallaceccie/playlists)
-- [Keeping IT Simple - Jeremy Cioara](https://www.youtube.com/c/KeepingITSimple/videos)
+- [Viatto - Jeremy Cioara](https://www.youtube.com/c/KeepingITSimple/videos)
 - [Keith Barker](https://www.youtube.com/c/KeithBarker/videos)
 - [Orhan Ergun](https://www.youtube.com/channel/UCu4SrOE1vlvOEQh58Ej14tg)
 - [Data Knox](https://www.youtube.com/c/DataKnox/videos)
@@ -45,6 +47,8 @@ I've learn it on this videos [Homeless security guard to CCIE: You can't train a
 - [CHI-NOG](https://www.youtube.com/user/chicagonog)
 - [Packet Pushers](https://www.youtube.com/c/PacketPushersNetwork/videos)
 - [Tech Field Day](https://www.youtube.com/channel/UCSnTTyp4q7jMhwECxXzMAXQ/videos)
+- [Network Collective](https://www.youtube.com/c/NetworkCollective/videos)
+- [Network to Code](https://www.youtube.com/channel/UCwBh-dDdoqzxXKyvTw3BuTw/videos)
 - [iNOG net](https://www.youtube.com/channel/UCBl3zIF_JJZd1iOjvU1ItZw)
 - [USENIX](https://www.youtube.com/user/USENIXAssociation/videos)
 - [Danscourses](https://www.youtube.com/c/danscourses/playlists)
@@ -118,6 +122,33 @@ TEDx -
 [The Art of Network Engineering](https://artofnetworkengineering.com/)
 
 
+# Network Automation Blog and other info:
+<https://github.com/networktocode/awesome-network-automation?fbclid=IwAR03lbnOS4Dkx-n64W1BZ4AE_M2AiJzMcGJjnIEBVpvX8mRnN7E6iz1fKPU>
+<https://natenka.github.io/pyneng-resources-en/>
+<https://github.com/cisco-ie/awesome-network-programmability>
+<https://blog.networktocode.com/>
+<https://nrelabs.io/>
+[Python for network engineers](https://pyneng.readthedocs.io/en/latest/contents.html)
+[Matt Oswalt](https://oswalt.dev/)
+[Dmitry Figol](https://www.youtube.com/channel/UCS8yWZCX-fdxft8yFAffZCg/videos)
+[Roger Perkin](https://www.rogerperkin.co.uk/blog/)
+<https://www.ipspace.net/Main_Page>
+<https://dave.dev/blog/>
+[TTL255 - Przemek Rogala's Blog](https://ttl255.com/)
+<http://networkstatic.net/golang-network-ops/>
+<https://pynet.twb-tech.com/blog/automation/netmiko.html>
+<https://developer.cisco.com/video/net-prog-basics/>
+[Corey Schafer](https://www.youtube.com/user/schafer5/playlists)
+<https://github.com/vinta/awesome-python>
+<https://github.com/coodict/python3-in-one-pic/blob/master/README.md>
+<https://github.com/nleiva/go-links/blob/master/README.md>
+<https://awesome-go.com/>
+<https://karneliuk.com/?post_type=post>
+<https://mirceaulinic.net/>
+<https://www.codecademy.com/>
+[Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw)
+
+
 ## Old CCIE R&S:
  <https://docs.google.com/document/d/1I6h4BrO29kyfrXb9olnE7Y8DEDlyNAZ486_eBlF7wsE/edit>
 <https://www.youtube.com/watch?v=dBjQ9yA9Vos&list=PLUpJskD9Y-AULcvPaPFUXtTn48f-OSWZU>
@@ -156,23 +187,6 @@ NetDevOps -
 [Virtual Private Routed Network Service](https://documentation.nokia.com/html/0_add-h-f/93-0076-10-01/7750_SR_OS_Services_Guide/services_con_vprn.html)
 [Subscriber Redundancy for Routed-CO](https://documentation.nokia.com/html/0_add-h-f/93-0267-HTML/7X50_Advanced_Configuration_Guide/SRRP.html)
 
-# Network Automation Blog and other info:
-<https://github.com/networktocode/awesome-network-automation?fbclid=IwAR03lbnOS4Dkx-n64W1BZ4AE_M2AiJzMcGJjnIEBVpvX8mRnN7E6iz1fKPU>
-<https://blog.networktocode.com/>
-<https://nrelabs.io/>
-[Dmitry Figol](https://www.youtube.com/channel/UCS8yWZCX-fdxft8yFAffZCg/videos)
-<https://www.ipspace.net/Main_Page>
-<https://dave.dev/blog/>
-[TTL255 - Przemek Rogala's Blog](https://ttl255.com/)
-<http://networkstatic.net/golang-network-ops/>
-<https://pynet.twb-tech.com/blog/automation/netmiko.html>
-<https://developer.cisco.com/video/net-prog-basics/>
-[Corey Schafer](https://www.youtube.com/user/schafer5/playlists)
-<https://github.com/coodict/python3-in-one-pic/blob/master/README.md>
-<https://karneliuk.com/?post_type=post>
-<https://mirceaulinic.net/>
-<https://www.codecademy.com/>
-[Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw)
 
 # Wireless:
 [Clear To Send](https://www.cleartosend.net/) [Clear To Send - youtube](https://www.youtube.com/channel/UCYWhT-mlCKl6i4pzd3Pg_dA)
